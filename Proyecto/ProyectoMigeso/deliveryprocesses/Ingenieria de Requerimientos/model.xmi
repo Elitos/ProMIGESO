@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_t6BPIcLUEeWILsC3HqUKxA" guid="_t6BPIcLUEeWILsC3HqUKxA">
+    <resourceDescriptors xmi:id="_t6BPIsLUEeWILsC3HqUKxA" id="-bIF3q4-fQhvOnDOVlqk5Hw" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_t5bZQMLUEeWILsC3HqUKxA" name="Ingenieria de Requerimientos" guid="_t5bZQMLUEeWILsC3HqUKxA">
+    <methodElementProperty xmi:id="_t5bZQsLUEeWILsC3HqUKxA" name="pkg_loadCheck" value="true"/>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_t5bZQcLUEeWILsC3HqUKxA" name="Ingenieria de Requerimientos" guid="_t5bZQcLUEeWILsC3HqUKxA" presentationName="Ingenieria de Requerimientos">
+      <presentation xmi:id="-bIF3q4-fQhvOnDOVlqk5Hw" href="uma://-bIF3q4-fQhvOnDOVlqk5Hw#-bIF3q4-fQhvOnDOVlqk5Hw"/>
+      <defaultContext href="uma://_-qbskcK5EeWDPeiCYtkLkA#_NTb9UMK6EeWDPeiCYtkLkA"/>
+      <validContext href="uma://_-qbskcK5EeWDPeiCYtkLkA#_NTb9UMK6EeWDPeiCYtkLkA"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

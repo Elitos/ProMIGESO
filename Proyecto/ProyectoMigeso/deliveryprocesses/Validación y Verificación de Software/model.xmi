@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_dOv5wMLWEeWILsC3HqUKxA" guid="_dOv5wMLWEeWILsC3HqUKxA">
+    <resourceDescriptors xmi:id="_dOv5wcLWEeWILsC3HqUKxA" id="-BUdkwQH3J4LFOO3NrE2VAA" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_dN6zUMLWEeWILsC3HqUKxA" name="Validación y Verificación de Software" guid="_dN6zUMLWEeWILsC3HqUKxA">
+    <methodElementProperty xmi:id="_dN6zUsLWEeWILsC3HqUKxA" name="pkg_loadCheck" value="true"/>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_dN6zUcLWEeWILsC3HqUKxA" name="Validación y Verificación de Software" guid="_dN6zUcLWEeWILsC3HqUKxA" presentationName="Validación y Verificación de Software">
+      <presentation xmi:id="-BUdkwQH3J4LFOO3NrE2VAA" href="uma://-BUdkwQH3J4LFOO3NrE2VAA#-BUdkwQH3J4LFOO3NrE2VAA"/>
+      <defaultContext href="uma://_-qbskcK5EeWDPeiCYtkLkA#_NTb9UMK6EeWDPeiCYtkLkA"/>
+      <validContext href="uma://_-qbskcK5EeWDPeiCYtkLkA#_NTb9UMK6EeWDPeiCYtkLkA"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

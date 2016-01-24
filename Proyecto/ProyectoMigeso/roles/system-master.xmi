@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-2sFrlbJ4jbhXtDNkiUnldA" name="new_role,_flrgcMLMEeWILsC3HqUKxA" guid="-2sFrlbJ4jbhXtDNkiUnldA" changeDate="2016-01-24T16:37:11.357-0300">
+  <mainDescription>&lt;p&#xD;
+style=&quot;WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(85,85,85); FONT: 18px/29px 'Source Sans Pro', sans-serif; MARGIN: 0px 0px 1.1em; WIDOWS: 1; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px&quot;>&#xD;
+    Caracteristicas:&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(85,85,85); FONT: 18px/29px 'Source Sans Pro', sans-serif; MARGIN: 0px 0px 1.1em; WIDOWS: 1; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px&quot;>&#xD;
+    &lt;font size=&quot;3&quot;>&lt;span&#xD;
+    style=&quot;WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; COLOR: rgb(57,50,44); FONT: 13px 'Helvetica Neue', Arial, Helvetica, sans-serif; WIDOWS: 1; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px&quot;>&#xD;
+    -&lt;/span> &lt;font size=&quot;3&quot;>El Ingeniero en Sistemas Computacionales es el profesional con conocimiento en las áreas de&#xD;
+    sistemas de programación (software) o sistemas electrónicos (hardware), que permiten responder a las diversas&#xD;
+    necesidades que se presentan en el campo de trabajo de la ingeniería en computación.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(85,85,85); FONT: 18px/29px 'Source Sans Pro', sans-serif; MARGIN: 0px 0px 1.1em; WIDOWS: 1; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px&quot;>&#xD;
+    &lt;font size=&quot;3&quot;>- Se encarga de desarrollar nuevos estandares o definir los estandares que se utilizaran en el proceso&#xD;
+    para el desarrollo de software. Como lo son las normas IO-29110.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(85,85,85); FONT: 18px/29px 'Source Sans Pro', sans-serif; MARGIN: 0px 0px 1.1em; WIDOWS: 1; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px&quot;>&#xD;
+    &lt;font size=&quot;3&quot;>- Se encarga de realizar el diseño y modelado del sistema de manera continua y articulada que se&#xD;
+    construlle por cada iteración.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(85,85,85); FONT: 18px/29px 'Source Sans Pro', sans-serif; MARGIN: 0px 0px 1.1em; WIDOWS: 1; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px&quot;>&#xD;
+    &lt;font size=&quot;3&quot;>- Se encarga de definir a niveles de hardware, lo que se necesita para dar soporte al software que se va&#xD;
+    a crear.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; COLOR: rgb(85,85,85); FONT: 18px/29px 'Source Sans Pro', sans-serif; MARGIN: 0px 0px 1.1em; WIDOWS: 1; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px&quot;>&#xD;
+    &lt;font size=&quot;3&quot;>- Debe conocer como funciona el negocio del cliente y cuales son las limitaciones de este.&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  <synonyms>Ingeniero en sistemas</synonyms>
+</org.eclipse.epf.uma:RoleDescription>

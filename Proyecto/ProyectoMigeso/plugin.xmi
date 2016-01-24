@@ -16,6 +16,7 @@
     <resourceDescriptors xmi:id="_YP72ZMLWEeWILsC3HqUKxA" id="_YP72YMLWEeWILsC3HqUKxA" uri="deliveryprocesses/Diseño%20Software/model.xmi"/>
     <resourceDescriptors xmi:id="_dN6zVMLWEeWILsC3HqUKxA" id="_dN6zUMLWEeWILsC3HqUKxA" uri="deliveryprocesses/Validación%20y%20Verificación%20de%20Software/model.xmi"/>
     <resourceDescriptors xmi:id="_lna05MLWEeWILsC3HqUKxA" id="_lna04MLWEeWILsC3HqUKxA" uri="deliveryprocesses/Integración%20Software/model.xmi"/>
+    <resourceDescriptors xmi:id="_nbrD8MLaEeWILsC3HqUKxA" id="-IV0NW0XuGExBfIUsu7RHxg" uri="tasks/captura_requisitos_software.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_e_-QgMK6EeWDPeiCYtkLkA" name="ProyectoMigeso" guid="_e_-QgMK6EeWDPeiCYtkLkA" authors="Elias Gonzalez - Nicol Henriquez">
     <methodElementProperty xmi:id="_e_-Qk8K6EeWDPeiCYtkLkA" name="plugin_synFree" value="true"/>
@@ -41,7 +42,7 @@
             <methodElementProperty xmi:id="_2YM6MMLFEeWILsC3HqUKxA" name="me_edited" value="true"/>
             <presentation xmi:id="-fNgcTEnT6J_xWsZUx8k80w" href="uma://-fNgcTEnT6J_xWsZUx8k80w#-fNgcTEnT6J_xWsZUx8k80w"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_v8ALcMLIEeWILsC3HqUKxA" name="master_project" guid="_v8ALcMLIEeWILsC3HqUKxA" presentationName="Master Project" briefDescription="Jefe de proyecto encargado de liderar al equipo.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_v8ALcMLIEeWILsC3HqUKxA" name="master_project" guid="_v8ALcMLIEeWILsC3HqUKxA" briefDescription="Jefe de proyecto encargado de liderar al equipo.">
             <methodElementProperty xmi:id="_GqqUsMLJEeWILsC3HqUKxA" name="me_edited" value="true"/>
             <presentation xmi:id="-aL9JJEAhxUOv2Y9ruoVA7A" href="uma://-aL9JJEAhxUOv2Y9ruoVA7A#-aL9JJEAhxUOv2Y9ruoVA7A"/>
           </contentElements>
@@ -49,13 +50,17 @@
             <methodElementProperty xmi:id="_MK1mcMLOEeWILsC3HqUKxA" name="me_edited" value="true"/>
             <presentation xmi:id="-v6E512CBtf73OODJQTps-A" href="uma://-v6E512CBtf73OODJQTps-A#-v6E512CBtf73OODJQTps-A"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_flrgcMLMEeWILsC3HqUKxA" name="system-master" guid="_flrgcMLMEeWILsC3HqUKxA" presentationName="System-master" briefDescription="Arquitecto del sistema de software a desarrollar.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_flrgcMLMEeWILsC3HqUKxA" name="system-master" guid="_flrgcMLMEeWILsC3HqUKxA" presentationName="System-master" briefDescription="Arquitecto del sistema de software a desarrollar e Ingeniero de requerimeintos.">
             <methodElementProperty xmi:id="_nVItMMLREeWILsC3HqUKxA" name="me_edited" value="true"/>
             <presentation xmi:id="-2sFrlbJ4jbhXtDNkiUnldA" href="uma://-2sFrlbJ4jbhXtDNkiUnldA#-2sFrlbJ4jbhXtDNkiUnldA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_kRfvUMLMEeWILsC3HqUKxA" name="developer-full" guid="_kRfvUMLMEeWILsC3HqUKxA" presentationName="Developer-full" briefDescription="Desarrollador encargado de codificar, experto en codificar y en la programación.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_kRfvUMLMEeWILsC3HqUKxA" name="developer-full" guid="_kRfvUMLMEeWILsC3HqUKxA" briefDescription="Desarrollador encargado de codificar, experto en codificar y en la programación." variabilityType="extends" variabilityBasedOnElement="_RIrEUMLMEeWILsC3HqUKxA">
             <methodElementProperty xmi:id="_vOuVEMLQEeWILsC3HqUKxA" name="me_edited" value="true"/>
             <presentation xmi:id="-PYjJDeQxyFC_nZJGGzfIWQ" href="uma://-PYjJDeQxyFC_nZJGGzfIWQ#-PYjJDeQxyFC_nZJGGzfIWQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_9Ey98MLZEeWILsC3HqUKxA" name="captura_requisitos_software" guid="_9Ey98MLZEeWILsC3HqUKxA" presentationName="Captura_requisitos_software" briefDescription="Tarea que involucra la captura de requerimientos del cliente respecto al software.">
+            <methodElementProperty xmi:id="_U9lGEMLcEeWILsC3HqUKxA" name="me_edited" value="true"/>
+            <presentation xmi:id="-IV0NW0XuGExBfIUsu7RHxg" href="uma://-IV0NW0XuGExBfIUsu7RHxg#-IV0NW0XuGExBfIUsu7RHxg"/>
           </contentElements>
         </childPackages>
       </childPackages>

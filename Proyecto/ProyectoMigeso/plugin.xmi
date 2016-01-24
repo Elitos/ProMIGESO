@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_e_-QkcK6EeWDPeiCYtkLkA" guid="_e_-QkcK6EeWDPeiCYtkLkA"/>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_e_-QgMK6EeWDPeiCYtkLkA" name="ProyectoMigeso" guid="_e_-QgMK6EeWDPeiCYtkLkA" authors="Elias Gonzalez - Nicol Henriquez">
+    <methodElementProperty xmi:id="_e_-Qk8K6EeWDPeiCYtkLkA" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_e_-QgcK6EeWDPeiCYtkLkA" name="Content" guid="_e_-QgcK6EeWDPeiCYtkLkA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_e_-QgsK6EeWDPeiCYtkLkA" name="Categories" guid="_e_-QgsK6EeWDPeiCYtkLkA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_e_-Qg8K6EeWDPeiCYtkLkA" name="Domains" guid="_e_-Qg8K6EeWDPeiCYtkLkA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_e_-QhMK6EeWDPeiCYtkLkA" name="Disciplines" guid="_e_-QhMK6EeWDPeiCYtkLkA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_e_-QhcK6EeWDPeiCYtkLkA" name="RoleSets" guid="_e_-QhcK6EeWDPeiCYtkLkA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_e_-QhsK6EeWDPeiCYtkLkA" name="WP Types" guid="_e_-QhsK6EeWDPeiCYtkLkA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_e_-Qh8K6EeWDPeiCYtkLkA" name="Tools" guid="_e_-Qh8K6EeWDPeiCYtkLkA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_e_-QiMK6EeWDPeiCYtkLkA" name="StandardCategories" guid="_e_-QiMK6EeWDPeiCYtkLkA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_e_-QicK6EeWDPeiCYtkLkA" name="CustomCategories" guid="_e_-QicK6EeWDPeiCYtkLkA">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_e_-QisK6EeWDPeiCYtkLkA" name="Hidden" guid="_e_-QisK6EeWDPeiCYtkLkA">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_e_-Qi8K6EeWDPeiCYtkLkA" name="Custom Categories" guid="_e_-Qi8K6EeWDPeiCYtkLkA"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_e_-QjMK6EeWDPeiCYtkLkA" name="CoreContent" guid="_e_-QjMK6EeWDPeiCYtkLkA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_po-2kMK6EeWDPeiCYtkLkA" name="Desarrollo Software (Ing Requisitos)" guid="_po-2kMK6EeWDPeiCYtkLkA" briefDescription="Package con tareas y roles asociados a la ingeniería de requerimientos.">
+          <methodElementProperty xmi:id="_po-2kcK6EeWDPeiCYtkLkA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_7m1GwMK7EeWDPeiCYtkLkA" name="me_edited" value="true"/>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_e_-QjcK6EeWDPeiCYtkLkA" name="CapabilityPatterns" guid="_e_-QjcK6EeWDPeiCYtkLkA"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_e_-QjsK6EeWDPeiCYtkLkA" name="DeliveryProcesses" guid="_e_-QjsK6EeWDPeiCYtkLkA"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_e_-Qj8K6EeWDPeiCYtkLkA" name="ProcessContributions" guid="_e_-Qj8K6EeWDPeiCYtkLkA"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

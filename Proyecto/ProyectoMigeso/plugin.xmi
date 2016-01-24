@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
-  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_e_-QkcK6EeWDPeiCYtkLkA" guid="_e_-QkcK6EeWDPeiCYtkLkA"/>
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_e_-QkcK6EeWDPeiCYtkLkA" guid="_e_-QkcK6EeWDPeiCYtkLkA">
+    <resourceDescriptors xmi:id="_2YP9gMLFEeWILsC3HqUKxA" id="-fNgcTEnT6J_xWsZUx8k80w" uri="roles/product_owner.xmi"/>
+    <resourceDescriptors xmi:id="_QWBfYMLMEeWILsC3HqUKxA" id="-aL9JJEAhxUOv2Y9ruoVA7A" uri="roles/master_project.xmi"/>
+    <resourceDescriptors xmi:id="_MK1mcsLOEeWILsC3HqUKxA" id="-v6E512CBtf73OODJQTps-A" uri="roles/developer-master.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_e_-QgMK6EeWDPeiCYtkLkA" name="ProyectoMigeso" guid="_e_-QgMK6EeWDPeiCYtkLkA" authors="Elias Gonzalez - Nicol Henriquez">
     <methodElementProperty xmi:id="_e_-Qk8K6EeWDPeiCYtkLkA" name="plugin_synFree" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_e_-QgcK6EeWDPeiCYtkLkA" name="Content" guid="_e_-QgcK6EeWDPeiCYtkLkA">
@@ -18,9 +22,23 @@
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_e_-QjMK6EeWDPeiCYtkLkA" name="CoreContent" guid="_e_-QjMK6EeWDPeiCYtkLkA">
-        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_po-2kMK6EeWDPeiCYtkLkA" name="Desarrollo Software (Ing Requisitos)" guid="_po-2kMK6EeWDPeiCYtkLkA" briefDescription="Package con tareas y roles asociados a la ingeniería de requerimientos.">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_po-2kMK6EeWDPeiCYtkLkA" name="Desarrollo Software" guid="_po-2kMK6EeWDPeiCYtkLkA" briefDescription="Package con tareas y roles asociados a la ingeniería de requerimientos.">
           <methodElementProperty xmi:id="_po-2kcK6EeWDPeiCYtkLkA" name="pkg_loadCheck" value="true"/>
           <methodElementProperty xmi:id="_7m1GwMK7EeWDPeiCYtkLkA" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_V3QM8MLEEeWILsC3HqUKxA" name="product_owner" guid="_V3QM8MLEEeWILsC3HqUKxA" presentationName="Product Owner" briefDescription="Persona que representa al cliente y sus intereses.">
+            <methodElementProperty xmi:id="_2YM6MMLFEeWILsC3HqUKxA" name="me_edited" value="true"/>
+            <presentation xmi:id="-fNgcTEnT6J_xWsZUx8k80w" href="uma://-fNgcTEnT6J_xWsZUx8k80w#-fNgcTEnT6J_xWsZUx8k80w"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_v8ALcMLIEeWILsC3HqUKxA" name="master_project" guid="_v8ALcMLIEeWILsC3HqUKxA" presentationName="Master Project" briefDescription="Jefe de proyecto encargado de liderar al equipo.">
+            <methodElementProperty xmi:id="_GqqUsMLJEeWILsC3HqUKxA" name="me_edited" value="true"/>
+            <presentation xmi:id="-aL9JJEAhxUOv2Y9ruoVA7A" href="uma://-aL9JJEAhxUOv2Y9ruoVA7A#-aL9JJEAhxUOv2Y9ruoVA7A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_RIrEUMLMEeWILsC3HqUKxA" name="developer-master" guid="_RIrEUMLMEeWILsC3HqUKxA" presentationName="Developer-master" briefDescription="Desarrollador senior encargado de apoyar, supervisar y controlar a desarrolladores juniors.">
+            <methodElementProperty xmi:id="_MK1mcMLOEeWILsC3HqUKxA" name="me_edited" value="true"/>
+            <presentation xmi:id="-v6E512CBtf73OODJQTps-A" href="uma://-v6E512CBtf73OODJQTps-A#-v6E512CBtf73OODJQTps-A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_flrgcMLMEeWILsC3HqUKxA" name="system-master" guid="_flrgcMLMEeWILsC3HqUKxA" presentationName="System-master"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_kRfvUMLMEeWILsC3HqUKxA" name="developer-junior" guid="_kRfvUMLMEeWILsC3HqUKxA" presentationName="Developer-junior"/>
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_e_-QjcK6EeWDPeiCYtkLkA" name="CapabilityPatterns" guid="_e_-QjcK6EeWDPeiCYtkLkA"/>

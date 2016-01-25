@@ -22,5 +22,4 @@
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ContentPackage" href="uma://_JssFAML6EeWVhKEGb2fz_g#_JssFCsL6EeWVhKEGb2fz_g"/>
   <methodPackageSelection xsi:type="org.eclipse.epf.uma:ProcessComponent" href="uma://_pPadMMMAEeWVhKEGb2fz_g#_pPadMMMAEeWVhKEGb2fz_g"/>
   <processViews xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_JssFAML6EeWVhKEGb2fz_g#_8KM68ML6EeWVhKEGb2fz_g"/>
-  <processViews xsi:type="org.eclipse.epf.uma:CustomCategory" href="uma://_JssFAML6EeWVhKEGb2fz_g#_OutlsMMAEeWVhKEGb2fz_g"/>
 </org.eclipse.epf.uma:MethodConfiguration>

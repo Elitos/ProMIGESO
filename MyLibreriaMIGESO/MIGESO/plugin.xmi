@@ -7,28 +7,66 @@
     <resourceDescriptors xmi:id="_mMH9QsL-EeWVhKEGb2fz_g" id="-XlrLvr83V6dEaiA7fkYe2g" uri="roles/master-project.xmi"/>
     <resourceDescriptors xmi:id="_LpjBAML_EeWVhKEGb2fz_g" id="-oSqMItuz-XIu07mDnU32Ng" uri="roles/developer-master.xmi"/>
     <resourceDescriptors xmi:id="_jYxPYsL_EeWVhKEGb2fz_g" id="-1O0n4jq0PbcDwWgt0tuTxw" uri="roles/developer-full.xmi"/>
-    <resourceDescriptors xmi:id="_pPadNMMAEeWVhKEGb2fz_g" id="_pPadMMMAEeWVhKEGb2fz_g" uri="deliveryprocesses/CicloSoftware/model.xmi"/>
+    <resourceDescriptors xmi:id="_pPadNMMAEeWVhKEGb2fz_g" id="_pPadMMMAEeWVhKEGb2fz_g" uri="deliveryprocesses/Ciclo%20Software/model.xmi"/>
+    <resourceDescriptors xmi:id="_UcB28MOGEeWQoKPojk0Sew" id="-z7_LesITEwdJj6FM07Jsow" uri="guidances/reports/introduccion_a_openmigeso.xmi"/>
+    <resourceDescriptors xmi:id="_YG-jEcOkEeWQoKPojk0Sew" id="-7ZLS5uMOpUny1Kh6V5L4ug" uri="guidances/concepts/guia_conceptos_usuario.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_JssFAML6EeWVhKEGb2fz_g" name="MIGESO" guid="_JssFAML6EeWVhKEGb2fz_g">
     <methodElementProperty xmi:id="_Js12AML6EeWVhKEGb2fz_g" name="plugin_synFree" value="true"/>
     <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFAcL6EeWVhKEGb2fz_g" name="Content" guid="_JssFAcL6EeWVhKEGb2fz_g">
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFAsL6EeWVhKEGb2fz_g" name="Categories" guid="_JssFAsL6EeWVhKEGb2fz_g">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFA8L6EeWVhKEGb2fz_g" name="Domains" guid="_JssFA8L6EeWVhKEGb2fz_g"/>
-        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFBML6EeWVhKEGb2fz_g" name="Disciplines" guid="_JssFBML6EeWVhKEGb2fz_g"/>
-        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFBcL6EeWVhKEGb2fz_g" name="RoleSets" guid="_JssFBcL6EeWVhKEGb2fz_g"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFBML6EeWVhKEGb2fz_g" name="Disciplines" guid="_JssFBML6EeWVhKEGb2fz_g">
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_DViXcMODEeWQoKPojk0Sew" name="Iniciación proyecto" guid="_DViXcMODEeWQoKPojk0Sew" presentationName="Iniciación proyecto">
+            <methodElementProperty xmi:id="_EPL8QMODEeWQoKPojk0Sew" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_HY2b4MODEeWQoKPojk0Sew" name="Tareas x Fase" guid="_HY2b4MODEeWQoKPojk0Sew" presentationName="Tareas x Fase" briefDescription="Lista de tareas organizadas por fase." disciplines="_aH-NcMODEeWQoKPojk0Sew _ePeOUMODEeWQoKPojk0Sew _DViXcMODEeWQoKPojk0Sew">
+            <methodElementProperty xmi:id="_KMZhkMODEeWQoKPojk0Sew" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_aH-NcMODEeWQoKPojk0Sew" name="desarrollo_proyecto" guid="_aH-NcMODEeWQoKPojk0Sew" presentationName="Desarrollo Proyecto" tasks="_mfh-QML6EeWVhKEGb2fz_g">
+            <methodElementProperty xmi:id="_cgmRsMODEeWQoKPojk0Sew" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_ePeOUMODEeWQoKPojk0Sew" name="implantacin_proyecto" guid="_ePeOUMODEeWQoKPojk0Sew" presentationName="Implantación Proyecto">
+            <methodElementProperty xmi:id="_j-Ev4MODEeWQoKPojk0Sew" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_Hc-4gMOEEeWQoKPojk0Sew" name="Tareas x Proceso" guid="_Hc-4gMOEEeWQoKPojk0Sew" presentationName="Tareas x Proceso" disciplines="_P0gkIMOEEeWQoKPojk0Sew _SrLPQMOEEeWQoKPojk0Sew _VNFLUMOEEeWQoKPojk0Sew _aZ_8IMOEEeWQoKPojk0Sew _ez1DIMOEEeWQoKPojk0Sew">
+            <methodElementProperty xmi:id="_MCY9YMOEEeWQoKPojk0Sew" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_P0gkIMOEEeWQoKPojk0Sew" name="Ingenieria de requerimientos" guid="_P0gkIMOEEeWQoKPojk0Sew" presentationName="Ingenieria de requerimientos">
+            <methodElementProperty xmi:id="_SIv3oMOEEeWQoKPojk0Sew" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_SrLPQMOEEeWQoKPojk0Sew" name="Diseo Software" guid="_SrLPQMOEEeWQoKPojk0Sew" presentationName="Diseño Software">
+            <methodElementProperty xmi:id="_UvGO0MOEEeWQoKPojk0Sew" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_VNFLUMOEEeWQoKPojk0Sew" name="Implementacion Software" guid="_VNFLUMOEEeWQoKPojk0Sew" presentationName="Implementación Software">
+            <methodElementProperty xmi:id="_YboK8MOEEeWQoKPojk0Sew" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_aZ_8IMOEEeWQoKPojk0Sew" name="validacin y verificacin" guid="_aZ_8IMOEEeWQoKPojk0Sew" presentationName="Validación y Verificación">
+            <methodElementProperty xmi:id="_dnADoMOEEeWQoKPojk0Sew" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_ez1DIMOEEeWQoKPojk0Sew" name="integracin software" guid="_ez1DIMOEEeWQoKPojk0Sew" presentationName="Integración Software">
+            <methodElementProperty xmi:id="_htmFkMOEEeWQoKPojk0Sew" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFBcL6EeWVhKEGb2fz_g" name="RoleSets" guid="_JssFBcL6EeWVhKEGb2fz_g">
+          <contentElements xsi:type="org.eclipse.epf.uma:RoleSet" xmi:id="_jT7cIMOCEeWQoKPojk0Sew" name="roles" guid="_jT7cIMOCEeWQoKPojk0Sew" presentationName="Roles" roles="_TxBecML_EeWVhKEGb2fz_g _13K50ML-EeWVhKEGb2fz_g _PlXLwML-EeWVhKEGb2fz_g _fMg8QML9EeWVhKEGb2fz_g _TVRI0ML6EeWVhKEGb2fz_g">
+            <methodElementProperty xmi:id="_l34moMOCEeWQoKPojk0Sew" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFBsL6EeWVhKEGb2fz_g" name="WP Types" guid="_JssFBsL6EeWVhKEGb2fz_g"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFB8L6EeWVhKEGb2fz_g" name="Tools" guid="_JssFB8L6EeWVhKEGb2fz_g"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFCML6EeWVhKEGb2fz_g" name="StandardCategories" guid="_JssFCML6EeWVhKEGb2fz_g"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFCcL6EeWVhKEGb2fz_g" name="CustomCategories" guid="_JssFCcL6EeWVhKEGb2fz_g">
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFCsL6EeWVhKEGb2fz_g" name="Hidden" guid="_JssFCsL6EeWVhKEGb2fz_g">
-            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_JssFC8L6EeWVhKEGb2fz_g" name="Custom Categories" guid="_JssFC8L6EeWVhKEGb2fz_g" categorizedElements="_8KM68ML6EeWVhKEGb2fz_g _OutlsMMAEeWVhKEGb2fz_g"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_JssFC8L6EeWVhKEGb2fz_g" name="Custom Categories" guid="_JssFC8L6EeWVhKEGb2fz_g" categorizedElements="_8KM68ML6EeWVhKEGb2fz_g"/>
           </childPackages>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_8KM68ML6EeWVhKEGb2fz_g" name="migeso_roles" guid="_8KM68ML6EeWVhKEGb2fz_g" presentationName="MIGESO_ROLES" categorizedElements="_TVRI0ML6EeWVhKEGb2fz_g _TxBecML_EeWVhKEGb2fz_g _13K50ML-EeWVhKEGb2fz_g _PlXLwML-EeWVhKEGb2fz_g _fMg8QML9EeWVhKEGb2fz_g">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_8KM68ML6EeWVhKEGb2fz_g" name="migeso" guid="_8KM68ML6EeWVhKEGb2fz_g" presentationName="MIGESO">
             <methodElementProperty xmi:id="_9F0OoML6EeWVhKEGb2fz_g" name="me_edited" value="true"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_OutlsMMAEeWVhKEGb2fz_g" name="fases_procesos" guid="_OutlsMMAEeWVhKEGb2fz_g" presentationName="fases_procesos">
-            <methodElementProperty xmi:id="_TZgg4MMAEeWVhKEGb2fz_g" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Report" href="#_etOPYMOFEeWQoKPojk0Sew"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_pPadMMMAEeWVhKEGb2fz_g#_pPadMcMAEeWVhKEGb2fz_g"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:RoleSet" href="#_jT7cIMOCEeWQoKPojk0Sew"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" href="#_HY2b4MODEeWQoKPojk0Sew"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" href="#_Hc-4gMOEEeWQoKPojk0Sew"/>
           </contentElements>
         </childPackages>
       </childPackages>
@@ -61,6 +99,14 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_TxBecML_EeWVhKEGb2fz_g" name="developer-full" guid="_TxBecML_EeWVhKEGb2fz_g" presentationName="Developer-Full" briefDescription="Desarrollador encargado de codificar, experto en codificar y en la programación.">
             <methodElementProperty xmi:id="_jYxPYML_EeWVhKEGb2fz_g" name="me_edited" value="true"/>
             <presentation xmi:id="-1O0n4jq0PbcDwWgt0tuTxw" href="uma://-1O0n4jq0PbcDwWgt0tuTxw#-1O0n4jq0PbcDwWgt0tuTxw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Report" xmi:id="_etOPYMOFEeWQoKPojk0Sew" name="introduccion_a_openmigeso" guid="_etOPYMOFEeWQoKPojk0Sew" presentationName="Introduccion a OpenMIGESO" briefDescription="Introcucción a OpenMIGESO....." shapeicon="guidances/reports/resources/OpenMigeso.JPG">
+            <methodElementProperty xmi:id="_hhEQAMOFEeWQoKPojk0Sew" name="me_edited" value="true"/>
+            <presentation xmi:id="-z7_LesITEwdJj6FM07Jsow" href="uma://-z7_LesITEwdJj6FM07Jsow#-z7_LesITEwdJj6FM07Jsow"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_3NpyEMOiEeWQoKPojk0Sew" name="guia_conceptos_usuario" guid="_3NpyEMOiEeWQoKPojk0Sew" presentationName="Guia Conceptos Usuario" briefDescription="Se describen los conceptos con los que se debe familiarizar el usuario de OpenMIGESO.">
+            <methodElementProperty xmi:id="_EfgpsMOjEeWQoKPojk0Sew" name="me_edited" value="true"/>
+            <presentation xmi:id="-7ZLS5uMOpUny1Kh6V5L4ug" href="uma://-7ZLS5uMOpUny1Kh6V5L4ug#-7ZLS5uMOpUny1Kh6V5L4ug"/>
           </contentElements>
         </childPackages>
       </childPackages>

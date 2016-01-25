@@ -1,16 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
   <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-mnnGIwlpLAFjKPQC-AW4Ag" name="CicloSoftware,_pPadMcMAEeWVhKEGb2fz_g" guid="-mnnGIwlpLAFjKPQC-AW4Ag">
-    <mainDescription>A continuacion se describe el ciclo de vida del software. Comienza por una fase de iniciacion del proyecto en la cual se&#xD;
-define la vision y alcance del proyecto y de que manera se trabajara con el cliente. Luego biene la fase de desarrollo del&#xD;
-proyecto donde se ve la toma de requerimientos y su gestion, tambien en esta fase se ve el diseño del sistema a desarrollar&#xD;
-de forma que los requisitos que de planteen en esta fase iterativa de puedan integrar en cada iteracion, generando sistemas&#xD;
-robustos y escalables. Luego esta la parte de implementacion que involucra el desarrollo puro de software donde se&#xD;
-codifican las funcionalidades del software y se integra a bajo nivel. Despues se valida y verifican las funcionalidades&#xD;
-implementadas medainte test de diversos tipos. Para finalizar se integra a alto nivel el software producido dejando listo&#xD;
-el sistema para las posteriores implementaciones.</mainDescription>
+    <mainDescription>&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+        &lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+            &lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+                &lt;p style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+                    &lt;img alt=&quot;Diagrama Ciclo vida del Software: Fases&quot; src=&quot;resources/CicloSoftware.JPG&quot; width=&quot;600&quot;&#xD;
+                    height=&quot;420&quot; />&#xD;
+                &lt;/p>&#xD;
+                &lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+                    &lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+                        &lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+                            &lt;p style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+                                &lt;br />&#xD;
+                                &amp;nbsp;&#xD;
+                            &lt;/p>&#xD;
+                        &lt;/blockquote>&#xD;
+                    &lt;/blockquote>&#xD;
+                &lt;/blockquote>&#xD;
+            &lt;/blockquote>&#xD;
+        &lt;/blockquote>&#xD;
+    &lt;/blockquote>&#xD;
+&lt;/blockquote>&#xD;
+&lt;p style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    A continuacion se describe el ciclo de vida del software. Comienza por una fase de iniciacion del proyecto en la cual&#xD;
+    se define la vision y alcance del proyecto y de que manera se trabajara con el cliente. Luego biene la fase de&#xD;
+    desarrollo del proyecto donde se ve la toma de requerimientos y su gestion, tambien en esta fase se ve el diseño del&#xD;
+    sistema a desarrollar de forma que los requisitos que de planteen en esta fase iterativa de puedan integrar en cada&#xD;
+    iteracion, generando sistemas robustos y escalables. Luego esta la parte de implementacion que involucra el desarrollo&#xD;
+    puro de software donde se codifican las funcionalidades del software y se integra a bajo nivel. Despues se valida y&#xD;
+    verifican las funcionalidades implementadas medainte test de diversos tipos. Para finalizar se integra a alto nivel el&#xD;
+    software producido dejando listo el sistema para las posteriores implementaciones.&#xD;
+&lt;/p>&#xD;
+&lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+        &lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+            &lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+                &lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
+                    &lt;p>&#xD;
+                        &lt;img alt=&quot;&quot; src=&quot;resources/DescripcionFases.JPG&quot; width=&quot;508&quot; height=&quot;600&quot; />&#xD;
+                    &lt;/p>&#xD;
+                &lt;/blockquote>&#xD;
+            &lt;/blockquote>&#xD;
+        &lt;/blockquote>&#xD;
+    &lt;/blockquote>&#xD;
+&lt;/blockquote></mainDescription>
     <purpose>&lt;p>&#xD;
-    Definir un proceso de desarrollo de software para generar un software de calida.&#xD;
+    &lt;b id=&quot;docs-internal-guid-678b3b76-7993-3a7a-58cf-b474565a46c0&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 12px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    El propósito de definir un proceso de desarrollo de software, es buscar crear un software con determinadas cualidades&#xD;
+    positivas como lo es la escalabilidad y seguridad, además de ahorrar recursos y realizar el proyecto en un tiempo&#xD;
+    adecuado. Otro objetivo que tiene el desarrollo de procesos de software es que este cumpla con lo que necesita el&#xD;
+    cliente y además el cliente lo utilice.&lt;/span>&lt;/b>&#xD;
 &lt;/p></purpose>
   </org.eclipse.epf.uma:DeliveryProcessDescription>
   <org.eclipse.epf.uma:DescriptorDescription xmi:id="-6AnGQFyEv-4QsG2lXmcEbg" name="system-master,_bH0lgcMCEeWVhKEGb2fz_g" guid="-6AnGQFyEv-4QsG2lXmcEbg">

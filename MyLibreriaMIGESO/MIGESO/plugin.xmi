@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_JssFEcL6EeWVhKEGb2fz_g" guid="_JssFEcL6EeWVhKEGb2fz_g">
+    <resourceDescriptors xmi:id="_ejP80cL9EeWVhKEGb2fz_g" id="-333M24MNLRxRH-zuBtMDDg" uri="roles/system-master.xmi"/>
+    <resourceDescriptors xmi:id="_FQOj8sL-EeWVhKEGb2fz_g" id="-Q-mgsF7H03VrEjOEm_oizA" uri="roles/product_owner.xmi"/>
+    <resourceDescriptors xmi:id="_mMH9QsL-EeWVhKEGb2fz_g" id="-XlrLvr83V6dEaiA7fkYe2g" uri="roles/master-project.xmi"/>
+    <resourceDescriptors xmi:id="_LpjBAML_EeWVhKEGb2fz_g" id="-oSqMItuz-XIu07mDnU32Ng" uri="roles/developer-master.xmi"/>
+    <resourceDescriptors xmi:id="_jYxPYsL_EeWVhKEGb2fz_g" id="-1O0n4jq0PbcDwWgt0tuTxw" uri="roles/developer-full.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_JssFAML6EeWVhKEGb2fz_g" name="MIGESO" guid="_JssFAML6EeWVhKEGb2fz_g">
+    <methodElementProperty xmi:id="_Js12AML6EeWVhKEGb2fz_g" name="plugin_synFree" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFAcL6EeWVhKEGb2fz_g" name="Content" guid="_JssFAcL6EeWVhKEGb2fz_g">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFAsL6EeWVhKEGb2fz_g" name="Categories" guid="_JssFAsL6EeWVhKEGb2fz_g">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFA8L6EeWVhKEGb2fz_g" name="Domains" guid="_JssFA8L6EeWVhKEGb2fz_g"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFBML6EeWVhKEGb2fz_g" name="Disciplines" guid="_JssFBML6EeWVhKEGb2fz_g"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFBcL6EeWVhKEGb2fz_g" name="RoleSets" guid="_JssFBcL6EeWVhKEGb2fz_g"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFBsL6EeWVhKEGb2fz_g" name="WP Types" guid="_JssFBsL6EeWVhKEGb2fz_g"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFB8L6EeWVhKEGb2fz_g" name="Tools" guid="_JssFB8L6EeWVhKEGb2fz_g"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFCML6EeWVhKEGb2fz_g" name="StandardCategories" guid="_JssFCML6EeWVhKEGb2fz_g"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFCcL6EeWVhKEGb2fz_g" name="CustomCategories" guid="_JssFCcL6EeWVhKEGb2fz_g">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFCsL6EeWVhKEGb2fz_g" name="Hidden" guid="_JssFCsL6EeWVhKEGb2fz_g">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_JssFC8L6EeWVhKEGb2fz_g" name="Custom Categories" guid="_JssFC8L6EeWVhKEGb2fz_g" categorizedElements="_8KM68ML6EeWVhKEGb2fz_g"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_8KM68ML6EeWVhKEGb2fz_g" name="new_custom_category_migeso" guid="_8KM68ML6EeWVhKEGb2fz_g" presentationName="new_custom_category_MIGESO" categorizedElements="_mfh-QML6EeWVhKEGb2fz_g _vn-wgML6EeWVhKEGb2fz_g _TVRI0ML6EeWVhKEGb2fz_g">
+            <methodElementProperty xmi:id="_9F0OoML6EeWVhKEGb2fz_g" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFDML6EeWVhKEGb2fz_g" name="CoreContent" guid="_JssFDML6EeWVhKEGb2fz_g">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_PLyK8ML6EeWVhKEGb2fz_g" name="my_content_package_migeso" guid="_PLyK8ML6EeWVhKEGb2fz_g" presentationName="My_Content_Package_MIGESO">
+          <methodElementProperty xmi:id="_PLyK8cL6EeWVhKEGb2fz_g" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_SeeqwML6EeWVhKEGb2fz_g" name="me_edited" value="true"/>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_TVRI0ML6EeWVhKEGb2fz_g" name="system-master" guid="_TVRI0ML6EeWVhKEGb2fz_g" presentationName="System-Master" briefDescription="Arquitecto del sistema de software a desarrollar e Ingeniero de requerimeintos.">
+            <methodElementProperty xmi:id="_iTpzsML6EeWVhKEGb2fz_g" name="me_edited" value="true"/>
+            <presentation xmi:id="-333M24MNLRxRH-zuBtMDDg" href="uma://-333M24MNLRxRH-zuBtMDDg#-333M24MNLRxRH-zuBtMDDg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_mfh-QML6EeWVhKEGb2fz_g" name="captura_requisitos" guid="_mfh-QML6EeWVhKEGb2fz_g" presentationName="Captura_requisitos" performedBy="_TVRI0ML6EeWVhKEGb2fz_g" mandatoryInput="_vn-wgML6EeWVhKEGb2fz_g" output="_vn-wgML6EeWVhKEGb2fz_g">
+            <methodElementProperty xmi:id="_ocTM8ML6EeWVhKEGb2fz_g" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_vn-wgML6EeWVhKEGb2fz_g" name="planilla_requisitos" guid="_vn-wgML6EeWVhKEGb2fz_g" presentationName="Planilla_requisitos">
+            <methodElementProperty xmi:id="_w604cML6EeWVhKEGb2fz_g" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_fMg8QML9EeWVhKEGb2fz_g" name="product_owner" guid="_fMg8QML9EeWVhKEGb2fz_g" presentationName="Product_Owner" briefDescription="Persona que representa al cliente y sus intereses.&#xD;&#xA;">
+            <methodElementProperty xmi:id="_FQOj8ML-EeWVhKEGb2fz_g" name="me_edited" value="true"/>
+            <presentation xmi:id="-Q-mgsF7H03VrEjOEm_oizA" href="uma://-Q-mgsF7H03VrEjOEm_oizA#-Q-mgsF7H03VrEjOEm_oizA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_PlXLwML-EeWVhKEGb2fz_g" name="master-project" guid="_PlXLwML-EeWVhKEGb2fz_g" presentationName="Master-Project" briefDescription="Jefe de proyecto encargado de liderar al equipo.">
+            <methodElementProperty xmi:id="_mMH9QML-EeWVhKEGb2fz_g" name="me_edited" value="true"/>
+            <presentation xmi:id="-XlrLvr83V6dEaiA7fkYe2g" href="uma://-XlrLvr83V6dEaiA7fkYe2g#-XlrLvr83V6dEaiA7fkYe2g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_13K50ML-EeWVhKEGb2fz_g" name="developer-master" guid="_13K50ML-EeWVhKEGb2fz_g" presentationName="Developer-Master" briefDescription="Desarrollador senior encargado de apoyar, supervisar y controlar a desarrolladores juniors.">
+            <methodElementProperty xmi:id="_Lpf9sML_EeWVhKEGb2fz_g" name="me_edited" value="true"/>
+            <presentation xmi:id="-oSqMItuz-XIu07mDnU32Ng" href="uma://-oSqMItuz-XIu07mDnU32Ng#-oSqMItuz-XIu07mDnU32Ng"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_TxBecML_EeWVhKEGb2fz_g" name="developer-full" guid="_TxBecML_EeWVhKEGb2fz_g" presentationName="Developer-Full" briefDescription="Desarrollador encargado de codificar, experto en codificar y en la programación.">
+            <methodElementProperty xmi:id="_jYxPYML_EeWVhKEGb2fz_g" name="me_edited" value="true"/>
+            <presentation xmi:id="-1O0n4jq0PbcDwWgt0tuTxw" href="uma://-1O0n4jq0PbcDwWgt0tuTxw#-1O0n4jq0PbcDwWgt0tuTxw"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_JssFDcL6EeWVhKEGb2fz_g" name="CapabilityPatterns" guid="_JssFDcL6EeWVhKEGb2fz_g"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_JssFDsL6EeWVhKEGb2fz_g" name="DeliveryProcesses" guid="_JssFDsL6EeWVhKEGb2fz_g"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_JssFD8L6EeWVhKEGb2fz_g" name="ProcessContributions" guid="_JssFD8L6EeWVhKEGb2fz_g"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

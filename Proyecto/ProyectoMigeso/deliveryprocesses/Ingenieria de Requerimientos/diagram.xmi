@@ -300,4 +300,54 @@
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_WCv8ZsLyEeWILsC3HqUKxA" points="[45, -4, -103, -4]$[106, -24, -42, -24]"/>
     </edges>
   </notation:Diagram>
+  <uml:Activity xmi:id="_X0XrAMLyEeWILsC3HqUKxA" name="Cierre toma requerimientos">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_X0XrAcLyEeWILsC3HqUKxA" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_X0XrAsLyEeWILsC3HqUKxA" key="uri" value="uma://_t5bZQMLUEeWILsC3HqUKxA#_9dZmAMLrEeWILsC3HqUKxA"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_X0XrA8LyEeWILsC3HqUKxA" key="type" value="Activity"/>
+    </eAnnotations>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_X00W8MLyEeWILsC3HqUKxA" name="Coordinar reunion con Cliente" outgoing="_YYu8UMLyEeWILsC3HqUKxA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_X00W8cLyEeWILsC3HqUKxA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_X00W8sLyEeWILsC3HqUKxA" key="uri" value="uma://_t5bZQMLUEeWILsC3HqUKxA#_ErYPoMLsEeWILsC3HqUKxA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_X00W88LyEeWILsC3HqUKxA" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_X00W9MLyEeWILsC3HqUKxA" name="Revisar requerimeintos y linea Base" incoming="_YYu8UMLyEeWILsC3HqUKxA">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_X00W9cLyEeWILsC3HqUKxA" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_X00W9sLyEeWILsC3HqUKxA" key="uri" value="uma://_t5bZQMLUEeWILsC3HqUKxA#_HsJR8MLsEeWILsC3HqUKxA"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_X00W98LyEeWILsC3HqUKxA" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_YYu8UMLyEeWILsC3HqUKxA" source="_X00W8MLyEeWILsC3HqUKxA" target="_X00W9MLyEeWILsC3HqUKxA"/>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_X0XrBMLyEeWILsC3HqUKxA" type="AD" element="_X0XrAMLyEeWILsC3HqUKxA" name="Cierre toma requerimientos" measurementUnit="Pixel">
+    <children xmi:type="notation:Node" xmi:id="_X00W-MLyEeWILsC3HqUKxA" type="1009" element="_X00W8MLyEeWILsC3HqUKxA">
+      <children xmi:type="notation:Node" xmi:id="_X00W_sLyEeWILsC3HqUKxA" type="4008"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_X00W-cLyEeWILsC3HqUKxA" fontName="Arial" fontHeight="8"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_X00W-sLyEeWILsC3HqUKxA"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_X00W-8LyEeWILsC3HqUKxA"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_X00W_MLyEeWILsC3HqUKxA" lineColor="0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_X00W_cLyEeWILsC3HqUKxA"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_X00W_8LyEeWILsC3HqUKxA" type="1009" element="_X00W9MLyEeWILsC3HqUKxA">
+      <children xmi:type="notation:Node" xmi:id="_X00XBcLyEeWILsC3HqUKxA" type="4008"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_X00XAMLyEeWILsC3HqUKxA" fontName="Arial" fontHeight="8"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_X00XAcLyEeWILsC3HqUKxA"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_X00XAsLyEeWILsC3HqUKxA"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_X00XA8LyEeWILsC3HqUKxA" lineColor="0"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_X00XBMLyEeWILsC3HqUKxA" x="203"/>
+    </children>
+    <styles xmi:type="notation:PageStyle" xmi:id="_X0XrBcLyEeWILsC3HqUKxA"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_X0XrBsLyEeWILsC3HqUKxA"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_X0XrB8LyEeWILsC3HqUKxA"/>
+    <edges xmi:type="notation:Edge" xmi:id="_YYu8UsLyEeWILsC3HqUKxA" type="3001" element="_YYu8UMLyEeWILsC3HqUKxA" source="_X00W-MLyEeWILsC3HqUKxA" target="_X00W_8LyEeWILsC3HqUKxA">
+      <children xmi:type="notation:Node" xmi:id="_YYu8V8LyEeWILsC3HqUKxA" type="4012">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_YYu8WMLyEeWILsC3HqUKxA" y="40"/>
+      </children>
+      <styles xmi:type="notation:RoutingStyle" xmi:id="_YYu8U8LyEeWILsC3HqUKxA"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_YYu8VMLyEeWILsC3HqUKxA" fontName="Arial" fontHeight="8"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_YYu8VcLyEeWILsC3HqUKxA" lineColor="0"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_YYu8VsLyEeWILsC3HqUKxA" points="[70, 3, -147, -11]$[291, -10, 74, -24]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_YYu8WcLyEeWILsC3HqUKxA" id="(0.5104895104895105,0.20408163265306123)"/>
+    </edges>
+  </notation:Diagram>
 </xmi:XMI>

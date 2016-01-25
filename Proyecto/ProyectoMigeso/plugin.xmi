@@ -6,6 +6,7 @@
     <subManagers xmi:id="_YQ0nMcLWEeWILsC3HqUKxA" href="uma://_YP72YMLWEeWILsC3HqUKxA#_YQ0nMcLWEeWILsC3HqUKxA"/>
     <subManagers xmi:id="_dOv5wMLWEeWILsC3HqUKxA" href="uma://_dN6zUMLWEeWILsC3HqUKxA#_dOv5wMLWEeWILsC3HqUKxA"/>
     <subManagers xmi:id="_loKbwcLWEeWILsC3HqUKxA" href="uma://_lna04MLWEeWILsC3HqUKxA#_loKbwcLWEeWILsC3HqUKxA"/>
+    <subManagers xmi:id="_PPN2QcL2EeWILsC3HqUKxA" href="uma://_POePYML2EeWILsC3HqUKxA#_PPN2QcL2EeWILsC3HqUKxA"/>
     <resourceDescriptors xmi:id="_2YP9gMLFEeWILsC3HqUKxA" id="-fNgcTEnT6J_xWsZUx8k80w" uri="roles/product_owner.xmi"/>
     <resourceDescriptors xmi:id="_QWBfYMLMEeWILsC3HqUKxA" id="-aL9JJEAhxUOv2Y9ruoVA7A" uri="roles/master_project.xmi"/>
     <resourceDescriptors xmi:id="_MK1mcsLOEeWILsC3HqUKxA" id="-v6E512CBtf73OODJQTps-A" uri="roles/developer-master.xmi"/>
@@ -17,6 +18,7 @@
     <resourceDescriptors xmi:id="_dN6zVMLWEeWILsC3HqUKxA" id="_dN6zUMLWEeWILsC3HqUKxA" uri="deliveryprocesses/Validación%20y%20Verificación%20de%20Software/model.xmi"/>
     <resourceDescriptors xmi:id="_lna05MLWEeWILsC3HqUKxA" id="_lna04MLWEeWILsC3HqUKxA" uri="deliveryprocesses/Integración%20Software/model.xmi"/>
     <resourceDescriptors xmi:id="_nbrD8MLaEeWILsC3HqUKxA" id="-IV0NW0XuGExBfIUsu7RHxg" uri="tasks/captura_requisitos_software.xmi"/>
+    <resourceDescriptors xmi:id="_POoAYML2EeWILsC3HqUKxA" id="_POePYML2EeWILsC3HqUKxA" uri="deliveryprocesses/CicloSoft/model.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_e_-QgMK6EeWDPeiCYtkLkA" name="ProyectoMigeso" guid="_e_-QgMK6EeWDPeiCYtkLkA" authors="Elias Gonzalez - Nicol Henriquez">
     <methodElementProperty xmi:id="_e_-Qk8K6EeWDPeiCYtkLkA" name="plugin_synFree" value="true"/>
@@ -30,8 +32,11 @@
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_e_-QiMK6EeWDPeiCYtkLkA" name="StandardCategories" guid="_e_-QiMK6EeWDPeiCYtkLkA"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_e_-QicK6EeWDPeiCYtkLkA" name="CustomCategories" guid="_e_-QicK6EeWDPeiCYtkLkA">
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_e_-QisK6EeWDPeiCYtkLkA" name="Hidden" guid="_e_-QisK6EeWDPeiCYtkLkA">
-            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_e_-Qi8K6EeWDPeiCYtkLkA" name="Custom Categories" guid="_e_-Qi8K6EeWDPeiCYtkLkA"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_e_-Qi8K6EeWDPeiCYtkLkA" name="Custom Categories" guid="_e_-Qi8K6EeWDPeiCYtkLkA" categorizedElements="_e9D9QML4EeWILsC3HqUKxA"/>
           </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_e9D9QML4EeWILsC3HqUKxA" name="new_custom_categoty_task_captura_requisitos" guid="_e9D9QML4EeWILsC3HqUKxA" presentationName="new_custom_categoty_task_captura_requisitos" categorizedElements="_9Ey98MLZEeWILsC3HqUKxA _kRfvUMLMEeWILsC3HqUKxA _RIrEUMLMEeWILsC3HqUKxA _v8ALcMLIEeWILsC3HqUKxA _VNzCoML4EeWILsC3HqUKxA _V3QM8MLEEeWILsC3HqUKxA _flrgcMLMEeWILsC3HqUKxA">
+            <methodElementProperty xmi:id="_tgo7cML4EeWILsC3HqUKxA" name="me_edited" value="true"/>
+          </contentElements>
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_e_-QjMK6EeWDPeiCYtkLkA" name="CoreContent" guid="_e_-QjMK6EeWDPeiCYtkLkA">
@@ -58,9 +63,12 @@
             <methodElementProperty xmi:id="_vOuVEMLQEeWILsC3HqUKxA" name="me_edited" value="true"/>
             <presentation xmi:id="-PYjJDeQxyFC_nZJGGzfIWQ" href="uma://-PYjJDeQxyFC_nZJGGzfIWQ#-PYjJDeQxyFC_nZJGGzfIWQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_9Ey98MLZEeWILsC3HqUKxA" name="captura_requisitos_software" guid="_9Ey98MLZEeWILsC3HqUKxA" presentationName="Captura_requisitos_software" briefDescription="Tarea que involucra la captura de requerimientos del cliente respecto al software.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_9Ey98MLZEeWILsC3HqUKxA" name="captura_requisitos_software" guid="_9Ey98MLZEeWILsC3HqUKxA" presentationName="Captura_requisitos_software" briefDescription="Tarea que involucra la captura de requerimientos del cliente respecto al software." performedBy="_flrgcMLMEeWILsC3HqUKxA" output="_VNzCoML4EeWILsC3HqUKxA">
             <methodElementProperty xmi:id="_U9lGEMLcEeWILsC3HqUKxA" name="me_edited" value="true"/>
             <presentation xmi:id="-IV0NW0XuGExBfIUsu7RHxg" href="uma://-IV0NW0XuGExBfIUsu7RHxg#-IV0NW0XuGExBfIUsu7RHxg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_VNzCoML4EeWILsC3HqUKxA" name="planilla_requerimientos" guid="_VNzCoML4EeWILsC3HqUKxA" presentationName="planilla_requerimientos">
+            <methodElementProperty xmi:id="_aQGe4ML4EeWILsC3HqUKxA" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
       </childPackages>
@@ -81,6 +89,7 @@
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_pHR44MLUEeWILsC3HqUKxA" name="Integration into the enviroment" guid="_pHR44MLUEeWILsC3HqUKxA">
         <methodElementProperty xmi:id="_pHR44cLUEeWILsC3HqUKxA" name="pkg_loadCheck" value="true"/>
       </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_POePYML2EeWILsC3HqUKxA" href="uma://_POePYML2EeWILsC3HqUKxA#_POePYML2EeWILsC3HqUKxA"/>
     </methodPackages>
     <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_e_-Qj8K6EeWDPeiCYtkLkA" name="ProcessContributions" guid="_e_-Qj8K6EeWDPeiCYtkLkA"/>
   </org.eclipse.epf.uma:MethodPlugin>

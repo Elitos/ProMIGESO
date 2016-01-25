@@ -5,7 +5,7 @@
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:ProcessComponent xmi:id="_YP72YMLWEeWILsC3HqUKxA" name="Diseño Software" guid="_YP72YMLWEeWILsC3HqUKxA">
     <methodElementProperty xmi:id="_YP72YsLWEeWILsC3HqUKxA" name="pkg_loadCheck" value="true"/>
-    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_YP72YcLWEeWILsC3HqUKxA" name="Diseño Software" guid="_YP72YcLWEeWILsC3HqUKxA" presentationName="Diseño Software">
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_YP72YcLWEeWILsC3HqUKxA" name="Diseño Software" guid="_YP72YcLWEeWILsC3HqUKxA" presentationName="Diseño Software" briefDescription="Proceso luego de la ingenieria de requerimientos que permite realizar un diseño arquitectonico, logico, conceptual entre otros acorde a los requerimientos del sistema.">
       <presentation xmi:id="-ZFLyNCYoc8WA_97T4iHKew" href="uma://-ZFLyNCYoc8WA_97T4iHKew#-ZFLyNCYoc8WA_97T4iHKew"/>
       <defaultContext href="uma://_-qbskcK5EeWDPeiCYtkLkA#_NTb9UMK6EeWDPeiCYtkLkA"/>
       <validContext href="uma://_-qbskcK5EeWDPeiCYtkLkA#_NTb9UMK6EeWDPeiCYtkLkA"/>

@@ -1,2 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:DeliveryProcessDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mnnGIwlpLAFjKPQC-AW4Ag" name="CicloSoftware,_pPadMcMAEeWVhKEGb2fz_g" guid="-mnnGIwlpLAFjKPQC-AW4Ag"/>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-mnnGIwlpLAFjKPQC-AW4Ag" name="CicloSoftware,_pPadMcMAEeWVhKEGb2fz_g" guid="-mnnGIwlpLAFjKPQC-AW4Ag"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-6AnGQFyEv-4QsG2lXmcEbg" name="system-master,_bH0lgcMCEeWVhKEGb2fz_g" guid="-6AnGQFyEv-4QsG2lXmcEbg">
+    <refinedDescription>&lt;p>&#xD;
+    Caracteristicas:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - El Ingeniero en Sistemas Computacionales es el profesional con conocimiento en las áreas de sistemas de programación&#xD;
+    (software) o sistemas electrónicos (hardware), que permiten responder a las diversas necesidades que se presentan en el&#xD;
+    campo de trabajo de la ingeniería en computación.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Se encarga de desarrollar nuevos estandares o definir los estandares que se utilizaran en el proceso para el&#xD;
+    desarrollo de software. Como lo son las normas IO-29110.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Se encarga de realizar el diseño y modelado del sistema de manera continua y articulada que se construlle por cada&#xD;
+    iteración.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Se encarga de definir a niveles de hardware, lo que se necesita para dar soporte al software que se va a crear.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Debe conocer como funciona el negocio del cliente y cuales son las limitaciones de este.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Se encarga ademas de la captura de requerimeintos por parte del product owner.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>

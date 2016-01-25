@@ -28,6 +28,7 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_OutlsMMAEeWVhKEGb2fz_g" name="fases_procesos" guid="_OutlsMMAEeWVhKEGb2fz_g" presentationName="fases_procesos">
             <methodElementProperty xmi:id="_TZgg4MMAEeWVhKEGb2fz_g" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_pPadMMMAEeWVhKEGb2fz_g#_pPadMcMAEeWVhKEGb2fz_g"/>
           </contentElements>
         </childPackages>
       </childPackages>

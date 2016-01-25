@@ -5,11 +5,36 @@
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:ProcessComponent xmi:id="_pPadMMMAEeWVhKEGb2fz_g" name="CicloSoftware" guid="_pPadMMMAEeWVhKEGb2fz_g">
     <methodElementProperty xmi:id="_pPadMsMAEeWVhKEGb2fz_g" name="pkg_loadCheck" value="true"/>
+    <methodElementProperty xmi:id="__X7-EMMBEeWVhKEGb2fz_g" name="me_edited" value="true"/>
     <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_uFYGkMMAEeWVhKEGb2fz_g" name="New Phase" guid="_uFYGkMMAEeWVhKEGb2fz_g">
       <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_uFfbUMMAEeWVhKEGb2fz_g" name="New Phase" guid="_uFfbUMMAEeWVhKEGb2fz_g" presentationName="Inicio proyecto" superActivities="_pPadMcMAEeWVhKEGb2fz_g"/>
     </childPackages>
     <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_zkezkcMAEeWVhKEGb2fz_g" name="New Iteration" guid="_zkezkcMAEeWVhKEGb2fz_g">
-      <processElements xsi:type="org.eclipse.epf.uma:Iteration" xmi:id="_zkrn4MMAEeWVhKEGb2fz_g" name="New Iteration" guid="_zkrn4MMAEeWVhKEGb2fz_g" presentationName="Desarrollo proyecto" superActivities="_pPadMcMAEeWVhKEGb2fz_g" linkToPredecessor="_ByslwMMBEeWVhKEGb2fz_g"/>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Rl3jkcMBEeWVhKEGb2fz_g" name="New Activity" guid="_Rl3jkcMBEeWVhKEGb2fz_g">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_Rl3jksMBEeWVhKEGb2fz_g" name="New Activity" guid="_Rl3jksMBEeWVhKEGb2fz_g" presentationName="Ingenieria de requisitos" superActivities="_zkrn4MMAEeWVhKEGb2fz_g" breakdownElements="_EdQ5IMMCEeWVhKEGb2fz_g _GI4tcMMCEeWVhKEGb2fz_g _ICALMMMCEeWVhKEGb2fz_g _KAOycMMCEeWVhKEGb2fz_g _MLgXMMMCEeWVhKEGb2fz_g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_EdQ5IMMCEeWVhKEGb2fz_g" name="Captura de requerimientos" guid="_EdQ5IMMCEeWVhKEGb2fz_g" presentationName="Captura de requerimientos" superActivities="_Rl3jksMBEeWVhKEGb2fz_g" isSynchronizedWithSource="false"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_GI4tcMMCEeWVhKEGb2fz_g" name="Especificacion de requerimientos" guid="_GI4tcMMCEeWVhKEGb2fz_g" presentationName="Especificacion de requerimientos" superActivities="_Rl3jksMBEeWVhKEGb2fz_g" isSynchronizedWithSource="false"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_ICALMMMCEeWVhKEGb2fz_g" name="Analisis Requerimientos" guid="_ICALMMMCEeWVhKEGb2fz_g" presentationName="Analisis Requerimientos" superActivities="_Rl3jksMBEeWVhKEGb2fz_g" isSynchronizedWithSource="false"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_KAOycMMCEeWVhKEGb2fz_g" name="Validacion de requerimineots" guid="_KAOycMMCEeWVhKEGb2fz_g" presentationName="Validacion de requerimineots" superActivities="_Rl3jksMBEeWVhKEGb2fz_g" isSynchronizedWithSource="false"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_MLgXMMMCEeWVhKEGb2fz_g" name="Evaluacion y definicion de linea base" guid="_MLgXMMMCEeWVhKEGb2fz_g" presentationName="Evaluacion y definicion de linea base" superActivities="_Rl3jksMBEeWVhKEGb2fz_g" isSynchronizedWithSource="false"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_TKCsEcMBEeWVhKEGb2fz_g" name="New Activity_2" guid="_TKCsEcMBEeWVhKEGb2fz_g">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_TKCsEsMBEeWVhKEGb2fz_g" name="New Activity_2" guid="_TKCsEsMBEeWVhKEGb2fz_g" presentationName="Diseño del software" superActivities="_zkrn4MMAEeWVhKEGb2fz_g" linkToPredecessor="_hopqscMBEeWVhKEGb2fz_g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_hopqscMBEeWVhKEGb2fz_g" guid="_hopqscMBEeWVhKEGb2fz_g" pred="_Rl3jksMBEeWVhKEGb2fz_g"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_WZ89ocMBEeWVhKEGb2fz_g" name="New Activity_3" guid="_WZ89ocMBEeWVhKEGb2fz_g">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_WZ89osMBEeWVhKEGb2fz_g" name="New Activity_3" guid="_WZ89osMBEeWVhKEGb2fz_g" presentationName="Implementación Software " superActivities="_zkrn4MMAEeWVhKEGb2fz_g" linkToPredecessor="_iKSYIcMBEeWVhKEGb2fz_g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_iKSYIcMBEeWVhKEGb2fz_g" guid="_iKSYIcMBEeWVhKEGb2fz_g" pred="_TKCsEsMBEeWVhKEGb2fz_g"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_azlQUcMBEeWVhKEGb2fz_g" name="New Activity_4" guid="_azlQUcMBEeWVhKEGb2fz_g">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_azlQUsMBEeWVhKEGb2fz_g" name="New Activity_4" guid="_azlQUsMBEeWVhKEGb2fz_g" presentationName="Verificación y Validación" superActivities="_zkrn4MMAEeWVhKEGb2fz_g" linkToPredecessor="_i4808cMBEeWVhKEGb2fz_g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_i4808cMBEeWVhKEGb2fz_g" guid="_i4808cMBEeWVhKEGb2fz_g" pred="_WZ89osMBEeWVhKEGb2fz_g"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_dkpCscMBEeWVhKEGb2fz_g" name="New Activity_5" guid="_dkpCscMBEeWVhKEGb2fz_g">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_dkpCssMBEeWVhKEGb2fz_g" name="New Activity_5" guid="_dkpCssMBEeWVhKEGb2fz_g" presentationName="Integracion Software" superActivities="_zkrn4MMAEeWVhKEGb2fz_g" linkToPredecessor="_jb-CccMBEeWVhKEGb2fz_g"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_jb-CccMBEeWVhKEGb2fz_g" guid="_jb-CccMBEeWVhKEGb2fz_g" pred="_azlQUsMBEeWVhKEGb2fz_g"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Iteration" xmi:id="_zkrn4MMAEeWVhKEGb2fz_g" name="New Iteration" guid="_zkrn4MMAEeWVhKEGb2fz_g" presentationName="Desarrollo proyecto" superActivities="_pPadMcMAEeWVhKEGb2fz_g" linkToPredecessor="_ByslwMMBEeWVhKEGb2fz_g" breakdownElements="_Rl3jksMBEeWVhKEGb2fz_g _TKCsEsMBEeWVhKEGb2fz_g _WZ89osMBEeWVhKEGb2fz_g _azlQUsMBEeWVhKEGb2fz_g _dkpCssMBEeWVhKEGb2fz_g"/>
       <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_ByslwMMBEeWVhKEGb2fz_g" guid="_ByslwMMBEeWVhKEGb2fz_g" pred="_uFfbUMMAEeWVhKEGb2fz_g"/>
     </childPackages>
     <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_86VvsMMAEeWVhKEGb2fz_g" name="New Phase_2" guid="_86VvsMMAEeWVhKEGb2fz_g">

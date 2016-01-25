@@ -30,7 +30,7 @@
     sistema a desarrollar de forma que los requisitos que de planteen en esta fase iterativa de puedan integrar en cada&#xD;
     iteracion, generando sistemas robustos y escalables. Luego esta la parte de implementacion que involucra el desarrollo&#xD;
     puro de software donde se codifican las funcionalidades del software y se integra a bajo nivel. Despues se valida y&#xD;
-    verifican las funcionalidades implementadas medainte test de diversos tipos. Para finalizar se integra a alto nivel el&#xD;
+    verifican las funcionalidades implementadas mediante test de diversos tipos. Para finalizar se integra a alto nivel el&#xD;
     software producido dejando listo el sistema para las posteriores implementaciones.&#xD;
 &lt;/p>&#xD;
 &lt;blockquote style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;

@@ -22,7 +22,16 @@
     <methodElementProperty xmi:id="_pPadMsMAEeWVhKEGb2fz_g" name="pkg_loadCheck" value="true"/>
     <methodElementProperty xmi:id="__X7-EMMBEeWVhKEGb2fz_g" name="me_edited" value="true"/>
     <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_uFYGkMMAEeWVhKEGb2fz_g" name="New Phase" guid="_uFYGkMMAEeWVhKEGb2fz_g">
-      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_uFfbUMMAEeWVhKEGb2fz_g" name="New Phase" guid="_uFfbUMMAEeWVhKEGb2fz_g" presentationName="Inicio proyecto" superActivities="_pPadMcMAEeWVhKEGb2fz_g"/>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_lK4gcMOzEeWisJQ258lgvw" name="Análisis de viabilidad del proyecto" guid="_lK4gcMOzEeWisJQ258lgvw">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_lK4gccOzEeWisJQ258lgvw" name="Análisis de viabilidad del proyecto" guid="_lK4gccOzEeWisJQ258lgvw" presentationName="Análisis de viabilidad del proyecto" superActivities="_uFfbUMMAEeWVhKEGb2fz_g"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_qW8VoMOzEeWisJQ258lgvw" name="Planificación del trabajo a realizar" guid="_qW8VoMOzEeWisJQ258lgvw">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_qW8VocOzEeWisJQ258lgvw" name="Planificación del trabajo a realizar" guid="_qW8VocOzEeWisJQ258lgvw" presentationName="Planificación del trabajo a realizar" superActivities="_uFfbUMMAEeWVhKEGb2fz_g"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_thsaYMOzEeWisJQ258lgvw" name="Estipular cierre de etapas y control" guid="_thsaYMOzEeWisJQ258lgvw">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_thsaYcOzEeWisJQ258lgvw" name="Estipular cierre de etapas y control" guid="_thsaYcOzEeWisJQ258lgvw" presentationName="Estipular cierre de etapas y control" superActivities="_uFfbUMMAEeWVhKEGb2fz_g"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_uFfbUMMAEeWVhKEGb2fz_g" name="New Phase" guid="_uFfbUMMAEeWVhKEGb2fz_g" presentationName="Inicio proyecto" superActivities="_pPadMcMAEeWVhKEGb2fz_g" breakdownElements="_lK4gccOzEeWisJQ258lgvw _qW8VocOzEeWisJQ258lgvw _thsaYcOzEeWisJQ258lgvw"/>
     </childPackages>
     <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_zkezkcMAEeWVhKEGb2fz_g" name="New Iteration" guid="_zkezkcMAEeWVhKEGb2fz_g">
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Rl3jkcMBEeWVhKEGb2fz_g" name="New Activity" guid="_Rl3jkcMBEeWVhKEGb2fz_g">
@@ -266,10 +275,22 @@
       <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_ByslwMMBEeWVhKEGb2fz_g" guid="_ByslwMMBEeWVhKEGb2fz_g" pred="_uFfbUMMAEeWVhKEGb2fz_g"/>
     </childPackages>
     <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_86VvsMMAEeWVhKEGb2fz_g" name="New Phase_2" guid="_86VvsMMAEeWVhKEGb2fz_g">
-      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_86YzAMMAEeWVhKEGb2fz_g" name="New Phase_2" guid="_86YzAMMAEeWVhKEGb2fz_g" presentationName="Integracién al medio" superActivities="_pPadMcMAEeWVhKEGb2fz_g" linkToPredecessor="_CZNzMcMBEeWVhKEGb2fz_g"/>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_0bIXYMOzEeWisJQ258lgvw" name="Presentación del producto final" guid="_0bIXYMOzEeWisJQ258lgvw">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_0bIXYcOzEeWisJQ258lgvw" name="Presentación del producto final" guid="_0bIXYcOzEeWisJQ258lgvw" presentationName="Presentación del producto final" superActivities="_86YzAMMAEeWVhKEGb2fz_g"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_3KxNcMOzEeWisJQ258lgvw" name="Capacitación del uso del producto" guid="_3KxNcMOzEeWisJQ258lgvw">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_3KxNccOzEeWisJQ258lgvw" name="Capacitación del uso del producto" guid="_3KxNccOzEeWisJQ258lgvw" presentationName="Capacitación del uso del producto" superActivities="_86YzAMMAEeWVhKEGb2fz_g"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_6GIyYMOzEeWisJQ258lgvw" name="Especificación de mantención" guid="_6GIyYMOzEeWisJQ258lgvw">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_6GIyYcOzEeWisJQ258lgvw" name="Especificación de mantención" guid="_6GIyYcOzEeWisJQ258lgvw" presentationName="Especificación de mantención" superActivities="_86YzAMMAEeWVhKEGb2fz_g"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="__0fcUMOzEeWisJQ258lgvw" name="Análisis de mejoras y proyección" guid="__0fcUMOzEeWisJQ258lgvw">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="__0gDYMOzEeWisJQ258lgvw" name="Análisis de mejoras y proyección" guid="__0gDYMOzEeWisJQ258lgvw" presentationName="Análisis de mejoras y proyección" superActivities="_86YzAMMAEeWVhKEGb2fz_g"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_86YzAMMAEeWVhKEGb2fz_g" name="New Phase_2" guid="_86YzAMMAEeWVhKEGb2fz_g" presentationName="Integración al medio" superActivities="_pPadMcMAEeWVhKEGb2fz_g" linkToPredecessor="_CZNzMcMBEeWVhKEGb2fz_g" breakdownElements="_0bIXYcOzEeWisJQ258lgvw _3KxNccOzEeWisJQ258lgvw _6GIyYcOzEeWisJQ258lgvw __0gDYMOzEeWisJQ258lgvw"/>
       <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_CZNzMcMBEeWVhKEGb2fz_g" guid="_CZNzMcMBEeWVhKEGb2fz_g" pred="_zkrn4MMAEeWVhKEGb2fz_g"/>
     </childPackages>
-    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_pPadMcMAEeWVhKEGb2fz_g" name="Ciclo Software" guid="_pPadMcMAEeWVhKEGb2fz_g" presentationName="CicloSoftware" briefDescription="&#x9;Conjunto de fases que se deben desarrollar a lo largo del desarrollo de un proecto de software." breakdownElements="_uFfbUMMAEeWVhKEGb2fz_g _zkrn4MMAEeWVhKEGb2fz_g _86YzAMMAEeWVhKEGb2fz_g">
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_pPadMcMAEeWVhKEGb2fz_g" name="Ciclo Software" guid="_pPadMcMAEeWVhKEGb2fz_g" presentationName="CicloSoftware" briefDescription="Conjunto de fases que se deben desarrollar a lo largo del desarrollo de un proecto de software." breakdownElements="_uFfbUMMAEeWVhKEGb2fz_g _zkrn4MMAEeWVhKEGb2fz_g _86YzAMMAEeWVhKEGb2fz_g">
       <presentation xmi:id="-mnnGIwlpLAFjKPQC-AW4Ag" href="uma://-mnnGIwlpLAFjKPQC-AW4Ag#-mnnGIwlpLAFjKPQC-AW4Ag"/>
       <defaultContext href="uma://_zdp3AML5EeWVhKEGb2fz_g#_BgmNUML6EeWVhKEGb2fz_g"/>
       <validContext href="uma://_zdp3AML5EeWVhKEGb2fz_g#_BgmNUML6EeWVhKEGb2fz_g"/>

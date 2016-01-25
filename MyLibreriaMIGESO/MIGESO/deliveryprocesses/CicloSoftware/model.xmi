@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_pQKEEcMAEeWVhKEGb2fz_g" guid="_pQKEEcMAEeWVhKEGb2fz_g">
+    <resourceDescriptors xmi:id="_pQKEEsMAEeWVhKEGb2fz_g" id="-mnnGIwlpLAFjKPQC-AW4Ag" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_pPadMMMAEeWVhKEGb2fz_g" name="CicloSoftware" guid="_pPadMMMAEeWVhKEGb2fz_g">
+    <methodElementProperty xmi:id="_pPadMsMAEeWVhKEGb2fz_g" name="pkg_loadCheck" value="true"/>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_uFYGkMMAEeWVhKEGb2fz_g" name="New Phase" guid="_uFYGkMMAEeWVhKEGb2fz_g">
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_uFfbUMMAEeWVhKEGb2fz_g" name="New Phase" guid="_uFfbUMMAEeWVhKEGb2fz_g" presentationName="Inicio proyecto" superActivities="_pPadMcMAEeWVhKEGb2fz_g"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_zkezkcMAEeWVhKEGb2fz_g" name="New Iteration" guid="_zkezkcMAEeWVhKEGb2fz_g">
+      <processElements xsi:type="org.eclipse.epf.uma:Iteration" xmi:id="_zkrn4MMAEeWVhKEGb2fz_g" name="New Iteration" guid="_zkrn4MMAEeWVhKEGb2fz_g" presentationName="Desarrollo proyecto" superActivities="_pPadMcMAEeWVhKEGb2fz_g" linkToPredecessor="_ByslwMMBEeWVhKEGb2fz_g"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_ByslwMMBEeWVhKEGb2fz_g" guid="_ByslwMMBEeWVhKEGb2fz_g" pred="_uFfbUMMAEeWVhKEGb2fz_g"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_86VvsMMAEeWVhKEGb2fz_g" name="New Phase_2" guid="_86VvsMMAEeWVhKEGb2fz_g">
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_86YzAMMAEeWVhKEGb2fz_g" name="New Phase_2" guid="_86YzAMMAEeWVhKEGb2fz_g" presentationName="Integracién al medio" superActivities="_pPadMcMAEeWVhKEGb2fz_g" linkToPredecessor="_CZNzMcMBEeWVhKEGb2fz_g"/>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_CZNzMcMBEeWVhKEGb2fz_g" guid="_CZNzMcMBEeWVhKEGb2fz_g" pred="_zkrn4MMAEeWVhKEGb2fz_g"/>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_pPadMcMAEeWVhKEGb2fz_g" name="CicloSoftware" guid="_pPadMcMAEeWVhKEGb2fz_g" presentationName="CicloSoftware" breakdownElements="_uFfbUMMAEeWVhKEGb2fz_g _zkrn4MMAEeWVhKEGb2fz_g _86YzAMMAEeWVhKEGb2fz_g">
+      <presentation xmi:id="-mnnGIwlpLAFjKPQC-AW4Ag" href="uma://-mnnGIwlpLAFjKPQC-AW4Ag#-mnnGIwlpLAFjKPQC-AW4Ag"/>
+      <defaultContext href="uma://_zdp3AML5EeWVhKEGb2fz_g#_BgmNUML6EeWVhKEGb2fz_g"/>
+      <validContext href="uma://_zdp3AML5EeWVhKEGb2fz_g#_BgmNUML6EeWVhKEGb2fz_g"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>

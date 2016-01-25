@@ -28,4 +28,69 @@
     - Se encarga ademas de la captura de requerimeintos por parte del product owner.&#xD;
 &lt;/p></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Krc1BpzEWnShac7cEVh-_Q" name="product_owner,_fxqecMMCEeWVhKEGb2fz_g" guid="-Krc1BpzEWnShac7cEVh-_Q">
+    <refinedDescription>&lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
+&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>Caracteristicas:&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>- Puede ser interno o&#xD;
+    externo a la organizacion del cliente.&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>- Es el representante de&#xD;
+    todas las personas interesadas en los resultados del proyecto (internas o externas a la organización, promotores del&#xD;
+    proyecto y usuarios finales [idealmente también debería ser un usuario clave] o consumidores finales del producto) y&#xD;
+    actua como interlocutor único ante el equipo, con autoridad para tomar decisiones.&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>- Se encarga de definir los&#xD;
+    objetivos del producto o proyecto.&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>- Se encarga de dirigir los&#xD;
+    resultados del proyecto y maximizar su ROI (Return Of Investment).&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;div style=&quot;MARGIN-LEFT: 4em&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
+    &lt;p>&#xD;
+        &lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;font size=&quot;2&quot;>Es el&#xD;
+        propietario de la planificación del proyecto: crea y mantiene la lista priorizada de requisitos&lt;/font>&lt;/b>&lt;font&#xD;
+        size=&quot;2&quot;>&lt;span lang=&quot;&quot;>&amp;nbsp;necesarios para cubrir los objetivos del producto o proyecto, conoce el valor que&#xD;
+        aportará cada requisito y calcula el&amp;nbsp;ROI&lt;/span>&lt;/font>&lt;font size=&quot;2&quot;>&lt;span lang=&quot;&quot;>a partir del coste de cada&#xD;
+        requisito que le proporciona el equipo&lt;/span>&lt;/font>&lt;font size=&quot;2&quot;>&lt;span lang=&quot;&quot;>.&lt;/span>&lt;/font>&#xD;
+    &lt;/p>&#xD;
+    &lt;p>&#xD;
+        &lt;font size=&quot;2&quot;>Reparte los objetivos/requisitos en iteraciones y establece un calendario de entregas.&lt;/font>&#xD;
+    &lt;/p>&#xD;
+    &lt;p>&#xD;
+        &lt;font size=&quot;2&quot;>Antes de iniciar cada iteración replanifica el proyecto&lt;/font>&lt;font size=&quot;2&quot;>&lt;span lang=&quot;&quot;>&amp;nbsp;en&#xD;
+        función de los requisitos que aportan más valor en ese momento, de los requisitos completados en la iteración&#xD;
+        anterior y del contexto del proyecto en ese momento (demandas del mercado, movimientos de la competencia,&#xD;
+        etc.).&lt;/span>&lt;/font>&#xD;
+    &lt;/p>&#xD;
+&lt;/div>&#xD;
+&lt;p>&#xD;
+    - Colabora con el equipo para planificar, revisar y dar detalle a los objetivos de cada iteración.&#xD;
+&lt;/p>&#xD;
+&lt;div style=&quot;MARGIN-LEFT: 4em&quot;>&#xD;
+    &lt;p>&#xD;
+        &lt;font size=&quot;2&quot;>Participar en la reunion de planificacion de iteracion&lt;/font>&lt;font size=&quot;2&quot;>&lt;span lang=&quot;&quot;>,&#xD;
+        proponiendo los requisitos más prioritarios a desarrollar, respondiendo a las dudas del equipo y detallando los&#xD;
+        requisitos que el equipo se comprometer a hacer.&lt;/span>&lt;/font>&#xD;
+    &lt;/p>&#xD;
+    &lt;p>&#xD;
+        &lt;font size=&quot;2&quot;>Estar disponible durante el curso de la iteración para responder a las preguntas que puedan&#xD;
+        aparecer.&lt;/font>&#xD;
+    &lt;/p>&#xD;
+    &lt;p>&#xD;
+        &lt;font size=&quot;2&quot;>&lt;span lang=&quot;&quot;>No cambiar los requisitos que se estan desarrollando en la iteración, una vez está&#xD;
+        iniciada.&lt;/span>&lt;/font>&#xD;
+    &lt;/p>&#xD;
+    &lt;p>&#xD;
+        &lt;font size=&quot;2&quot;>Participar en la reunion de demostración de la iteración&lt;/font>&lt;font size=&quot;2&quot;>&lt;span lang=&quot;&quot;>,&#xD;
+        revisando los requisitos completados.&lt;/span>&lt;/font>&#xD;
+    &lt;/p>&#xD;
+&lt;/div></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
 </xmi:XMI>

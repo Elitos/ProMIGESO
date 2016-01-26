@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-t27Y-9kQ4G3mY2iPOsikOQ" name=",_Up9sAMPYEeWmSa2pNhArlg" guid="-t27Y-9kQ4G3mY2iPOsikOQ" changeDate="2016-01-26T00:24:32.028-0300">
+  <mainDescription>&lt;p>&#xD;
+    Esta tarea busca presentar al cliente, y futuro usuario, la aplicacíón funcionando en su totalidad, realizando una&#xD;
+    capacitación y explicando &lt;strong>cómo usar las funcionalidades claves de esta.&lt;/strong> Así presenta además lo que es&#xD;
+    el manual de usuario, como una herramienta más a disposición de ellos para mejorar la interacción con la aplicación.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    En esta misma instancia es posible &lt;strong>obtener un feedback&lt;/strong> inmediato de la aplicación, teniendo la&#xD;
+    posibiliad de ser considerado para una etapa etapa posterior de mejoras, e incluso de trabajos futuros con el cliente.&#xD;
+&lt;/p></mainDescription>
+  <purpose>Presentar finalmente al usuario la aplicación completa y realizar un acercamiento a su manejo.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

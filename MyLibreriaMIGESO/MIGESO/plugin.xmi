@@ -16,6 +16,12 @@
     <resourceDescriptors xmi:id="_zKTUwcPLEeWGouYkZex_qg" id="-aYs7gNX0NqR_8ttmClpG-A" uri="guidances/guidelines/quin_debera_usar_openmigeso.xmi"/>
     <resourceDescriptors xmi:id="_zKdFwMPLEeWGouYkZex_qg" id="-DFHOGbensM6B7sV368oIcw" uri="guidances/reports/introduccion_a_openmigeso.xmi"/>
     <resourceDescriptors xmi:id="_qv3BkMPXEeWmSa2pNhArlg" id="-D_6Rvc_GmxoGlp9A0Pcyhg" uri="tasks/evaluar_interfaz_usuario.xmi"/>
+    <resourceDescriptors xmi:id="_kWtm0MPaEeWmSa2pNhArlg" id="-d0EM0h-9X-y-LhwsMCQtPg" uri="tasks/evaluacin_del_producto.xmi"/>
+    <resourceDescriptors xmi:id="_1uU9cMPbEeWmSa2pNhArlg" id="-H0StUKFBEABvji4xfQwzWQ" uri="tasks/creacin_del_manual_de_usuario.xmi"/>
+    <resourceDescriptors xmi:id="_CNORoMPdEeWmSa2pNhArlg" id="-t27Y-9kQ4G3mY2iPOsikOQ" uri="tasks/presentacin_de_la_aplicacin_al_cliente.xmi"/>
+    <resourceDescriptors xmi:id="_HmEJIMPeEeWmSa2pNhArlg" id="-2P4pMfCRe289Sfp1WKMdbQ" uri="tasks/estudio_de_mejoras.xmi"/>
+    <resourceDescriptors xmi:id="_0CbU8MPeEeWmSa2pNhArlg" id="-Dc-pkewsktcdCJOXOFHhRA" uri="tasks/definicin_de_mantenciones.xmi"/>
+    <resourceDescriptors xmi:id="_4HRN8MPfEeWmSa2pNhArlg" id="-tJEpctmoxStnlKi3oQK_Pw" uri="tasks/especificacin_de_tiempos.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_JssFAML6EeWVhKEGb2fz_g" name="MIGESO" guid="_JssFAML6EeWVhKEGb2fz_g">
     <methodElementProperty xmi:id="_Js12AML6EeWVhKEGb2fz_g" name="plugin_synFree" value="true"/>
@@ -156,26 +162,47 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_qvTA4MPXEeWmSa2pNhArlg" name="manual_de_usuario" guid="_qvTA4MPXEeWmSa2pNhArlg" presentationName="Manual de usuario">
             <methodElementProperty xmi:id="_tFKsEMPXEeWmSa2pNhArlg" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_7ddAQMPXEeWmSa2pNhArlg" name="evaluacin_del_producto" guid="_7ddAQMPXEeWmSa2pNhArlg" presentationName="Evaluación del producto">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_7ddAQMPXEeWmSa2pNhArlg" name="evaluacin_del_producto" guid="_7ddAQMPXEeWmSa2pNhArlg" presentationName="Evaluación del producto" briefDescription="Se analiza el trabajo final entregado verificando que cumpla con todo lo necesario, por medio de las listas de control, y tener la documentación completa." performedBy="_13K50ML-EeWVhKEGb2fz_g _TVRI0ML6EeWVhKEGb2fz_g" mandatoryInput="_vn-wgML6EeWVhKEGb2fz_g _7LokYMO_EeWisJQ258lgvw" output="_kWPFsMPaEeWmSa2pNhArlg _nYxpoMPaEeWmSa2pNhArlg">
             <methodElementProperty xmi:id="_Jr404MPYEeWmSa2pNhArlg" name="me_edited" value="true"/>
+            <presentation xmi:id="-d0EM0h-9X-y-LhwsMCQtPg" href="uma://-d0EM0h-9X-y-LhwsMCQtPg#-d0EM0h-9X-y-LhwsMCQtPg"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_N6BpQMPYEeWmSa2pNhArlg" name="creacin_del_manual_de_usuario" guid="_N6BpQMPYEeWmSa2pNhArlg" presentationName="Creación del manual de usuario">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_N6BpQMPYEeWmSa2pNhArlg" name="creacin_del_manual_de_usuario" guid="_N6BpQMPYEeWmSa2pNhArlg" presentationName="Creación del manual de usuario" briefDescription="Para facilitar el manejo de la aplicación por parte de lo clientes, se realiza un manual de usuario con las principales funcionalidades." performedBy="_13K50ML-EeWVhKEGb2fz_g _TVRI0ML6EeWVhKEGb2fz_g" mandatoryInput="_qvTA4MPXEeWmSa2pNhArlg" output="_qvTA4MPXEeWmSa2pNhArlg">
             <methodElementProperty xmi:id="_Po5l4MPYEeWmSa2pNhArlg" name="me_edited" value="true"/>
+            <presentation xmi:id="-H0StUKFBEABvji4xfQwzWQ" href="uma://-H0StUKFBEABvji4xfQwzWQ#-H0StUKFBEABvji4xfQwzWQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Up9sAMPYEeWmSa2pNhArlg" name="presentacin_de_la_aplicacin_al_cliente" guid="_Up9sAMPYEeWmSa2pNhArlg" presentationName="Presentación de la aplicación al cliente">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Up9sAMPYEeWmSa2pNhArlg" name="presentacin_de_la_aplicacin_al_cliente" guid="_Up9sAMPYEeWmSa2pNhArlg" presentationName="Presentación de la aplicación al cliente" briefDescription="Mostrar al cliente el uso de la aplicación y realizar las explicaciones necesarias." performedBy="_TVRI0ML6EeWVhKEGb2fz_g _fMg8QML9EeWVhKEGb2fz_g" mandatoryInput="_qvTA4MPXEeWmSa2pNhArlg" output="_KGOOMMPdEeWmSa2pNhArlg" additionallyPerformedBy="_13K50ML-EeWVhKEGb2fz_g">
             <methodElementProperty xmi:id="_W56VYMPYEeWmSa2pNhArlg" name="me_edited" value="true"/>
+            <presentation xmi:id="-t27Y-9kQ4G3mY2iPOsikOQ" href="uma://-t27Y-9kQ4G3mY2iPOsikOQ#-t27Y-9kQ4G3mY2iPOsikOQ"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_YR4N4MPYEeWmSa2pNhArlg" name="definicin_de_mantenciones" guid="_YR4N4MPYEeWmSa2pNhArlg" presentationName="Definición de mantenciones">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_YR4N4MPYEeWmSa2pNhArlg" name="definicin_de_mantenciones" guid="_YR4N4MPYEeWmSa2pNhArlg" presentationName="Definición de mantenciones" briefDescription="Identificar las mantenciones necesarias a realizar cada cierto tiempo al sistema." performedBy="_TxBecML_EeWVhKEGb2fz_g _13K50ML-EeWVhKEGb2fz_g" output="_0CIaAMPeEeWmSa2pNhArlg" additionallyPerformedBy="_TVRI0ML6EeWVhKEGb2fz_g">
             <methodElementProperty xmi:id="_ZzpioMPYEeWmSa2pNhArlg" name="me_edited" value="true"/>
+            <presentation xmi:id="-Dc-pkewsktcdCJOXOFHhRA" href="uma://-Dc-pkewsktcdCJOXOFHhRA#-Dc-pkewsktcdCJOXOFHhRA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_bzzcgMPYEeWmSa2pNhArlg" name="especificacin_de_tiempos" guid="_bzzcgMPYEeWmSa2pNhArlg" presentationName="Especificación de tiempos">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_bzzcgMPYEeWmSa2pNhArlg" name="especificacin_de_tiempos" guid="_bzzcgMPYEeWmSa2pNhArlg" presentationName="Especificación de tiempos" briefDescription="Luego de identificar las mantenciones a realizar se especifican los tiempos en que estas se realizarán." performedBy="_13K50ML-EeWVhKEGb2fz_g _fMg8QML9EeWVhKEGb2fz_g _TVRI0ML6EeWVhKEGb2fz_g" mandatoryInput="_0CIaAMPeEeWmSa2pNhArlg" output="_0CIaAMPeEeWmSa2pNhArlg">
             <methodElementProperty xmi:id="_dnSzYMPYEeWmSa2pNhArlg" name="me_edited" value="true"/>
+            <presentation xmi:id="-tJEpctmoxStnlKi3oQK_Pw" href="uma://-tJEpctmoxStnlKi3oQK_Pw#-tJEpctmoxStnlKi3oQK_Pw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_fI5wEMPYEeWmSa2pNhArlg" name="estudio_de_mejoras" guid="_fI5wEMPYEeWmSa2pNhArlg" presentationName="Estudio de mejoras">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_fI5wEMPYEeWmSa2pNhArlg" name="estudio_de_mejoras" guid="_fI5wEMPYEeWmSa2pNhArlg" presentationName="Estudio de mejoras" briefDescription="Identificar mejoras que puedan ser realizadas a la aplicación" performedBy="_13K50ML-EeWVhKEGb2fz_g _PlXLwML-EeWVhKEGb2fz_g _TVRI0ML6EeWVhKEGb2fz_g" mandatoryInput="_KGOOMMPdEeWmSa2pNhArlg" output="_Hlao4MPeEeWmSa2pNhArlg">
             <methodElementProperty xmi:id="_gfxcYMPYEeWmSa2pNhArlg" name="me_edited" value="true"/>
+            <presentation xmi:id="-2P4pMfCRe289Sfp1WKMdbQ" href="uma://-2P4pMfCRe289Sfp1WKMdbQ#-2P4pMfCRe289Sfp1WKMdbQ"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_hsEQYMPYEeWmSa2pNhArlg" name="anlisis_de_trabajos_futuros" guid="_hsEQYMPYEeWmSa2pNhArlg" presentationName="Análisis de trabajos futuros">
             <methodElementProperty xmi:id="_jiPu4MPYEeWmSa2pNhArlg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_kWPFsMPaEeWmSa2pNhArlg" name="cdigo_fuente" guid="_kWPFsMPaEeWmSa2pNhArlg" presentationName="Código fuente">
+            <methodElementProperty xmi:id="_mmTq4MPaEeWmSa2pNhArlg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_nYxpoMPaEeWmSa2pNhArlg" name="documentacin" guid="_nYxpoMPaEeWmSa2pNhArlg" presentationName="Documentación">
+            <methodElementProperty xmi:id="_pct3UMPaEeWmSa2pNhArlg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_KGOOMMPdEeWmSa2pNhArlg" name="feedback_del_cliente" guid="_KGOOMMPdEeWmSa2pNhArlg" presentationName="Feedback del cliente">
+            <methodElementProperty xmi:id="_MaTwsMPdEeWmSa2pNhArlg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Hlao4MPeEeWmSa2pNhArlg" name="estudio_de_mejoras" guid="_Hlao4MPeEeWmSa2pNhArlg" presentationName="Estudio de mejoras">
+            <methodElementProperty xmi:id="_KKTngMPeEeWmSa2pNhArlg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_0CIaAMPeEeWmSa2pNhArlg" name="documento_de_mantencin_del_software" guid="_0CIaAMPeEeWmSa2pNhArlg" presentationName="Documento de mantención del software">
+            <methodElementProperty xmi:id="_2xOdgMPeEeWmSa2pNhArlg" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
       </childPackages>

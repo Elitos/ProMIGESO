@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Dc-pkewsktcdCJOXOFHhRA" name=",_YR4N4MPYEeWmSa2pNhArlg" guid="-Dc-pkewsktcdCJOXOFHhRA" changeDate="2016-01-26T00:39:56.816-0300">
+  <mainDescription>Para asegurar que la aplicación funcionará correctamente durante un buen tiempo es necesario realizar la mantención&#xD;
+correspondiente. En esta tarea se definen las mantenciones a realizar, especificando las áreas que se deben revisar de&#xD;
+acuerdo a prioridades dentro del sistema, además del encargado de realizar cada una de ellas y las tareas que debe cumplir.&#xD;
+Todo esto queda plasmado en el &lt;strong>documento de mantenión del software.&lt;/strong></mainDescription>
+  <purpose>Definir las mantenciones al sistema con el fin de asegurar su correcto funcionamiento.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

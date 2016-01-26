@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-tJEpctmoxStnlKi3oQK_Pw" name=",_bzzcgMPYEeWmSa2pNhArlg" guid="-tJEpctmoxStnlKi3oQK_Pw" changeDate="2016-01-26T00:47:02.278-0300">
+  <mainDescription>&lt;p>&#xD;
+    El sistema posee una cierta cantidad de tiempo en que funcionará sin mayores dificultades. De acuerdo a lo anterior es&#xD;
+    necesario estar al tanto de estos tiempos y definir así cada cuánto tiempo serán necesario revisiones del&#xD;
+    funcionamiento del sistema y sus componentes, con el fin de realizar la mantención correspondiente, evitando una caída&#xD;
+    del sistema.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Dentro del &lt;strong>documento de mantenimiento de software&lt;/strong> se realizan estas especificaciones y acuerdos con el&#xD;
+    cliente, con el fin de potenciar al máximo la funcionalidad de la aplicación y alargar la vida de software de la mejor&#xD;
+    manera.&#xD;
+&lt;/p></mainDescription>
+  <purpose>Plasmar los tiempos específicos en que se llevarán a cabo las mantenciones del sistema.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

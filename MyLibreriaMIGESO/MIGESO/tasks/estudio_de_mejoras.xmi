@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-2P4pMfCRe289Sfp1WKMdbQ" name=",_fI5wEMPYEeWmSa2pNhArlg" guid="-2P4pMfCRe289Sfp1WKMdbQ" changeDate="2016-01-26T00:34:12.305-0300">
+  <mainDescription>&lt;p>&#xD;
+    Luego de la interacción del usuario con la aplicación es posible obtener ciertas apreciaciones y opiniones en cuanto al&#xD;
+    funcionamiento y los cambios que son posibles realizar. De acuerdo a eso se realiza un estudio para identificar la&#xD;
+    factibilidad de incorporar estas mejoras a la aplicación, desde el punto de vista del impacto que pueda causar al&#xD;
+    sistema y la importancia de los mismos.&#xD;
+&lt;/p>&#xD;
+&lt;br /></mainDescription>
+  <purpose>&lt;p>&#xD;
+    Captar las ideas del usuario luego de la interacción con la aplicación y ver la posibilidad de implantarlas en esta.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

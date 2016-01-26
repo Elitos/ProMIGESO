@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-H0StUKFBEABvji4xfQwzWQ" name=",_N6BpQMPYEeWmSa2pNhArlg" guid="-H0StUKFBEABvji4xfQwzWQ" changeDate="2016-01-26T00:15:47.210-0300">
+  <mainDescription>&lt;p>&#xD;
+    Luego de haber identificado las tareas más difíciles de manejar en la interfaz por parte de los usuarios, se realiza la&#xD;
+    creación del &lt;strong>manual de usuario&lt;/strong>. En este documento se especifican cada una de las funcionalidades&#xD;
+    necesarias y el manejo de estas, con el fin de ser una guía para que el usuario no tenga problemas para interactúar con&#xD;
+    la aplicación.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    El documento contiene imágenes explicativas, así como indicaciones fundamentales e intuitivas, que permitan además una&#xD;
+    fácil comprensión del documento. El principal objetivo es que nos se cree un nuevo problema teniendo un documento&#xD;
+    difícil de entender, sino que realmente sea una ayuda y un especie de incentivo para que los usuarios quieran trabajar&#xD;
+    con la aplicación.&#xD;
+&lt;/p></mainDescription>
+  <purpose>Permitir un correcto manejo de la aplicación, indicando al usuario la forma de interactuar con ella.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

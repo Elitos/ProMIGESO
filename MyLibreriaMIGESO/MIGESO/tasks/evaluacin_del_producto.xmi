@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-d0EM0h-9X-y-LhwsMCQtPg" name=",_7ddAQMPXEeWmSa2pNhArlg" guid="-d0EM0h-9X-y-LhwsMCQtPg" changeDate="2016-01-26T00:04:29.399-0300">
+  <mainDescription>&lt;p>&#xD;
+    Es necesario realizar una útima verificación del proyecto con el fin de asegurar que cada una de las funcionalidades&#xD;
+    requeridas se haya cumplido en su totalidad. Para esto se utilizan las &lt;strong>listas de control,&lt;/strong> las cuales&#xD;
+    se generar a lo largo del proyecto, para comprobar que todo está en lo correcto.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Por otro lado la &lt;strong>documentación&lt;/strong> y el &lt;strong>código fuente&lt;/strong> de la aplicación debe estar&#xD;
+    debidamente estructurado para hacer entrega al cliente, si es que así se ha estipulado en el contrato del proyecto. Por&#xD;
+    lo que se revisa y evalúa que se encuentre correctamente realizado y listo para ser entregado.&#xD;
+&lt;/p></mainDescription>
+  <purpose>Verificar que no se haya pasado ningún detalle del desarrollo del proyecto y se tenga la documentación necesaria para ser&#xD;
+entregada.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -557,4 +557,224 @@
     &lt;/p>&#xD;
 &lt;/div></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-lHFJ280zEIs3V6Vg7Z5PVA" name="anlisis_de_viabilidad,_CvCIkMO5EeWisJQ258lgvw" guid="-lHFJ280zEIs3V6Vg7Z5PVA">
+    <refinedDescription>&lt;p>&#xD;
+    El análisis de viabilidad del proyecto permite realizar un seguimiento de las herramientas con la que cuenta la empresa&#xD;
+    y el camino escogido para la realización del proyecto. Así se realiza una primera versión&amp;nbsp;del documento&#xD;
+    de&amp;nbsp;&lt;strong>planificación general del proyecto&lt;/strong>. Además se realiza un análisis previo&#xD;
+    de&amp;nbsp;&lt;strong>visión y scope&lt;/strong> &lt;strong>del proyecto&lt;/strong>, y un &lt;strong>análisis de riesgos&lt;/strong> que&#xD;
+    incluye los distintos gastos&amp;nbsp;en que se incurrirán para la ejecución efectiva del proyecto.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Si el análisis de viabilidad es positivo, es decir, no existen motivos iniciales para no abordar el proyecto, es&#xD;
+    posible avanzar a la siguiente actividad.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-YEKSfPQIf8rF3r48GrZSxg" name="system-master,_I-AzUcO5EeWisJQ258lgvw" guid="-YEKSfPQIf8rF3r48GrZSxg">
+    <refinedDescription>&lt;p>&#xD;
+    Caracteristicas:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - El Ingeniero en Sistemas Computacionales es el profesional con conocimiento en las áreas de sistemas de programación&#xD;
+    (software) o sistemas electrónicos (hardware), que permiten responder a las diversas necesidades que se presentan en el&#xD;
+    campo de trabajo de la ingeniería en computación.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Se encarga de desarrollar nuevos estandares o definir los estandares que se utilizaran en el proceso para el&#xD;
+    desarrollo de software. Como lo son las normas IO-29110.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Se encarga de realizar el diseño y modelado del sistema de manera continua y articulada que se construlle por cada&#xD;
+    iteración.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Se encarga de definir a niveles de hardware, lo que se necesita para dar soporte al software que se va a crear.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Debe conocer como funciona el negocio del cliente y cuales son las limitaciones de este.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Se encarga ademas de la captura de requerimeintos por parte del product owner.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-dbz6TlppiKlBS_fc8hCfIQ" name="product_owner,_I-AzVMO5EeWisJQ258lgvw" guid="-dbz6TlppiKlBS_fc8hCfIQ">
+    <refinedDescription>&lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
+&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>Caracteristicas:&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>- Puede ser interno o&#xD;
+    externo a la organizacion del cliente.&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>- Es el representante de&#xD;
+    todas las personas interesadas en los resultados del proyecto (internas o externas a la organización, promotores del&#xD;
+    proyecto y usuarios finales [idealmente también debería ser un usuario clave] o consumidores finales del producto) y&#xD;
+    actua como interlocutor único ante el equipo, con autoridad para tomar decisiones.&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>- Se encarga de definir los&#xD;
+    objetivos del producto o proyecto.&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>- Se encarga de dirigir los&#xD;
+    resultados del proyecto y maximizar su ROI (Return Of Investment).&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;div style=&quot;MARGIN-LEFT: 4em&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
+    &lt;p>&#xD;
+        &lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;font size=&quot;2&quot;>Es el&#xD;
+        propietario de la planificación del proyecto: crea y mantiene la lista priorizada de requisitos&lt;/font>&lt;/b>&lt;font&#xD;
+        size=&quot;2&quot;>&lt;span lang=&quot;&quot;>&amp;nbsp;necesarios para cubrir los objetivos del producto o proyecto, conoce el valor que&#xD;
+        aportará cada requisito y calcula el&amp;nbsp;ROI&lt;/span>&lt;/font>&lt;font size=&quot;2&quot;>&lt;span lang=&quot;&quot;>a partir del coste de cada&#xD;
+        requisito que le proporciona el equipo&lt;/span>&lt;/font>&lt;font size=&quot;2&quot;>&lt;span lang=&quot;&quot;>.&lt;/span>&lt;/font>&#xD;
+    &lt;/p>&#xD;
+    &lt;p>&#xD;
+        &lt;font size=&quot;2&quot;>Reparte los objetivos/requisitos en iteraciones y establece un calendario de entregas.&lt;/font>&#xD;
+    &lt;/p>&#xD;
+    &lt;p>&#xD;
+        &lt;font size=&quot;2&quot;>Antes de iniciar cada iteración replanifica el proyecto&lt;/font>&lt;font size=&quot;2&quot;>&lt;span lang=&quot;&quot;>&amp;nbsp;en&#xD;
+        función de los requisitos que aportan más valor en ese momento, de los requisitos completados en la iteración&#xD;
+        anterior y del contexto del proyecto en ese momento (demandas del mercado, movimientos de la competencia,&#xD;
+        etc.).&lt;/span>&lt;/font>&#xD;
+    &lt;/p>&#xD;
+&lt;/div>&#xD;
+&lt;p>&#xD;
+    - Colabora con el equipo para planificar, revisar y dar detalle a los objetivos de cada iteración.&#xD;
+&lt;/p>&#xD;
+&lt;div style=&quot;MARGIN-LEFT: 4em&quot;>&#xD;
+    &lt;p>&#xD;
+        &lt;font size=&quot;2&quot;>Participar en la reunion de planificacion de iteracion&lt;/font>&lt;font size=&quot;2&quot;>&lt;span lang=&quot;&quot;>,&#xD;
+        proponiendo los requisitos más prioritarios a desarrollar, respondiendo a las dudas del equipo y detallando los&#xD;
+        requisitos que el equipo se comprometer a hacer.&lt;/span>&lt;/font>&#xD;
+    &lt;/p>&#xD;
+    &lt;p>&#xD;
+        &lt;font size=&quot;2&quot;>Estar disponible durante el curso de la iteración para responder a las preguntas que puedan&#xD;
+        aparecer.&lt;/font>&#xD;
+    &lt;/p>&#xD;
+    &lt;p>&#xD;
+        &lt;font size=&quot;2&quot;>&lt;span lang=&quot;&quot;>No cambiar los requisitos que se estan desarrollando en la iteración, una vez está&#xD;
+        iniciada.&lt;/span>&lt;/font>&#xD;
+    &lt;/p>&#xD;
+    &lt;p>&#xD;
+        &lt;font size=&quot;2&quot;>Participar en la reunion de demostración de la iteración&lt;/font>&lt;font size=&quot;2&quot;>&lt;span lang=&quot;&quot;>,&#xD;
+        revisando los requisitos completados.&lt;/span>&lt;/font>&#xD;
+    &lt;/p>&#xD;
+&lt;/div></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-eFv7kKrLDezqoYPDlote4Q" name="planificacin_del_proyecto,_4S0rkMO8EeWisJQ258lgvw" guid="-eFv7kKrLDezqoYPDlote4Q">
+    <refinedDescription>&lt;p>&#xD;
+    El objetivo de esta fase es definir con el máximo detalle posible las &lt;strong>tareas a realizar&lt;/strong> y los&#xD;
+    &lt;strong>recursos necesarios&lt;/strong> para llevar a buen término el proyecto. Un error de cálculo en esta&amp;nbsp;tarea&#xD;
+    puede ser muy dañino para la empresa.&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Se modifica el documento de &lt;strong>visión y scope del proyecto&lt;/strong>, además de incorporar al documento de&#xD;
+    &lt;strong>planificación general&lt;/strong> la especificación del plan de iteración y las unidades de trabajo diarias&#xD;
+    necesarias para el desarrollo del proyecto. Se incluyen así estimaciones de esfuerzo, costes y recursos, y negociación&#xD;
+    del contrato.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Si finalmente el proyecto es aprobado, debe plasmarse en un contrato que recoja todos los términos del acuerdo.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-9iMOqWjuzRlSx-K_jU1X4A" name="system-master,_9VnQAcO8EeWisJQ258lgvw" guid="-9iMOqWjuzRlSx-K_jU1X4A">
+    <refinedDescription>&lt;p>&#xD;
+    Caracteristicas:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - El Ingeniero en Sistemas Computacionales es el profesional con conocimiento en las áreas de sistemas de programación&#xD;
+    (software) o sistemas electrónicos (hardware), que permiten responder a las diversas necesidades que se presentan en el&#xD;
+    campo de trabajo de la ingeniería en computación.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Se encarga de desarrollar nuevos estandares o definir los estandares que se utilizaran en el proceso para el&#xD;
+    desarrollo de software. Como lo son las normas IO-29110.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Se encarga de realizar el diseño y modelado del sistema de manera continua y articulada que se construlle por cada&#xD;
+    iteración.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Se encarga de definir a niveles de hardware, lo que se necesita para dar soporte al software que se va a crear.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Debe conocer como funciona el negocio del cliente y cuales son las limitaciones de este.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Se encarga ademas de la captura de requerimeintos por parte del product owner.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-LPHSdDQTT-grPvKDUGL21Q" name="developer-master,_9VnQB8O8EeWisJQ258lgvw" guid="-LPHSdDQTT-grPvKDUGL21Q">
+    <refinedDescription>&lt;p>&#xD;
+    Caracteristicas:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Debe supervisar el trabajo de los desarrolladores juniors. Ademas de faciliar aprendizaque de nuevas tecnologias,&#xD;
+    definir estrategias aptas para el desarrollo de software optimo para los miembros del equipo de desarrollo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Se encarga de definir las actividades y prioridades en las que deben enfocarce los desarrolladores.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Planifica plazos de desarrollo y gestiona problemas de desarrollo. Se encarga tambien de comunicar estado del&#xD;
+    desarrollo al jefe de proyecto.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Gestiona ademas la interaccion entre los desarrolladores juniors con el product owner.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Se encarga ademas de subdifidir cada requerimientos de software en fases necesarias de desarrollo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Evalua situacion estado actual de desarrollo y redefine tecnicas o metidilogias aplicadas al proseso de desarrollo e&#xD;
+    implementacion.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Realiza asignacion de tareas y objetivos a los desarrolladores juniors.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-XofiokabvqKev9X-Xtp9Ow" name="cierre_de_etapas,_HUVbkMPAEeWisJQ258lgvw" guid="-XofiokabvqKev9X-Xtp9Ow">
+    <refinedDescription>&lt;p>&#xD;
+    Esta tarea, junto a la de planificación detallada, es una de las más &lt;strong>importantes para el éxito del&#xD;
+    proyecto&lt;/strong>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Se realiza un seguimiento de tareas e hitos planificados, especificando los entregables incluyendo el control de&#xD;
+    calidad de cada uno de ellos. Especificar la gestión de incidencias y los seguimientos necesarios. Todo esto se&#xD;
+    específica realizando las modificaciones necesarias en el documento de &lt;strong>planificación general&lt;/strong> del&#xD;
+    proyecto.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Dentro del mismo documento se especifican el cierre de las etapas verificando que se cumplan cada uno de las&#xD;
+    funcionalidades requeridas, por medio de un checklist o &lt;strong>lista de control.&lt;/strong>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-NT4SyRQlrkTCFxZd0DWEvQ" name="system-master,_LiA88cPAEeWisJQ258lgvw" guid="-NT4SyRQlrkTCFxZd0DWEvQ">
+    <refinedDescription>&lt;p>&#xD;
+    Caracteristicas:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - El Ingeniero en Sistemas Computacionales es el profesional con conocimiento en las áreas de sistemas de programación&#xD;
+    (software) o sistemas electrónicos (hardware), que permiten responder a las diversas necesidades que se presentan en el&#xD;
+    campo de trabajo de la ingeniería en computación.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Se encarga de desarrollar nuevos estandares o definir los estandares que se utilizaran en el proceso para el&#xD;
+    desarrollo de software. Como lo son las normas IO-29110.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Se encarga de realizar el diseño y modelado del sistema de manera continua y articulada que se construlle por cada&#xD;
+    iteración.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Se encarga de definir a niveles de hardware, lo que se necesita para dar soporte al software que se va a crear.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Debe conocer como funciona el negocio del cliente y cuales son las limitaciones de este.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Se encarga ademas de la captura de requerimeintos por parte del product owner.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
 </xmi:XMI>

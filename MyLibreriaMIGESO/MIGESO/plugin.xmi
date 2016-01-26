@@ -10,8 +10,14 @@
     <resourceDescriptors xmi:id="_pPadNMMAEeWVhKEGb2fz_g" id="_pPadMMMAEeWVhKEGb2fz_g" uri="deliveryprocesses/Ciclo%20Software/model.xmi"/>
     <resourceDescriptors xmi:id="_UcB28MOGEeWQoKPojk0Sew" id="-z7_LesITEwdJj6FM07Jsow" uri="guidances/reports/introduccion_a_openmigeso.xmi"/>
     <resourceDescriptors xmi:id="_YG-jEcOkEeWQoKPojk0Sew" id="-7ZLS5uMOpUny1Kh6V5L4ug" uri="guidances/concepts/guia_conceptos_usuario.xmi"/>
+<<<<<<< HEAD
     <resourceDescriptors xmi:id="_XlTpUMO4EeWQoKPojk0Sew" id="-6j01evGdDBhL1eEmc7nL6g" uri="guidances/guidelines/quin_debera_usar_openmigeso.xmi"/>
     <resourceDescriptors xmi:id="_phugsMO6EeWQoKPojk0Sew" id="-ugoP_9qtvIT8N-ybKxWfMg" uri="guidances/concepts/qu_prcticas_rene_openmigeso.xmi"/>
+=======
+    <resourceDescriptors xmi:id="_up7JkMO6EeWisJQ258lgvw" id="-wCFHu_BQlu4sVFDAKhrQzg" uri="tasks/anlisis_de_viabilidad.xmi"/>
+    <resourceDescriptors xmi:id="_2iR7AMO8EeWisJQ258lgvw" id="-5MyD9FIToFF2gs_0LWjx2g" uri="tasks/planificacin_del_proyecto.xmi"/>
+    <resourceDescriptors xmi:id="_h-V1gMO_EeWisJQ258lgvw" id="-Xr6fEHXWHOWTxuN9awlRCQ" uri="tasks/cierre_de_etapas.xmi"/>
+>>>>>>> 85acad28e8a8a39e6164b15fac12c9aee85d81b9
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_JssFAML6EeWVhKEGb2fz_g" name="MIGESO" guid="_JssFAML6EeWVhKEGb2fz_g">
     <methodElementProperty xmi:id="_Js12AML6EeWVhKEGb2fz_g" name="plugin_synFree" value="true"/>
@@ -19,7 +25,7 @@
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFAsL6EeWVhKEGb2fz_g" name="Categories" guid="_JssFAsL6EeWVhKEGb2fz_g">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFA8L6EeWVhKEGb2fz_g" name="Domains" guid="_JssFA8L6EeWVhKEGb2fz_g"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFBML6EeWVhKEGb2fz_g" name="Disciplines" guid="_JssFBML6EeWVhKEGb2fz_g">
-          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_DViXcMODEeWQoKPojk0Sew" name="Iniciación proyecto" guid="_DViXcMODEeWQoKPojk0Sew" presentationName="Iniciación proyecto">
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_DViXcMODEeWQoKPojk0Sew" name="Iniciación proyecto" guid="_DViXcMODEeWQoKPojk0Sew" presentationName="Iniciación proyecto" tasks="_wXiz4MO4EeWisJQ258lgvw _COgcIMO-EeWisJQ258lgvw _Efd5gMO7EeWisJQ258lgvw">
             <methodElementProperty xmi:id="_EPL8QMODEeWQoKPojk0Sew" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_HY2b4MODEeWQoKPojk0Sew" name="Tareas x Fase" guid="_HY2b4MODEeWQoKPojk0Sew" presentationName="Tareas x Fase" briefDescription="Lista de tareas organizadas por fase." disciplines="_aH-NcMODEeWQoKPojk0Sew _ePeOUMODEeWQoKPojk0Sew _DViXcMODEeWQoKPojk0Sew">
@@ -113,9 +119,10 @@
             <methodElementProperty xmi:id="_EfgpsMOjEeWQoKPojk0Sew" name="me_edited" value="true"/>
             <presentation xmi:id="-7ZLS5uMOpUny1Kh6V5L4ug" href="uma://-7ZLS5uMOpUny1Kh6V5L4ug#-7ZLS5uMOpUny1Kh6V5L4ug"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_znnCAMOuEeWisJQ258lgvw" name="evaluar_interfaz_usuario" guid="_znnCAMOuEeWisJQ258lgvw" presentationName="Evaluar interfaz usuario" briefDescription="Identifica las principales dificultades del manejo de la interfaz, con el fin de indicar al usuario el correcto uso de esta.">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_znnCAMOuEeWisJQ258lgvw" name="evaluar_interfaz_usuario" guid="_znnCAMOuEeWisJQ258lgvw" presentationName="Evaluar interfaz usuario" briefDescription="Identifica las principales dificultades del manejo de la interfaz, con el fin de indicar al usuario el correcto uso de esta." performedBy="_fMg8QML9EeWVhKEGb2fz_g _13K50ML-EeWVhKEGb2fz_g">
             <methodElementProperty xmi:id="_K8ZXIMOvEeWisJQ258lgvw" name="me_edited" value="true"/>
           </contentElements>
+<<<<<<< HEAD
           <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_f3_tsMO3EeWQoKPojk0Sew" name="quin_debera_usar_openmigeso" guid="_f3_tsMO3EeWQoKPojk0Sew" presentationName="Quién debería usar OpenMIGESO" briefDescription="A continuación se describre quién debería usar OpenMigeso." shapeicon="guidances/guidelines/resources/OpenMigeso.JPG">
             <methodElementProperty xmi:id="_kzFHoMO3EeWQoKPojk0Sew" name="me_edited" value="true"/>
             <presentation xmi:id="-6j01evGdDBhL1eEmc7nL6g" href="uma://-6j01evGdDBhL1eEmc7nL6g#-6j01evGdDBhL1eEmc7nL6g"/>
@@ -123,6 +130,31 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_aoO84MO6EeWQoKPojk0Sew" name="qu_prcticas_rene_openmigeso" guid="_aoO84MO6EeWQoKPojk0Sew" presentationName="Qué prácticas reúne OpenMigeso" briefDescription="A continuación se describen las prácticas de ingeniería de software que utiliza OpenMigeso.  " shapeicon="guidances/concepts/resources/OpenMigeso.JPG">
             <methodElementProperty xmi:id="_ncEbwMO6EeWQoKPojk0Sew" name="me_edited" value="true"/>
             <presentation xmi:id="-ugoP_9qtvIT8N-ybKxWfMg" href="uma://-ugoP_9qtvIT8N-ybKxWfMg#-ugoP_9qtvIT8N-ybKxWfMg"/>
+=======
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_uApx0MO0EeWisJQ258lgvw" name="analisis_de_riesgos" guid="_uApx0MO0EeWisJQ258lgvw" presentationName="Análisis de riesgos" briefDescription="Se realiza un análisis preliminar de los riesgos en la ejecución del proyecto, el cual permita analizar y definir si es conveniente embarcarse en dicho proyecto.">
+            <methodElementProperty xmi:id="_8u5H4MO0EeWisJQ258lgvw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_w_SbQMO2EeWisJQ258lgvw" name="documento_de_visin_y_scope" guid="_w_SbQMO2EeWisJQ258lgvw" presentationName="Documento de visión y scope">
+            <methodElementProperty xmi:id="_1-6W8MO2EeWisJQ258lgvw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_23CRwMO2EeWisJQ258lgvw" name="planificacin_general" guid="_23CRwMO2EeWisJQ258lgvw" presentationName="Planificación general">
+            <methodElementProperty xmi:id="_4emFcMO2EeWisJQ258lgvw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_wXiz4MO4EeWisJQ258lgvw" name="anlisis_de_viabilidad" guid="_wXiz4MO4EeWisJQ258lgvw" presentationName="Análisis de viabilidad" briefDescription="Es la tarea inicial de cualquier proyecto y su objetivo es analizar si la empresa debe o no embarcarse en dicho proyecto." performedBy="_TVRI0ML6EeWVhKEGb2fz_g" output="_uApx0MO0EeWisJQ258lgvw _w_SbQMO2EeWisJQ258lgvw" additionallyPerformedBy="_fMg8QML9EeWVhKEGb2fz_g">
+            <methodElementProperty xmi:id="_AItmkMO5EeWisJQ258lgvw" name="me_edited" value="true"/>
+            <presentation xmi:id="-wCFHu_BQlu4sVFDAKhrQzg" href="uma://-wCFHu_BQlu4sVFDAKhrQzg#-wCFHu_BQlu4sVFDAKhrQzg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Efd5gMO7EeWisJQ258lgvw" name="planificacin_del_proyecto" guid="_Efd5gMO7EeWisJQ258lgvw" presentationName="Planificación del proyecto" briefDescription="Definición más específica del trabajo a realizar en el proyecto." performedBy="_TVRI0ML6EeWVhKEGb2fz_g" mandatoryInput="_w_SbQMO2EeWisJQ258lgvw" output="_w_SbQMO2EeWisJQ258lgvw _23CRwMO2EeWisJQ258lgvw" additionallyPerformedBy="_13K50ML-EeWVhKEGb2fz_g">
+            <methodElementProperty xmi:id="_2iEfoMO8EeWisJQ258lgvw" name="me_edited" value="true"/>
+            <presentation xmi:id="-5MyD9FIToFF2gs_0LWjx2g" href="uma://-5MyD9FIToFF2gs_0LWjx2g#-5MyD9FIToFF2gs_0LWjx2g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_COgcIMO-EeWisJQ258lgvw" name="cierre_de_etapas" guid="_COgcIMO-EeWisJQ258lgvw" presentationName="Cierre de etapas" briefDescription="Se definen las consideraciones necesarias para indicar el cierre de una etapa durante el desarrollo del proyecto." performedBy="_TVRI0ML6EeWVhKEGb2fz_g" mandatoryInput="_23CRwMO2EeWisJQ258lgvw" output="_23CRwMO2EeWisJQ258lgvw _7LokYMO_EeWisJQ258lgvw">
+            <methodElementProperty xmi:id="_h-MEgMO_EeWisJQ258lgvw" name="me_edited" value="true"/>
+            <presentation xmi:id="-Xr6fEHXWHOWTxuN9awlRCQ" href="uma://-Xr6fEHXWHOWTxuN9awlRCQ#-Xr6fEHXWHOWTxuN9awlRCQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_7LokYMO_EeWisJQ258lgvw" name="lista_de_control" guid="_7LokYMO_EeWisJQ258lgvw" presentationName="Lista de control">
+            <methodElementProperty xmi:id="_8UseMMO_EeWisJQ258lgvw" name="me_edited" value="true"/>
+>>>>>>> 85acad28e8a8a39e6164b15fac12c9aee85d81b9
           </contentElements>
         </childPackages>
       </childPackages>

@@ -17,7 +17,7 @@
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_zkezlcMAEeWVhKEGb2fz_g" key="type" value="Iteration"/>
       </eAnnotations>
     </node>
-    <node xmi:type="uml:StructuredActivityNode" xmi:id="_86T6gMMAEeWVhKEGb2fz_g" name="Integracién al medio" incoming="_CZNzMMMBEeWVhKEGb2fz_g">
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_86T6gMMAEeWVhKEGb2fz_g" name="Integración al medio" incoming="_CZNzMMMBEeWVhKEGb2fz_g">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_86WWwcMAEeWVhKEGb2fz_g" source="uma_element">
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_86WWwsMAEeWVhKEGb2fz_g" key="uri" value="uma://_pPadMMMAEeWVhKEGb2fz_g#_86YzAMMAEeWVhKEGb2fz_g"/>
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_86WWw8MAEeWVhKEGb2fz_g" key="type" value="Phase"/>
@@ -1392,5 +1392,51 @@
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_24BjyMMHEeWVhKEGb2fz_g" id="(0.4805194805194805,0.1836734693877551)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_24BjycMHEeWVhKEGb2fz_g" id="(0.2916666666666667,0.16666666666666666)"/>
     </edges>
+  </notation:Diagram>
+  <uml:Activity xmi:id="_NBaXUMO5EeWisJQ258lgvw" name="New Phase">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_NBaXUcO5EeWisJQ258lgvw" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_NBaXUsO5EeWisJQ258lgvw" key="uri" value="uma://_pPadMMMAEeWVhKEGb2fz_g#_uFfbUMMAEeWVhKEGb2fz_g"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_NBaXU8O5EeWisJQ258lgvw" key="type" value="Phase"/>
+    </eAnnotations>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_NCJ-MMO5EeWisJQ258lgvw" name="Estudio de viabilidad del proyecto">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_NCJ-McO5EeWisJQ258lgvw" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_NCJ-MsO5EeWisJQ258lgvw" key="uri" value="uma://_pPadMMMAEeWVhKEGb2fz_g#_lK4gccOzEeWisJQ258lgvw"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_NCJ-M8O5EeWisJQ258lgvw" key="type" value="Activity"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_NCJ-NMO5EeWisJQ258lgvw" name="Planificación del trabajo a realizar">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_NCJ-NcO5EeWisJQ258lgvw" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_NCJ-NsO5EeWisJQ258lgvw" key="uri" value="uma://_pPadMMMAEeWVhKEGb2fz_g#_qW8VocOzEeWisJQ258lgvw"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_NCJ-N8O5EeWisJQ258lgvw" key="type" value="Activity"/>
+      </eAnnotations>
+    </node>
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_NCJ-OMO5EeWisJQ258lgvw" name="Estipular cierre de etapas y control">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_NCJ-OcO5EeWisJQ258lgvw" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_NCJ-OsO5EeWisJQ258lgvw" key="uri" value="uma://_pPadMMMAEeWVhKEGb2fz_g#_thsaYcOzEeWisJQ258lgvw"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_NCJ-O8O5EeWisJQ258lgvw" key="type" value="Activity"/>
+      </eAnnotations>
+    </node>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_NBaXVMO5EeWisJQ258lgvw" type="AD" element="_NBaXUMO5EeWisJQ258lgvw" name="New Phase" measurementUnit="Pixel">
+    <styles xmi:type="notation:PageStyle" xmi:id="_NBaXVcO5EeWisJQ258lgvw"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_NBaXVsO5EeWisJQ258lgvw"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_NBaXV8O5EeWisJQ258lgvw"/>
+  </notation:Diagram>
+  <uml:Activity xmi:id="_OSCRsMO5EeWisJQ258lgvw" name="Análisis de viabilidad del proyecto">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_OSCRscO5EeWisJQ258lgvw" source="uma_element">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_OSCRssO5EeWisJQ258lgvw" key="uri" value="uma://_pPadMMMAEeWVhKEGb2fz_g#_lK4gccOzEeWisJQ258lgvw"/>
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_OSCRs8O5EeWisJQ258lgvw" key="type" value="Activity"/>
+    </eAnnotations>
+    <node xmi:type="uml:ActivityParameterNode" xmi:id="_OSoHkMO5EeWisJQ258lgvw" name="Análisis de viabilidad">
+      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_OSoHkcO5EeWisJQ258lgvw" source="uma_element">
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_OSoHksO5EeWisJQ258lgvw" key="uri" value="uma://_pPadMMMAEeWVhKEGb2fz_g#_CvCIkMO5EeWisJQ258lgvw"/>
+        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_OSoHk8O5EeWisJQ258lgvw" key="type" value="Task"/>
+      </eAnnotations>
+    </node>
+  </uml:Activity>
+  <notation:Diagram xmi:id="_OSCRtMO5EeWisJQ258lgvw" type="AD" element="_OSCRsMO5EeWisJQ258lgvw" name="Análisis de viabilidad del proyecto" measurementUnit="Pixel">
+    <styles xmi:type="notation:PageStyle" xmi:id="_OSCRtcO5EeWisJQ258lgvw"/>
+    <styles xmi:type="notation:GuideStyle" xmi:id="_OSCRtsO5EeWisJQ258lgvw"/>
+    <styles xmi:type="notation:DescriptionStyle" xmi:id="_OSCRt8O5EeWisJQ258lgvw"/>
   </notation:Diagram>
 </xmi:XMI>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-D_6Rvc_GmxoGlp9A0Pcyhg" name="evaluar_interfaz_usuario,_znnCAMOuEeWisJQ258lgvw" guid="-D_6Rvc_GmxoGlp9A0Pcyhg" changeDate="2016-01-25T23:32:29.119-0300">
+  <mainDescription>&lt;p>&#xD;
+    Aún cuando en cada una de las etapas del proyecto se busca reflejar lo que el usuario espera, existen ciertas&#xD;
+    funcionalidades que no siempre van a concordar&amp;nbsp;en un 100% con lo que el cliente tenía pensado. La intefaz generada&#xD;
+    para la aplicación podría entonces &lt;strong>dificultar la tarea del cliente&lt;/strong> si es que no puede manejarla&#xD;
+    correctamente.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    En esta tarea se revisa minusiosamente la interfaz de usuario comparando con las funcionalidades requeridas por el&#xD;
+    cliente y las especificaciones en cuando a la apariencia, con el fin de identificar aquellas discrepancias que podrían&#xD;
+    confundir al cliente. Estás acotaciones quedan plasmadas en el documento preliminar del &lt;strong>manual de&#xD;
+    usuario&lt;/strong> para luego entrar con mayor profundidad en las instrucciones necesarias para un correcto&#xD;
+    funcionamiento de la aplicación.&#xD;
+&lt;/p></mainDescription>
+  <purpose>Encontrar aquellas funcionalidades que puedan ser más difíciles de usar para el cliente, con el fin de centrar una&#xD;
+capacitación en ellas.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

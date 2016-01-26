@@ -777,4 +777,113 @@
     - Se encarga ademas de la captura de requerimeintos por parte del product owner.&#xD;
 &lt;/p></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-LR5bI_2DrUM0gbxbl8zwpw" name="evaluar_interfaz_usuario,_TjT_QMPTEeWmSa2pNhArlg" guid="-LR5bI_2DrUM0gbxbl8zwpw">
+    <refinedDescription>&lt;p>&#xD;
+    Aún cuando en cada una de las etapas del proyecto se busca reflejar lo que el usuario espera, existen ciertas&#xD;
+    funcionalidades que no siempre van a concordar&amp;nbsp;en un 100% con lo que el cliente tenía pensado. La intefaz generada&#xD;
+    para la aplicación podría entonces &lt;strong>dificultar la tarea del cliente&lt;/strong> si es que no puede manejarla&#xD;
+    correctamente.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    En esta tarea se revisa minusiosamente la interfaz de usuario comparando con las funcionalidades requeridas por el&#xD;
+    cliente y las especificaciones en cuando a la apariencia, con el fin de identificar aquellas discrepancias que podrían&#xD;
+    confundir al cliente. Estás acotaciones quedan plasmadas en el documento preliminar del &lt;strong>manual de&#xD;
+    usuario&lt;/strong> para luego entrar con mayor profundidad en las instrucciones necesarias para un correcto&#xD;
+    funcionamiento de la aplicación.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-uTiEoX2j0SQqKtxdEWhxWg" name="product_owner,_0u4PccPXEeWmSa2pNhArlg" guid="-uTiEoX2j0SQqKtxdEWhxWg">
+    <refinedDescription>&lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
+&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>Caracteristicas:&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>- Puede ser interno o&#xD;
+    externo a la organizacion del cliente.&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>- Es el representante de&#xD;
+    todas las personas interesadas en los resultados del proyecto (internas o externas a la organización, promotores del&#xD;
+    proyecto y usuarios finales [idealmente también debería ser un usuario clave] o consumidores finales del producto) y&#xD;
+    actua como interlocutor único ante el equipo, con autoridad para tomar decisiones.&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>- Se encarga de definir los&#xD;
+    objetivos del producto o proyecto.&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>- Se encarga de dirigir los&#xD;
+    resultados del proyecto y maximizar su ROI (Return Of Investment).&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;div style=&quot;MARGIN-LEFT: 4em&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
+    &lt;p>&#xD;
+        &lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;font size=&quot;2&quot;>Es el&#xD;
+        propietario de la planificación del proyecto: crea y mantiene la lista priorizada de requisitos&lt;/font>&lt;/b>&lt;font&#xD;
+        size=&quot;2&quot;>&lt;span lang=&quot;&quot;>&amp;nbsp;necesarios para cubrir los objetivos del producto o proyecto, conoce el valor que&#xD;
+        aportará cada requisito y calcula el&amp;nbsp;ROI&lt;/span>&lt;/font>&lt;font size=&quot;2&quot;>&lt;span lang=&quot;&quot;>a partir del coste de cada&#xD;
+        requisito que le proporciona el equipo&lt;/span>&lt;/font>&lt;font size=&quot;2&quot;>&lt;span lang=&quot;&quot;>.&lt;/span>&lt;/font>&#xD;
+    &lt;/p>&#xD;
+    &lt;p>&#xD;
+        &lt;font size=&quot;2&quot;>Reparte los objetivos/requisitos en iteraciones y establece un calendario de entregas.&lt;/font>&#xD;
+    &lt;/p>&#xD;
+    &lt;p>&#xD;
+        &lt;font size=&quot;2&quot;>Antes de iniciar cada iteración replanifica el proyecto&lt;/font>&lt;font size=&quot;2&quot;>&lt;span lang=&quot;&quot;>&amp;nbsp;en&#xD;
+        función de los requisitos que aportan más valor en ese momento, de los requisitos completados en la iteración&#xD;
+        anterior y del contexto del proyecto en ese momento (demandas del mercado, movimientos de la competencia,&#xD;
+        etc.).&lt;/span>&lt;/font>&#xD;
+    &lt;/p>&#xD;
+&lt;/div>&#xD;
+&lt;p>&#xD;
+    - Colabora con el equipo para planificar, revisar y dar detalle a los objetivos de cada iteración.&#xD;
+&lt;/p>&#xD;
+&lt;div style=&quot;MARGIN-LEFT: 4em&quot;>&#xD;
+    &lt;p>&#xD;
+        &lt;font size=&quot;2&quot;>Participar en la reunion de planificacion de iteracion&lt;/font>&lt;font size=&quot;2&quot;>&lt;span lang=&quot;&quot;>,&#xD;
+        proponiendo los requisitos más prioritarios a desarrollar, respondiendo a las dudas del equipo y detallando los&#xD;
+        requisitos que el equipo se comprometer a hacer.&lt;/span>&lt;/font>&#xD;
+    &lt;/p>&#xD;
+    &lt;p>&#xD;
+        &lt;font size=&quot;2&quot;>Estar disponible durante el curso de la iteración para responder a las preguntas que puedan&#xD;
+        aparecer.&lt;/font>&#xD;
+    &lt;/p>&#xD;
+    &lt;p>&#xD;
+        &lt;font size=&quot;2&quot;>&lt;span lang=&quot;&quot;>No cambiar los requisitos que se estan desarrollando en la iteración, una vez está&#xD;
+        iniciada.&lt;/span>&lt;/font>&#xD;
+    &lt;/p>&#xD;
+    &lt;p>&#xD;
+        &lt;font size=&quot;2&quot;>Participar en la reunion de demostración de la iteración&lt;/font>&lt;font size=&quot;2&quot;>&lt;span lang=&quot;&quot;>,&#xD;
+        revisando los requisitos completados.&lt;/span>&lt;/font>&#xD;
+    &lt;/p>&#xD;
+&lt;/div></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-1Z8pwTyut8ZzCfyvwvdaIg" name="developer-master,_0u4PdMPXEeWmSa2pNhArlg" guid="-1Z8pwTyut8ZzCfyvwvdaIg">
+    <refinedDescription>&lt;p>&#xD;
+    Caracteristicas:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Debe supervisar el trabajo de los desarrolladores juniors. Ademas de faciliar aprendizaque de nuevas tecnologias,&#xD;
+    definir estrategias aptas para el desarrollo de software optimo para los miembros del equipo de desarrollo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Se encarga de definir las actividades y prioridades en las que deben enfocarce los desarrolladores.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Planifica plazos de desarrollo y gestiona problemas de desarrollo. Se encarga tambien de comunicar estado del&#xD;
+    desarrollo al jefe de proyecto.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Gestiona ademas la interaccion entre los desarrolladores juniors con el product owner.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Se encarga ademas de subdifidir cada requerimientos de software en fases necesarias de desarrollo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Evalua situacion estado actual de desarrollo y redefine tecnicas o metidilogias aplicadas al proseso de desarrollo e&#xD;
+    implementacion.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Realiza asignacion de tareas y objetivos a los desarrolladores juniors.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
 </xmi:XMI>

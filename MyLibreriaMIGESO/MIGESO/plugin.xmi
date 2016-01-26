@@ -15,6 +15,7 @@
     <resourceDescriptors xmi:id="_zKTUwMPLEeWGouYkZex_qg" id="-oKOvwOqMqXRicaUN5YcJTQ" uri="guidances/concepts/qu_prcticas_rene_openmigeso.xmi"/>
     <resourceDescriptors xmi:id="_zKTUwcPLEeWGouYkZex_qg" id="-aYs7gNX0NqR_8ttmClpG-A" uri="guidances/guidelines/quin_debera_usar_openmigeso.xmi"/>
     <resourceDescriptors xmi:id="_zKdFwMPLEeWGouYkZex_qg" id="-DFHOGbensM6B7sV368oIcw" uri="guidances/reports/introduccion_a_openmigeso.xmi"/>
+    <resourceDescriptors xmi:id="_qv3BkMPXEeWmSa2pNhArlg" id="-D_6Rvc_GmxoGlp9A0Pcyhg" uri="tasks/evaluar_interfaz_usuario.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_JssFAML6EeWVhKEGb2fz_g" name="MIGESO" guid="_JssFAML6EeWVhKEGb2fz_g">
     <methodElementProperty xmi:id="_Js12AML6EeWVhKEGb2fz_g" name="plugin_synFree" value="true"/>
@@ -108,8 +109,9 @@
             <methodElementProperty xmi:id="_jYxPYML_EeWVhKEGb2fz_g" name="me_edited" value="true"/>
             <presentation xmi:id="-1O0n4jq0PbcDwWgt0tuTxw" href="uma://-1O0n4jq0PbcDwWgt0tuTxw#-1O0n4jq0PbcDwWgt0tuTxw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_znnCAMOuEeWisJQ258lgvw" name="evaluar_interfaz_usuario" guid="_znnCAMOuEeWisJQ258lgvw" presentationName="Evaluar interfaz usuario" briefDescription="Identifica las principales dificultades del manejo de la interfaz, con el fin de indicar al usuario el correcto uso de esta." performedBy="_fMg8QML9EeWVhKEGb2fz_g _13K50ML-EeWVhKEGb2fz_g">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_znnCAMOuEeWisJQ258lgvw" name="evaluar_interfaz_usuario" guid="_znnCAMOuEeWisJQ258lgvw" presentationName="Evaluar interfaz usuario" briefDescription="Identifica las principales dificultades del manejo de la interfaz, con el fin de indicar al usuario el correcto uso de esta." performedBy="_fMg8QML9EeWVhKEGb2fz_g _13K50ML-EeWVhKEGb2fz_g" mandatoryInput="_vn-wgML6EeWVhKEGb2fz_g" output="_qvTA4MPXEeWmSa2pNhArlg">
             <methodElementProperty xmi:id="_K8ZXIMOvEeWisJQ258lgvw" name="me_edited" value="true"/>
+            <presentation xmi:id="-D_6Rvc_GmxoGlp9A0Pcyhg" href="uma://-D_6Rvc_GmxoGlp9A0Pcyhg#-D_6Rvc_GmxoGlp9A0Pcyhg"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_uApx0MO0EeWisJQ258lgvw" name="analisis_de_riesgos" guid="_uApx0MO0EeWisJQ258lgvw" presentationName="Análisis de riesgos" briefDescription="Se realiza un análisis preliminar de los riesgos en la ejecución del proyecto, el cual permita analizar y definir si es conveniente embarcarse en dicho proyecto.">
             <methodElementProperty xmi:id="_8u5H4MO0EeWisJQ258lgvw" name="me_edited" value="true"/>
@@ -150,6 +152,30 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Report" xmi:id="_y-1Ek8PLEeWGouYkZex_qg" name="introduccion_a_openmigeso" guid="_y-1Ek8PLEeWGouYkZex_qg" presentationName="Introduccion a OpenMIGESO" briefDescription="Introcucción a OpenMIGESO..." shapeicon="guidances/reports/resources/OpenMigeso.JPG">
             <methodElementProperty xmi:id="_zKAZ08PLEeWGouYkZex_qg" name="me_edited" value="true"/>
             <presentation xmi:id="-DFHOGbensM6B7sV368oIcw" href="uma://-DFHOGbensM6B7sV368oIcw#-DFHOGbensM6B7sV368oIcw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_qvTA4MPXEeWmSa2pNhArlg" name="manual_de_usuario" guid="_qvTA4MPXEeWmSa2pNhArlg" presentationName="Manual de usuario">
+            <methodElementProperty xmi:id="_tFKsEMPXEeWmSa2pNhArlg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_7ddAQMPXEeWmSa2pNhArlg" name="evaluacin_del_producto" guid="_7ddAQMPXEeWmSa2pNhArlg" presentationName="Evaluación del producto">
+            <methodElementProperty xmi:id="_Jr404MPYEeWmSa2pNhArlg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_N6BpQMPYEeWmSa2pNhArlg" name="creacin_del_manual_de_usuario" guid="_N6BpQMPYEeWmSa2pNhArlg" presentationName="Creación del manual de usuario">
+            <methodElementProperty xmi:id="_Po5l4MPYEeWmSa2pNhArlg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Up9sAMPYEeWmSa2pNhArlg" name="presentacin_de_la_aplicacin_al_cliente" guid="_Up9sAMPYEeWmSa2pNhArlg" presentationName="Presentación de la aplicación al cliente">
+            <methodElementProperty xmi:id="_W56VYMPYEeWmSa2pNhArlg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_YR4N4MPYEeWmSa2pNhArlg" name="definicin_de_mantenciones" guid="_YR4N4MPYEeWmSa2pNhArlg" presentationName="Definición de mantenciones">
+            <methodElementProperty xmi:id="_ZzpioMPYEeWmSa2pNhArlg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_bzzcgMPYEeWmSa2pNhArlg" name="especificacin_de_tiempos" guid="_bzzcgMPYEeWmSa2pNhArlg" presentationName="Especificación de tiempos">
+            <methodElementProperty xmi:id="_dnSzYMPYEeWmSa2pNhArlg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_fI5wEMPYEeWmSa2pNhArlg" name="estudio_de_mejoras" guid="_fI5wEMPYEeWmSa2pNhArlg" presentationName="Estudio de mejoras">
+            <methodElementProperty xmi:id="_gfxcYMPYEeWmSa2pNhArlg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_hsEQYMPYEeWmSa2pNhArlg" name="anlisis_de_trabajos_futuros" guid="_hsEQYMPYEeWmSa2pNhArlg" presentationName="Análisis de trabajos futuros">
+            <methodElementProperty xmi:id="_jiPu4MPYEeWmSa2pNhArlg" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
       </childPackages>

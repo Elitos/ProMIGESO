@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-z7_LesITEwdJj6FM07Jsow" name="new_report,_etOPYMOFEeWQoKPojk0Sew" guid="-z7_LesITEwdJj6FM07Jsow" authors="Elías González" changeDate="2016-01-25T14:08:40.327-0300" changeDescription="&#x9;&#x9;" version="1.0">
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DRs-GqsNsUch-Ewb1PKKTw" name="new_report,_etOPYMOFEeWQoKPojk0Sew" guid="-DRs-GqsNsUch-Ewb1PKKTw" authors="Elías González" changeDate="2016-01-25T14:08:40.327-0300" changeDescription="&#x9;&#x9;" version="1.0">
   <mainDescription>&lt;h3>&#xD;
     ¿Qué es OpenMigeso?&#xD;
 &lt;/h3>&#xD;
@@ -7,8 +7,9 @@
     &lt;b id=&quot;docs-internal-guid-678b3b76-7a6d-68e0-dbbd-574ca5871c1d&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
     style=&quot;FONT-SIZE: 12px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
     OpenMigeso es una cadena unificada de procesos que forman parte del ciclo de vida del software se caracterizan por ser&#xD;
-    iterativos y con avances incrementales. OpenMigeso tiene un paradigma ágil pero a su vez documenta determinadas&#xD;
-    situaciones en las cuales se considera necesario. Se define bajo un ambiente en el cual el número de integrantes de la&#xD;
+    iterativos y con avances incrementales. OpenMigeso tiene un enfoque en el paradigma ágil pero a su tambien en los&#xD;
+    guiados por plan&amp;nbsp;ya que requiere&amp;nbsp;documentar determinadas situaciones, o estados del proceso de&#xD;
+    desarrollo&amp;nbsp;que se consideran necesarias. Se define bajo un ambiente en el cual el número de integrantes de la&#xD;
     empresa no supere las 10 personas. Por lo cual se recomienda su uso en proyectos pequeños y medianos.&lt;/span>&lt;/b>&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;

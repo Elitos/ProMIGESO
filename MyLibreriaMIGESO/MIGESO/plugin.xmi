@@ -8,11 +8,13 @@
     <resourceDescriptors xmi:id="_LpjBAML_EeWVhKEGb2fz_g" id="-oSqMItuz-XIu07mDnU32Ng" uri="roles/developer-master.xmi"/>
     <resourceDescriptors xmi:id="_jYxPYsL_EeWVhKEGb2fz_g" id="-1O0n4jq0PbcDwWgt0tuTxw" uri="roles/developer-full.xmi"/>
     <resourceDescriptors xmi:id="_pPadNMMAEeWVhKEGb2fz_g" id="_pPadMMMAEeWVhKEGb2fz_g" uri="deliveryprocesses/Ciclo%20Software/model.xmi"/>
-    <resourceDescriptors xmi:id="_UcB28MOGEeWQoKPojk0Sew" id="-z7_LesITEwdJj6FM07Jsow" uri="guidances/reports/introduccion_a_openmigeso.xmi"/>
-    <resourceDescriptors xmi:id="_YG-jEcOkEeWQoKPojk0Sew" id="-7ZLS5uMOpUny1Kh6V5L4ug" uri="guidances/concepts/guia_conceptos_usuario.xmi"/>
     <resourceDescriptors xmi:id="_up7JkMO6EeWisJQ258lgvw" id="-wCFHu_BQlu4sVFDAKhrQzg" uri="tasks/anlisis_de_viabilidad.xmi"/>
     <resourceDescriptors xmi:id="_2iR7AMO8EeWisJQ258lgvw" id="-5MyD9FIToFF2gs_0LWjx2g" uri="tasks/planificacin_del_proyecto.xmi"/>
     <resourceDescriptors xmi:id="_h-V1gMO_EeWisJQ258lgvw" id="-Xr6fEHXWHOWTxuN9awlRCQ" uri="tasks/cierre_de_etapas.xmi"/>
+    <resourceDescriptors xmi:id="_KcfTwMPKEeWGouYkZex_qg" id="-Jf0IMW5cvh42soJjJ4DBHQ" uri="guidances/concepts/guia_conceptos_usuario.xmi"/>
+    <resourceDescriptors xmi:id="_Kcpr0MPKEeWGouYkZex_qg" id="--g4dTM7xNAjzlLevIRah7g" uri="guidances/concepts/qu_prcticas_rene_openmigeso.xmi"/>
+    <resourceDescriptors xmi:id="_KcwZgMPKEeWGouYkZex_qg" id="-6DU8Mqli-2SH_mDM4tQ6gw" uri="guidances/guidelines/quin_debera_usar_openmigeso.xmi"/>
+    <resourceDescriptors xmi:id="_Kc1SAMPKEeWGouYkZex_qg" id="-DRs-GqsNsUch-Ewb1PKKTw" uri="guidances/reports/introduccion_a_openmigeso.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_JssFAML6EeWVhKEGb2fz_g" name="MIGESO" guid="_JssFAML6EeWVhKEGb2fz_g">
     <methodElementProperty xmi:id="_Js12AML6EeWVhKEGb2fz_g" name="plugin_synFree" value="true"/>
@@ -63,9 +65,12 @@
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFCsL6EeWVhKEGb2fz_g" name="Hidden" guid="_JssFCsL6EeWVhKEGb2fz_g">
             <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_JssFC8L6EeWVhKEGb2fz_g" name="Custom Categories" guid="_JssFC8L6EeWVhKEGb2fz_g" categorizedElements="_8KM68ML6EeWVhKEGb2fz_g"/>
           </childPackages>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_8KM68ML6EeWVhKEGb2fz_g" name="migeso" guid="_8KM68ML6EeWVhKEGb2fz_g" presentationName="MIGESO">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_8KM68ML6EeWVhKEGb2fz_g" name="migeso" guid="_8KM68ML6EeWVhKEGb2fz_g" presentationName="MIGESO" shapeicon="customcategories/resources/OpenMigeso.JPG">
             <methodElementProperty xmi:id="_9F0OoML6EeWVhKEGb2fz_g" name="me_edited" value="true"/>
-            <categorizedElements xsi:type="org.eclipse.epf.uma:Report" href="#_etOPYMOFEeWQoKPojk0Sew"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Report" href="#_KO5js8PKEeWGouYkZex_qg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="#_KO5jssPKEeWGouYkZex_qg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Concept" href="#_KO5jscPKEeWGouYkZex_qg"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Concept" href="#_KO5jsMPKEeWGouYkZex_qg"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_pPadMMMAEeWVhKEGb2fz_g#_pPadMcMAEeWVhKEGb2fz_g"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:RoleSet" href="#_jT7cIMOCEeWQoKPojk0Sew"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" href="#_HY2b4MODEeWQoKPojk0Sew"/>
@@ -103,14 +108,6 @@
             <methodElementProperty xmi:id="_jYxPYML_EeWVhKEGb2fz_g" name="me_edited" value="true"/>
             <presentation xmi:id="-1O0n4jq0PbcDwWgt0tuTxw" href="uma://-1O0n4jq0PbcDwWgt0tuTxw#-1O0n4jq0PbcDwWgt0tuTxw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Report" xmi:id="_etOPYMOFEeWQoKPojk0Sew" name="introduccion_a_openmigeso" guid="_etOPYMOFEeWQoKPojk0Sew" presentationName="Introduccion a OpenMIGESO" briefDescription="Introcucción a OpenMIGESO....." shapeicon="guidances/reports/resources/OpenMigeso.JPG">
-            <methodElementProperty xmi:id="_hhEQAMOFEeWQoKPojk0Sew" name="me_edited" value="true"/>
-            <presentation xmi:id="-z7_LesITEwdJj6FM07Jsow" href="uma://-z7_LesITEwdJj6FM07Jsow#-z7_LesITEwdJj6FM07Jsow"/>
-          </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_3NpyEMOiEeWQoKPojk0Sew" name="guia_conceptos_usuario" guid="_3NpyEMOiEeWQoKPojk0Sew" presentationName="Guia Conceptos Usuario" briefDescription="Se describen los conceptos con los que se debe familiarizar el usuario de OpenMIGESO.">
-            <methodElementProperty xmi:id="_EfgpsMOjEeWQoKPojk0Sew" name="me_edited" value="true"/>
-            <presentation xmi:id="-7ZLS5uMOpUny1Kh6V5L4ug" href="uma://-7ZLS5uMOpUny1Kh6V5L4ug#-7ZLS5uMOpUny1Kh6V5L4ug"/>
-          </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_znnCAMOuEeWisJQ258lgvw" name="evaluar_interfaz_usuario" guid="_znnCAMOuEeWisJQ258lgvw" presentationName="Evaluar interfaz usuario" briefDescription="Identifica las principales dificultades del manejo de la interfaz, con el fin de indicar al usuario el correcto uso de esta." performedBy="_fMg8QML9EeWVhKEGb2fz_g _13K50ML-EeWVhKEGb2fz_g">
             <methodElementProperty xmi:id="_K8ZXIMOvEeWisJQ258lgvw" name="me_edited" value="true"/>
           </contentElements>
@@ -137,6 +134,22 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_7LokYMO_EeWisJQ258lgvw" name="lista_de_control" guid="_7LokYMO_EeWisJQ258lgvw" presentationName="Lista de control">
             <methodElementProperty xmi:id="_8UseMMO_EeWisJQ258lgvw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_KO5jsMPKEeWGouYkZex_qg" name="guia_conceptos_usuario" guid="_KO5jsMPKEeWGouYkZex_qg" presentationName="Guia Conceptos Usuario" briefDescription="Se describen los conceptos con los que se debe familiarizar el usuario de OpenMIGESO." shapeicon="guidances/concepts/resources/OpenMigeso.JPG">
+            <methodElementProperty xmi:id="_KcX_AMPKEeWGouYkZex_qg" name="me_edited" value="true"/>
+            <presentation xmi:id="-Jf0IMW5cvh42soJjJ4DBHQ" href="uma://-Jf0IMW5cvh42soJjJ4DBHQ#-Jf0IMW5cvh42soJjJ4DBHQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_KO5jscPKEeWGouYkZex_qg" name="qu_prcticas_rene_openmigeso" guid="_KO5jscPKEeWGouYkZex_qg" presentationName="Qué prácticas reúne OpenMigeso" briefDescription="A continuación se describen las prácticas de ingeniería de software que utiliza OpenMigeso.  " shapeicon="guidances/concepts/resources/OpenMigeso.JPG">
+            <methodElementProperty xmi:id="_KcX_AcPKEeWGouYkZex_qg" name="me_edited" value="true"/>
+            <presentation xmi:id="--g4dTM7xNAjzlLevIRah7g" href="uma://--g4dTM7xNAjzlLevIRah7g#--g4dTM7xNAjzlLevIRah7g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_KO5jssPKEeWGouYkZex_qg" name="quin_debera_usar_openmigeso" guid="_KO5jssPKEeWGouYkZex_qg" presentationName="Quién debería usar OpenMIGESO" briefDescription="A continuación se describre quién debería usar OpenMigeso." shapeicon="guidances/guidelines/resources/OpenMigeso.JPG">
+            <methodElementProperty xmi:id="_KcX_AsPKEeWGouYkZex_qg" name="me_edited" value="true"/>
+            <presentation xmi:id="-6DU8Mqli-2SH_mDM4tQ6gw" href="uma://-6DU8Mqli-2SH_mDM4tQ6gw#-6DU8Mqli-2SH_mDM4tQ6gw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Report" xmi:id="_KO5js8PKEeWGouYkZex_qg" name="introduccion_a_openmigeso" guid="_KO5js8PKEeWGouYkZex_qg" presentationName="Introduccion a OpenMIGESO" briefDescription="Introcucción a OpenMIGESO....." shapeicon="guidances/reports/resources/OpenMigeso.JPG">
+            <methodElementProperty xmi:id="_KcX_A8PKEeWGouYkZex_qg" name="me_edited" value="true"/>
+            <presentation xmi:id="-DRs-GqsNsUch-Ewb1PKKTw" href="uma://-DRs-GqsNsUch-Ewb1PKKTw#-DRs-GqsNsUch-Ewb1PKKTw"/>
           </contentElements>
         </childPackages>
       </childPackages>

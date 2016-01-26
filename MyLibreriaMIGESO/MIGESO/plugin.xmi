@@ -22,6 +22,18 @@
     <resourceDescriptors xmi:id="_HmEJIMPeEeWmSa2pNhArlg" id="-2P4pMfCRe289Sfp1WKMdbQ" uri="tasks/estudio_de_mejoras.xmi"/>
     <resourceDescriptors xmi:id="_0CbU8MPeEeWmSa2pNhArlg" id="-Dc-pkewsktcdCJOXOFHhRA" uri="tasks/definicin_de_mantenciones.xmi"/>
     <resourceDescriptors xmi:id="_4HRN8MPfEeWmSa2pNhArlg" id="-tJEpctmoxStnlKi3oQK_Pw" uri="tasks/especificacin_de_tiempos.xmi"/>
+    <resourceDescriptors xmi:id="_Pg1vEMQlEeWGouYkZex_qg" id="-PI1uVtN9Gn7-WxpxSCWUvg" uri="disciplines/Iniciación%20proyecto.xmi"/>
+    <resourceDescriptors xmi:id="_ovOqIMQlEeWGouYkZex_qg" id="-qEsyhwUnuwrYhpa-huO6dw" uri="disciplines/implantacin_proyecto.xmi"/>
+    <resourceDescriptors xmi:id="_pS2CoMQnEeWGouYkZex_qg" id="-c-gwDxSFhvi-qVqG9Xc8uw" uri="tasks/captura_requisitos.xmi"/>
+    <resourceDescriptors xmi:id="_y05AoMQnEeWGouYkZex_qg" id="-d0pWTa-gCYvAqGMy8W1zww" uri="workproducts/planilla_requisitos.xmi"/>
+    <resourceDescriptors xmi:id="_6mXjcMQoEeWGouYkZex_qg" id="-esViYZtPCkcHULtLWr5KhQ" uri="tasks/especificacin_de_requerimientos.xmi"/>
+    <resourceDescriptors xmi:id="_r3QOMMQpEeWGouYkZex_qg" id="-bIq0gbm9T4Ba0lGFnFihvQ" uri="tasks/analisis_de_requerimeintos.xmi"/>
+    <resourceDescriptors xmi:id="_xljYUMQqEeWGouYkZex_qg" id="-UCOI9vYYEy7M71r2LOzNKw" uri="tasks/validacin_de_requerimientos.xmi"/>
+    <resourceDescriptors xmi:id="_ySStEMQrEeWGouYkZex_qg" id="-p4hAkowm3r6AM7L9RUZPBw" uri="tasks/evaluacin_y_definicin_de_linea_base.xmi"/>
+    <resourceDescriptors xmi:id="_9tehgMQsEeWGouYkZex_qg" id="-nGOWl34HyZBpV_dwa8so9Q" uri="tasks/diseno_logico.xmi"/>
+    <resourceDescriptors xmi:id="_hMvaAMQuEeWGouYkZex_qg" id="-bud9xwmRyqCG6WKtRlNHUQ" uri="tasks/diseo_fisico.xmi"/>
+    <resourceDescriptors xmi:id="_lSSdoMQvEeWVZvuJTOqe3g" id="-n2ETMSbVreEVj0MY4H8OsQ" uri="tasks/diseo_despliegue.xmi"/>
+    <resourceDescriptors xmi:id="_9OwoYcQwEeWVZvuJTOqe3g" id="-LkfbxCcxNisqwfuCapOQkg" uri="tasks/diseo_escenarios.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_JssFAML6EeWVhKEGb2fz_g" name="MIGESO" guid="_JssFAML6EeWVhKEGb2fz_g">
     <methodElementProperty xmi:id="_Js12AML6EeWVhKEGb2fz_g" name="plugin_synFree" value="true"/>
@@ -29,8 +41,9 @@
       <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFAsL6EeWVhKEGb2fz_g" name="Categories" guid="_JssFAsL6EeWVhKEGb2fz_g">
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFA8L6EeWVhKEGb2fz_g" name="Domains" guid="_JssFA8L6EeWVhKEGb2fz_g"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFBML6EeWVhKEGb2fz_g" name="Disciplines" guid="_JssFBML6EeWVhKEGb2fz_g">
-          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_DViXcMODEeWQoKPojk0Sew" name="Iniciación proyecto" guid="_DViXcMODEeWQoKPojk0Sew" presentationName="Iniciación proyecto" tasks="_wXiz4MO4EeWisJQ258lgvw _COgcIMO-EeWisJQ258lgvw _Efd5gMO7EeWisJQ258lgvw">
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_DViXcMODEeWQoKPojk0Sew" name="Iniciación proyecto" guid="_DViXcMODEeWQoKPojk0Sew" presentationName="Iniciación proyecto" briefDescription="A continuación se describen las tareas que forman parte de la iniciación del proyecto." tasks="_wXiz4MO4EeWisJQ258lgvw _COgcIMO-EeWisJQ258lgvw _Efd5gMO7EeWisJQ258lgvw">
             <methodElementProperty xmi:id="_EPL8QMODEeWQoKPojk0Sew" name="me_edited" value="true"/>
+            <presentation xmi:id="-PI1uVtN9Gn7-WxpxSCWUvg" href="uma://-PI1uVtN9Gn7-WxpxSCWUvg#-PI1uVtN9Gn7-WxpxSCWUvg"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_HY2b4MODEeWQoKPojk0Sew" name="Tareas x Fase" guid="_HY2b4MODEeWQoKPojk0Sew" presentationName="Tareas x Fase" briefDescription="Lista de tareas organizadas por fase." disciplines="_aH-NcMODEeWQoKPojk0Sew _ePeOUMODEeWQoKPojk0Sew _DViXcMODEeWQoKPojk0Sew">
             <methodElementProperty xmi:id="_KMZhkMODEeWQoKPojk0Sew" name="me_edited" value="true"/>
@@ -38,13 +51,14 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_aH-NcMODEeWQoKPojk0Sew" name="desarrollo_proyecto" guid="_aH-NcMODEeWQoKPojk0Sew" presentationName="Desarrollo Proyecto" tasks="_mfh-QML6EeWVhKEGb2fz_g">
             <methodElementProperty xmi:id="_cgmRsMODEeWQoKPojk0Sew" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_ePeOUMODEeWQoKPojk0Sew" name="implantacin_proyecto" guid="_ePeOUMODEeWQoKPojk0Sew" presentationName="Implantación Proyecto">
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_ePeOUMODEeWQoKPojk0Sew" name="implantacin_proyecto" guid="_ePeOUMODEeWQoKPojk0Sew" presentationName="Implantación Proyecto" briefDescription="A continuación se describen las tareas que se lleban a cabo en la implantación del proyecto." tasks="_Up9sAMPYEeWmSa2pNhArlg _7ddAQMPXEeWmSa2pNhArlg _hsEQYMPYEeWmSa2pNhArlg _N6BpQMPYEeWmSa2pNhArlg _YR4N4MPYEeWmSa2pNhArlg _bzzcgMPYEeWmSa2pNhArlg _fI5wEMPYEeWmSa2pNhArlg _znnCAMOuEeWisJQ258lgvw">
             <methodElementProperty xmi:id="_j-Ev4MODEeWQoKPojk0Sew" name="me_edited" value="true"/>
+            <presentation xmi:id="-qEsyhwUnuwrYhpa-huO6dw" href="uma://-qEsyhwUnuwrYhpa-huO6dw#-qEsyhwUnuwrYhpa-huO6dw"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" xmi:id="_Hc-4gMOEEeWQoKPojk0Sew" name="Tareas x Proceso" guid="_Hc-4gMOEEeWQoKPojk0Sew" presentationName="Tareas x Proceso" disciplines="_P0gkIMOEEeWQoKPojk0Sew _SrLPQMOEEeWQoKPojk0Sew _VNFLUMOEEeWQoKPojk0Sew _aZ_8IMOEEeWQoKPojk0Sew _ez1DIMOEEeWQoKPojk0Sew">
             <methodElementProperty xmi:id="_MCY9YMOEEeWQoKPojk0Sew" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_P0gkIMOEEeWQoKPojk0Sew" name="Ingenieria de requerimientos" guid="_P0gkIMOEEeWQoKPojk0Sew" presentationName="Ingenieria de requerimientos">
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_P0gkIMOEEeWQoKPojk0Sew" name="Ingenieria de requerimientos" guid="_P0gkIMOEEeWQoKPojk0Sew" presentationName="Ingenieria de requerimientos" tasks="_UsLOsMQpEeWGouYkZex_qg _mfh-QML6EeWVhKEGb2fz_g _lzwQIMQoEeWGouYkZex_qg _Oy3nEMQrEeWGouYkZex_qg _ktoDoMQqEeWGouYkZex_qg">
             <methodElementProperty xmi:id="_SIv3oMOEEeWQoKPojk0Sew" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_SrLPQMOEEeWQoKPojk0Sew" name="Diseo Software" guid="_SrLPQMOEEeWQoKPojk0Sew" presentationName="Diseño Software">
@@ -65,7 +79,11 @@
             <methodElementProperty xmi:id="_l34moMOCEeWQoKPojk0Sew" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
-        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFBsL6EeWVhKEGb2fz_g" name="WP Types" guid="_JssFBsL6EeWVhKEGb2fz_g"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFBsL6EeWVhKEGb2fz_g" name="WP Types" guid="_JssFBsL6EeWVhKEGb2fz_g">
+          <contentElements xsi:type="org.eclipse.epf.uma:WorkProductType" xmi:id="_aBfz8MQxEeWVZvuJTOqe3g" name="artefactos" guid="_aBfz8MQxEeWVZvuJTOqe3g" presentationName="Artefactos" workProducts="_uApx0MO0EeWisJQ258lgvw _kWPFsMPaEeWmSa2pNhArlg _nYxpoMPaEeWmSa2pNhArlg _0CIaAMPeEeWmSa2pNhArlg _w_SbQMO2EeWisJQ258lgvw _Hlao4MPeEeWmSa2pNhArlg _KGOOMMPdEeWmSa2pNhArlg _7LokYMO_EeWisJQ258lgvw _qvTA4MPXEeWmSa2pNhArlg _23CRwMO2EeWisJQ258lgvw _vn-wgML6EeWVhKEGb2fz_g">
+            <methodElementProperty xmi:id="_dzDaAMQxEeWVZvuJTOqe3g" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFB8L6EeWVhKEGb2fz_g" name="Tools" guid="_JssFB8L6EeWVhKEGb2fz_g"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFCML6EeWVhKEGb2fz_g" name="StandardCategories" guid="_JssFCML6EeWVhKEGb2fz_g"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JssFCcL6EeWVhKEGb2fz_g" name="CustomCategories" guid="_JssFCcL6EeWVhKEGb2fz_g">
@@ -78,10 +96,11 @@
             <categorizedElements xsi:type="org.eclipse.epf.uma:Guideline" href="#_y-1EksPLEeWGouYkZex_qg"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:Concept" href="#_y-1EkcPLEeWGouYkZex_qg"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:Concept" href="#_y-1EkMPLEeWGouYkZex_qg"/>
-            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_pPadMMMAEeWVhKEGb2fz_g#_pPadMcMAEeWVhKEGb2fz_g"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:RoleSet" href="#_jT7cIMOCEeWQoKPojk0Sew"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_pPadMMMAEeWVhKEGb2fz_g#_pPadMcMAEeWVhKEGb2fz_g"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" href="#_HY2b4MODEeWQoKPojk0Sew"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" href="#_Hc-4gMOEEeWQoKPojk0Sew"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:WorkProductType" href="#_aBfz8MQxEeWVZvuJTOqe3g"/>
           </contentElements>
         </childPackages>
       </childPackages>
@@ -93,11 +112,13 @@
             <methodElementProperty xmi:id="_iTpzsML6EeWVhKEGb2fz_g" name="me_edited" value="true"/>
             <presentation xmi:id="-333M24MNLRxRH-zuBtMDDg" href="uma://-333M24MNLRxRH-zuBtMDDg#-333M24MNLRxRH-zuBtMDDg"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_mfh-QML6EeWVhKEGb2fz_g" name="captura_requisitos" guid="_mfh-QML6EeWVhKEGb2fz_g" presentationName="Captura_requisitos" performedBy="_TVRI0ML6EeWVhKEGb2fz_g" mandatoryInput="_vn-wgML6EeWVhKEGb2fz_g" output="_vn-wgML6EeWVhKEGb2fz_g">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_mfh-QML6EeWVhKEGb2fz_g" name="captura_requisitos" guid="_mfh-QML6EeWVhKEGb2fz_g" presentationName="Captura_requisitos" briefDescription="Se instancia el proceso de captura de reququerimientos." performedBy="_TVRI0ML6EeWVhKEGb2fz_g" mandatoryInput="_vn-wgML6EeWVhKEGb2fz_g" output="_vn-wgML6EeWVhKEGb2fz_g" additionallyPerformedBy="_fMg8QML9EeWVhKEGb2fz_g">
             <methodElementProperty xmi:id="_ocTM8ML6EeWVhKEGb2fz_g" name="me_edited" value="true"/>
+            <presentation xmi:id="-c-gwDxSFhvi-qVqG9Xc8uw" href="uma://-c-gwDxSFhvi-qVqG9Xc8uw#-c-gwDxSFhvi-qVqG9Xc8uw"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_vn-wgML6EeWVhKEGb2fz_g" name="planilla_requisitos" guid="_vn-wgML6EeWVhKEGb2fz_g" presentationName="Planilla_requisitos">
             <methodElementProperty xmi:id="_w604cML6EeWVhKEGb2fz_g" name="me_edited" value="true"/>
+            <presentation xmi:id="-d0pWTa-gCYvAqGMy8W1zww" href="uma://-d0pWTa-gCYvAqGMy8W1zww#-d0pWTa-gCYvAqGMy8W1zww"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_fMg8QML9EeWVhKEGb2fz_g" name="product_owner" guid="_fMg8QML9EeWVhKEGb2fz_g" presentationName="Product_Owner" briefDescription="Persona que representa al cliente y sus intereses.&#xD;&#xA;">
             <methodElementProperty xmi:id="_FQOj8ML-EeWVhKEGb2fz_g" name="me_edited" value="true"/>
@@ -203,6 +224,38 @@
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_0CIaAMPeEeWmSa2pNhArlg" name="documento_de_mantencin_del_software" guid="_0CIaAMPeEeWmSa2pNhArlg" presentationName="Documento de mantención del software">
             <methodElementProperty xmi:id="_2xOdgMPeEeWmSa2pNhArlg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_lzwQIMQoEeWGouYkZex_qg" name="especificacin_de_requerimientos" guid="_lzwQIMQoEeWGouYkZex_qg" presentationName="Especificación de Requerimientos" briefDescription="Se especifican más al detalle los requerimientos obtenidos de la lista resultante de captura de requerimientos.&#xD;&#xA;" performedBy="_TVRI0ML6EeWVhKEGb2fz_g" mandatoryInput="_vn-wgML6EeWVhKEGb2fz_g" output="_vn-wgML6EeWVhKEGb2fz_g">
+            <methodElementProperty xmi:id="_plgqgMQoEeWGouYkZex_qg" name="me_edited" value="true"/>
+            <presentation xmi:id="-esViYZtPCkcHULtLWr5KhQ" href="uma://-esViYZtPCkcHULtLWr5KhQ#-esViYZtPCkcHULtLWr5KhQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_UsLOsMQpEeWGouYkZex_qg" name="analisis_de_requerimeintos" guid="_UsLOsMQpEeWGouYkZex_qg" presentationName="Analisis de requerimeintos" briefDescription="Actividad que busca un análisis por parte del product-owner y el system-master priorizando cuales son los requerimientos funcionales más importantes." performedBy="_fMg8QML9EeWVhKEGb2fz_g _TVRI0ML6EeWVhKEGb2fz_g" mandatoryInput="_vn-wgML6EeWVhKEGb2fz_g" output="_vn-wgML6EeWVhKEGb2fz_g">
+            <methodElementProperty xmi:id="_r3Mj0MQpEeWGouYkZex_qg" name="me_edited" value="true"/>
+            <presentation xmi:id="-bIq0gbm9T4Ba0lGFnFihvQ" href="uma://-bIq0gbm9T4Ba0lGFnFihvQ#-bIq0gbm9T4Ba0lGFnFihvQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ktoDoMQqEeWGouYkZex_qg" name="validacin_de_requerimientos" guid="_ktoDoMQqEeWGouYkZex_qg" presentationName="Validación de requerimientos" briefDescription="Se validan los reuquerimientos con el equipo de desarrollo." performedBy="_13K50ML-EeWVhKEGb2fz_g _PlXLwML-EeWVhKEGb2fz_g _TVRI0ML6EeWVhKEGb2fz_g" mandatoryInput="_vn-wgML6EeWVhKEGb2fz_g">
+            <methodElementProperty xmi:id="_n6b94MQqEeWGouYkZex_qg" name="me_edited" value="true"/>
+            <presentation xmi:id="-UCOI9vYYEy7M71r2LOzNKw" href="uma://-UCOI9vYYEy7M71r2LOzNKw#-UCOI9vYYEy7M71r2LOzNKw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Oy3nEMQrEeWGouYkZex_qg" name="evaluacin_y_definicin_de_linea_base" guid="_Oy3nEMQrEeWGouYkZex_qg" presentationName="Evaluación y definición de linea base" briefDescription="Se evalúan los requerimientos para la iteración con el cliente, y se redefinen requerimientos de ser necesario, además se define la línea base bajo la cual se pagará (pago por servicio) la primera iteración.&#xD;&#xA;" performedBy="_fMg8QML9EeWVhKEGb2fz_g _TVRI0ML6EeWVhKEGb2fz_g _PlXLwML-EeWVhKEGb2fz_g" mandatoryInput="_vn-wgML6EeWVhKEGb2fz_g" output="_vn-wgML6EeWVhKEGb2fz_g">
+            <methodElementProperty xmi:id="_ySOboMQrEeWGouYkZex_qg" name="me_edited" value="true"/>
+            <presentation xmi:id="-p4hAkowm3r6AM7L9RUZPBw" href="uma://-p4hAkowm3r6AM7L9RUZPBw#-p4hAkowm3r6AM7L9RUZPBw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_sDd94MQsEeWGouYkZex_qg" name="diseno_logico" guid="_sDd94MQsEeWGouYkZex_qg" presentationName="Diseno logico." briefDescription="Diagrama de modelo lógico del sistema, que incluye los requerimientos o funcionalidades a implementar en la iteración actual." performedBy="_TVRI0ML6EeWVhKEGb2fz_g" additionallyPerformedBy="_fMg8QML9EeWVhKEGb2fz_g">
+            <methodElementProperty xmi:id="_9tbeMMQsEeWGouYkZex_qg" name="me_edited" value="true"/>
+            <presentation xmi:id="-nGOWl34HyZBpV_dwa8so9Q" href="uma://-nGOWl34HyZBpV_dwa8so9Q#-nGOWl34HyZBpV_dwa8so9Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_x6KPAMQtEeWGouYkZex_qg" name="diseo_fisico" guid="_x6KPAMQtEeWGouYkZex_qg" presentationName="Diseño fisico" briefDescription="Diseño físico del sistema involucra componentes del sistema y de que forma se encontraran distribuidos.&#xD;&#xA;" performedBy="_13K50ML-EeWVhKEGb2fz_g _TVRI0ML6EeWVhKEGb2fz_g">
+            <methodElementProperty xmi:id="_hMmQEMQuEeWGouYkZex_qg" name="me_edited" value="true"/>
+            <presentation xmi:id="-bud9xwmRyqCG6WKtRlNHUQ" href="uma://-bud9xwmRyqCG6WKtRlNHUQ#-bud9xwmRyqCG6WKtRlNHUQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_bHMioMQvEeWVZvuJTOqe3g" name="diseo_despliegue" guid="_bHMioMQvEeWVZvuJTOqe3g" presentationName="Diseño despliegue" briefDescription="Como el software se desplegará sobre el hardware." performedBy="_13K50ML-EeWVhKEGb2fz_g _TVRI0ML6EeWVhKEGb2fz_g">
+            <methodElementProperty xmi:id="_lSMXAMQvEeWVZvuJTOqe3g" name="me_edited" value="true"/>
+            <presentation xmi:id="-n2ETMSbVreEVj0MY4H8OsQ" href="uma://-n2ETMSbVreEVj0MY4H8OsQ#-n2ETMSbVreEVj0MY4H8OsQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_S9O8cMQwEeWVZvuJTOqe3g" name="diseo_escenarios" guid="_S9O8cMQwEeWVZvuJTOqe3g" presentationName="Diseño escenarios" briefDescription="Diseño que representa como se relacionan los diversos componentes de software dado un escenario." performedBy="_13K50ML-EeWVhKEGb2fz_g _TVRI0ML6EeWVhKEGb2fz_g">
+            <methodElementProperty xmi:id="_czPYQMQwEeWVZvuJTOqe3g" name="me_edited" value="true"/>
+            <presentation xmi:id="-LkfbxCcxNisqwfuCapOQkg" href="uma://-LkfbxCcxNisqwfuCapOQkg#-LkfbxCcxNisqwfuCapOQkg"/>
           </contentElements>
         </childPackages>
       </childPackages>

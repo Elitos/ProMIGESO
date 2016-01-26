@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-p4hAkowm3r6AM7L9RUZPBw" name=",_Oy3nEMQrEeWGouYkZex_qg" guid="-p4hAkowm3r6AM7L9RUZPBw">
+  <mainDescription>&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-c1468e4d-7e02-c559-a1bc-a902b4575ab5&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 13px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
+    Esta tarea es importante para dar marcha al desarrollo del proyecto luego de definir la línea base para la iteración,&#xD;
+    se da paso a que el grupo de desarrollo trabaje en las funcionalidades planteadas. En una reunión entre los roles&#xD;
+    señalados se debe discutir los resultados de la validación de requerimientos y evaluar cuales de estos se realizarán en&#xD;
+    la iteración, luego definir la línea base sobre la cual se realizará la iteración. Además de conversar o definir los&#xD;
+    plazos para la iteración y futuras reuniones para revisiones de avance, entre otras actividades.&lt;/span>&lt;/b>&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-c1468e4d-7dfe-dd22-036c-14dc251f798c&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 13px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
+    Dejar en claro los requerimientos que se implementara en la primera iteración para no modificar esto durante esta, asu&#xD;
+    vez se definen o estiman plazos para la iteración en conjunto con el product- owner. En función del avance que se lleva&#xD;
+    del proyecto y el número de funcionalidades restantes.&lt;/span>&lt;/b>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

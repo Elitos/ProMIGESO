@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nGOWl34HyZBpV_dwa8so9Q" name=",_sDd94MQsEeWGouYkZex_qg" guid="-nGOWl34HyZBpV_dwa8so9Q" changeDate="2016-01-26T10:00:54.397-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-c1468e4d-7e09-3d74-da82-3b0e047021e1&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.296&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-c1468e4d-7e09-3d74-da82-3b0e047021e1&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 13px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    El diseño lógico es una descripción de los requisitos funcionales de un sistema. En otras palabras, es la expresión&#xD;
+    conceptual de lo que hará el sistema para resolver los problemas identificados en el análisis previo. A falta de este&#xD;
+    paso, los aspectos técnicos del sistema (como los dispositivos de hardware que deban adquirirse) con frecuencia&#xD;
+    oscurecen la solución.&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 13px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+diseño lógico traduce los escenarios de uso creados en el la realidad en un conjunto de objetos de negocio y sus servicios.&#xD;
+El diseño lógico se convierte en parte en la especificación funcional que se usa en el diseño físico. El diseño lógico es&#xD;
+independiente de la tecnología. El diseño lógico refina, organiza y detalla la solución de negocios y define formalmente&#xD;
+las reglas y políticas específicas de negocios.&lt;/span></mainDescription>
+  <purpose>&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-c1468e4d-7e06-9840-ac9e-758d2f4013c0&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 13px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
+    Conocer la lógica de negocio tras el software a desarrollar, e instanciar los diversos módulos con con que contará el&#xD;
+    software.&lt;/span>&lt;/b>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

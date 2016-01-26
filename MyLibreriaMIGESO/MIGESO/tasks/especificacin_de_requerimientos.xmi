@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-esViYZtPCkcHULtLWr5KhQ" name=",_lzwQIMQoEeWGouYkZex_qg" guid="-esViYZtPCkcHULtLWr5KhQ" changeDate="2016-01-26T09:32:46.994-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-c1468e4d-7ded-747c-edcd-fa32dc6ee7ce&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.296&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-c1468e4d-7ded-747c-edcd-fa32dc6ee7ce&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Calibri; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
+    Con cada requerimiento de la lista de requerimientos, detalla cada uno de estos en sub-requerimientos si es posible que&#xD;
+    involucren funcionalidades por separado. Definir requerimientos funcionales y no funcionales.&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br class=&quot;Apple-interchange-newline&quot; />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-c1468e4d-7deb-fdd5-5002-0cc0bb1083d6&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Calibri; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
+    Detallar a nivel de desarrollo los requerimientos del cliente.&lt;/span>&lt;/b>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

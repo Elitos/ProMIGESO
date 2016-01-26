@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-UCOI9vYYEy7M71r2LOzNKw" name=",_ktoDoMQqEeWGouYkZex_qg" guid="-UCOI9vYYEy7M71r2LOzNKw">
+  <mainDescription>&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-c1468e4d-7dfa-1551-7da0-cc4d80f9a584&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Calibri; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
+    Se concreta una reunión con los roles asociados, luego se discute cada requerimiento funcional y no funcional de la&#xD;
+    lista. Se analiza la viabilidad de cada uno y si la organización puede desarrollarlos o no. En caso de no poder&#xD;
+    desarrollar algún requerimientos se comenta con el cliente y se busca una solución o redefinir el&#xD;
+    requerimiento.&lt;/span>&lt;/b>&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-c1468e4d-7df8-3e27-1894-14233b3fcdee&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Calibri; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
+    Propósito no comprometerse son realizar requerimientos que la organización no puede llevar a cabo.&lt;/span>&lt;/b>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

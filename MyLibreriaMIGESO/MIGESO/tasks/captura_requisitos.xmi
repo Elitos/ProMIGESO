@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-c-gwDxSFhvi-qVqG9Xc8uw" name="captura_requisitos,_mfh-QML6EeWVhKEGb2fz_g" guid="-c-gwDxSFhvi-qVqG9Xc8uw" changeDate="2016-01-26T09:17:24.665-0300">
+  <mainDescription>&lt;p>&#xD;
+    Esta tarea, es una de las más &lt;strong>importantes para el éxito del proyecto&lt;/strong>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-c1468e4d-7de3-b80b-0f8a-5d9a53587276&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Calibri; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
+    Se comienza con una reunión con el product owner en la cual mediante una conversación semi-formal este último comunica&#xD;
+    al system-master las necesidades que posee y cuales son las cualidades con las que debe contar el software, a la vez&#xD;
+    que escucha debe detallar los requerimientos del cliente, a medida que tenga un requerimiento listo debe mostrarlo al&#xD;
+    cliente y asegurarse primero que el requerimiento es correcto, y segundo que se entiende lo mismo por ambas partes&#xD;
+    sobre este requerimientos. Como salida de esta tarea se genera un documento en excel o alguna herramienta que permita&#xD;
+    listar. Para generar futuras planificaciones de requerimientos.&lt;/span>&lt;/b>&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_4KdXIMQnEeWGouYkZex_qg" name="1. Concretar una reunion con product - owner" guid="_4KdXIMQnEeWGouYkZex_qg"/>
+  <sections xmi:id="_7FeWwMQnEeWGouYkZex_qg" name="2. En reunion consultar sobre necesidades y requeriemintos del cliente" guid="_7FeWwMQnEeWGouYkZex_qg"/>
+  <sections xmi:id="__QdJcMQnEeWGouYkZex_qg" name="3. Luego ir diseñando un bosquejo del sistema a impelementar" guid="__QdJcMQnEeWGouYkZex_qg"/>
+  <sections xmi:id="_B6LkwMQoEeWGouYkZex_qg" name="4. Mostrar el bosquejo al cliente y recivir retro-alimentación" guid="_B6LkwMQoEeWGouYkZex_qg"/>
+  <sections xmi:id="_FIhwEMQoEeWGouYkZex_qg" name="5. Definir los requerimientos en conjunto con el product-owner" guid="_FIhwEMQoEeWGouYkZex_qg"/>
+  <sections xmi:id="_QzHu8MQoEeWGouYkZex_qg" name="6. Los pasos 2 al 5 se pueden repetir." guid="_QzHu8MQoEeWGouYkZex_qg"/>
+  <purpose>&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-c1468e4d-7dde-bbfc-1928-897f47d57d0f&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Calibri; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
+    Formalizar la captura de requerimientos mediante un documento de requerimientos. Generar una lista para poder priorizar&#xD;
+    estos.&lt;/span>&lt;/b>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

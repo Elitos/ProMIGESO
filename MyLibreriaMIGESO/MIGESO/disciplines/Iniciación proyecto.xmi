@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-PI1uVtN9Gn7-WxpxSCWUvg" name="Iniciación proyecto,_DViXcMODEeWQoKPojk0Sew" guid="-PI1uVtN9Gn7-WxpxSCWUvg" changeDate="2016-01-26T09:04:58.916-0300">
+  <mainDescription>&lt;p style=&quot;FONT-SIZE: 120%&quot;>&#xD;
+    &lt;font face=&quot;Arial&quot;>&lt;font size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 10px; TEXT-DECORATION: none; FONT-FAMILY: Calibri; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-c1468e4d-7dd4-6a75-01ed-e1d3a5bb3132&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 13px; TEXT-DECORATION: none; FONT-FAMILY: Calibri; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
+    En esta fase se define el(los) proceso(s) que involucran la puesta en marcha del proyecto. El contracto con el cliente,&#xD;
+    el conocer sus necesidades y su propuesta, además de conocer el presupuesto con el que este cuenta para la realización&#xD;
+    del proyecto. En esta fase se debe definir uno de los roles más importantes que es el&lt;/span> &lt;span&#xD;
+    style=&quot;FONT-SIZE: 13px; TEXT-DECORATION: none; FONT-FAMILY: Calibri; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
+    Product Owner&lt;/span> &lt;span&#xD;
+    style=&quot;FONT-SIZE: 13px; TEXT-DECORATION: none; FONT-FAMILY: Calibri; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
+    .&lt;/span>&lt;/b>&lt;/span>&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

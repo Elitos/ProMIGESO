@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bIq0gbm9T4Ba0lGFnFihvQ" name=",_UsLOsMQpEeWGouYkZex_qg" guid="-bIq0gbm9T4Ba0lGFnFihvQ">
+  <mainDescription>&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-c1468e4d-7df3-5321-10c1-ca724c2d978e&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Calibri; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
+    En esta etapa de reúnen nuevamente los roles principales y discuten la prioridad de los requerimientos funcionales.&#xD;
+    Luego categorizan los requerimientos funcionales por módulos, respecto a los módulos que podría contener el software.&#xD;
+    Se produce finalmente el mismo documento de planilla pero ordenado y categorizado.&lt;/span>&lt;/b>&#xD;
+&lt;/p></mainDescription>
+  <sections xmi:id="_CzDbkMQqEeWGouYkZex_qg" name="1. Coordinar reunión" guid="_CzDbkMQqEeWGouYkZex_qg"/>
+  <sections xmi:id="_EdfkIMQqEeWGouYkZex_qg" name="2. Reunión product-owner y system-master" guid="_EdfkIMQqEeWGouYkZex_qg"/>
+  <sections xmi:id="_HQDyYMQqEeWGouYkZex_qg" name="3. Priorizar los requerimientos funcionales" guid="_HQDyYMQqEeWGouYkZex_qg"/>
+  <sections xmi:id="_Lc8pkMQqEeWGouYkZex_qg" name="4. Categorizar los requerimientos funcionales " guid="_Lc8pkMQqEeWGouYkZex_qg"/>
+  <sections xmi:id="_QskJEMQqEeWGouYkZex_qg" name="5. Producir documentos planilla de requerimientos modificado." guid="_QskJEMQqEeWGouYkZex_qg"/>
+  <purpose>&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-c1468e4d-7df1-150a-9360-c039b5570984&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Calibri; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
+    El propósito de esto es que se priorice el trabajo a realizar y entregar valor al software del cliente lo más rápido&#xD;
+    posible.&lt;/span>&lt;/b>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

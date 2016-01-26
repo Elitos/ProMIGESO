@@ -1270,4 +1270,219 @@ Todo esto queda plasmado en el &lt;strong>documento de mantenión del software.&
     - Se encarga ademas de la captura de requerimeintos por parte del product owner.&#xD;
 &lt;/p></refinedDescription>
   </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Mb2j-2lGHLOs5vJjBQZl1Q" name="captura_requisitos,_EdQ5IMMCEeWVhKEGb2fz_g" guid="-Mb2j-2lGHLOs5vJjBQZl1Q">
+    <refinedDescription>&lt;p>&#xD;
+    Esta tarea, es una de las más &lt;strong>importantes para el éxito del proyecto&lt;/strong>.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-c1468e4d-7de3-b80b-0f8a-5d9a53587276&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Calibri; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
+    Se comienza con una reunión con el product owner en la cual mediante una conversación semi-formal este último comunica&#xD;
+    al system-master las necesidades que posee y cuales son las cualidades con las que debe contar el software, a la vez&#xD;
+    que escucha debe detallar los requerimientos del cliente, a medida que tenga un requerimiento listo debe mostrarlo al&#xD;
+    cliente y asegurarse primero que el requerimiento es correcto, y segundo que se entiende lo mismo por ambas partes&#xD;
+    sobre este requerimientos. Como salida de esta tarea se genera un documento en excel o alguna herramienta que permita&#xD;
+    listar. Para generar futuras planificaciones de requerimientos.&lt;/span>&lt;/b>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-XR_MGGXbXLc5kktg9d63qw" name="Especificacion de requerimientos,_GI4tcMMCEeWVhKEGb2fz_g" guid="-XR_MGGXbXLc5kktg9d63qw">
+    <refinedDescription>&lt;b id=&quot;docs-internal-guid-c1468e4d-7ded-747c-edcd-fa32dc6ee7ce&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.296&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-c1468e4d-7ded-747c-edcd-fa32dc6ee7ce&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Calibri; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
+    Con cada requerimiento de la lista de requerimientos, detalla cada uno de estos en sub-requerimientos si es posible que&#xD;
+    involucren funcionalidades por separado. Definir requerimientos funcionales y no funcionales.&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;br class=&quot;Apple-interchange-newline&quot; />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-oJa2z-ShVcDovZmbVX_P5Q" name="Analisis Requerimientos,_ICALMMMCEeWVhKEGb2fz_g" guid="-oJa2z-ShVcDovZmbVX_P5Q">
+    <refinedDescription>&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-c1468e4d-7df3-5321-10c1-ca724c2d978e&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Calibri; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
+    En esta etapa de reúnen nuevamente los roles principales y discuten la prioridad de los requerimientos funcionales.&#xD;
+    Luego categorizan los requerimientos funcionales por módulos, respecto a los módulos que podría contener el software.&#xD;
+    Se produce finalmente el mismo documento de planilla pero ordenado y categorizado.&lt;/span>&lt;/b>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Hw58fByzJHJv7BI8zlLCKw" name="Validacion de requerimineots,_KAOycMMCEeWVhKEGb2fz_g" guid="-Hw58fByzJHJv7BI8zlLCKw">
+    <refinedDescription>&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-c1468e4d-7dfa-1551-7da0-cc4d80f9a584&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Calibri; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
+    Se concreta una reunión con los roles asociados, luego se discute cada requerimiento funcional y no funcional de la&#xD;
+    lista. Se analiza la viabilidad de cada uno y si la organización puede desarrollarlos o no. En caso de no poder&#xD;
+    desarrollar algún requerimientos se comenta con el cliente y se busca una solución o redefinir el&#xD;
+    requerimiento.&lt;/span>&lt;/b>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-uqJeWxqj5WxdV76LOBRjeA" name="developer-master,_MmjggMQrEeWGouYkZex_qg" guid="-uqJeWxqj5WxdV76LOBRjeA">
+    <refinedDescription>&lt;p>&#xD;
+    Caracteristicas:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Debe supervisar el trabajo de los desarrolladores juniors. Ademas de faciliar aprendizaque de nuevas tecnologias,&#xD;
+    definir estrategias aptas para el desarrollo de software optimo para los miembros del equipo de desarrollo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Se encarga de definir las actividades y prioridades en las que deben enfocarce los desarrolladores.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Planifica plazos de desarrollo y gestiona problemas de desarrollo. Se encarga tambien de comunicar estado del&#xD;
+    desarrollo al jefe de proyecto.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Gestiona ademas la interaccion entre los desarrolladores juniors con el product owner.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Se encarga ademas de subdifidir cada requerimientos de software en fases necesarias de desarrollo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Evalua situacion estado actual de desarrollo y redefine tecnicas o metidilogias aplicadas al proseso de desarrollo e&#xD;
+    implementacion.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Realiza asignacion de tareas y objetivos a los desarrolladores juniors.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-cnJ4DxQd64fFQ18f_F8pJA" name="Evaluacion y definicion de linea base,_MLgXMMMCEeWVhKEGb2fz_g" guid="-cnJ4DxQd64fFQ18f_F8pJA">
+    <refinedDescription>&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-c1468e4d-7e02-c559-a1bc-a902b4575ab5&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 13px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
+    Esta tarea es importante para dar marcha al desarrollo del proyecto luego de definir la línea base para la iteración,&#xD;
+    se da paso a que el grupo de desarrollo trabaje en las funcionalidades planteadas. En una reunión entre los roles&#xD;
+    señalados se debe discutir los resultados de la validación de requerimientos y evaluar cuales de estos se realizarán en&#xD;
+    la iteración, luego definir la línea base sobre la cual se realizará la iteración. Además de conversar o definir los&#xD;
+    plazos para la iteración y futuras reuniones para revisiones de avance, entre otras actividades.&lt;/span>&lt;/b>&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-gjcZOw6nJENczQenZYjAkA" name="Diseño logico,_IwJOIMMDEeWVhKEGb2fz_g" guid="-gjcZOw6nJENczQenZYjAkA">
+    <refinedDescription>&lt;b id=&quot;docs-internal-guid-c1468e4d-7e09-3d74-da82-3b0e047021e1&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.296&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-c1468e4d-7e09-3d74-da82-3b0e047021e1&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 13px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    El diseño lógico es una descripción de los requisitos funcionales de un sistema. En otras palabras, es la expresión&#xD;
+    conceptual de lo que hará el sistema para resolver los problemas identificados en el análisis previo. A falta de este&#xD;
+    paso, los aspectos técnicos del sistema (como los dispositivos de hardware que deban adquirirse) con frecuencia&#xD;
+    oscurecen la solución.&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;span&#xD;
+style=&quot;FONT-SIZE: 13px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+diseño lógico traduce los escenarios de uso creados en el la realidad en un conjunto de objetos de negocio y sus servicios.&#xD;
+El diseño lógico se convierte en parte en la especificación funcional que se usa en el diseño físico. El diseño lógico es&#xD;
+independiente de la tecnología. El diseño lógico refina, organiza y detalla la solución de negocios y define formalmente&#xD;
+las reglas y políticas específicas de negocios.&lt;/span></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-p3MABst47TJ4AQOWnlZdGg" name="Diseño fisico,_Kdp40MMDEeWVhKEGb2fz_g" guid="-p3MABst47TJ4AQOWnlZdGg">
+    <refinedDescription>&lt;SPAN style=&quot;WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; COLOR: rgb(59,56,53); TEXT-ALIGN: left; FONT: 14px/22px 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif; WIDOWS: 1; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(238,238,238); TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px&quot;>&#xD;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 8pt&quot;>&lt;FONT size=3>&lt;FONT color=#000000>&lt;SPAN lang=es-419 style=&quot;BACKGROUND: #eeeeee&quot;>&lt;FONT face=Calibri>Diseño físico traduce el diseño lógico en una solución implementable y costo-efectiva o económica. El componente es la unidad de construcción elemental del diseño físico. Las características de un componente son:&lt;/FONT>&lt;/SPAN>&lt;SPAN lang=es-419 style=&quot;FONT-FAMILY: Symbol; BACKGROUND: #eeeeee; mso-ascii-font-family: Calibri; mso-ascii-theme-font: minor-latin; mso-hansi-font-family: Calibri; mso-hansi-theme-font: minor-latin; mso-char-type: symbol; mso-symbol-font-family: Symbol&quot;>&lt;SPAN style=&quot;mso-char-type: symbol; mso-symbol-font-family: Symbol&quot;>&lt;/SPAN>&lt;/SPAN>&lt;SPAN lang=es-419 style=&quot;BACKGROUND: #eeeeee&quot;>&lt;FONT face=Calibri>Se define según cómo interactúa con otros.&lt;?xml:namespace prefix = &quot;o&quot; ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/FONT>&lt;/SPAN>&lt;/FONT>&lt;/FONT>&lt;/P>&#xD;
+&lt;P class=MsoListParagraphCxSpFirst style=&quot;MARGIN: 0cm 0cm 0pt 36pt; TEXT-INDENT: -18pt; mso-list: l0 level1 lfo1&quot;>&lt;FONT color=#000000>&lt;SPAN lang=es-419 style=&quot;FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>&lt;FONT size=3>·&lt;/FONT>&lt;SPAN style='FONT: 7pt &quot;Times New Roman&quot;'>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN lang=es-419 style=&quot;BACKGROUND: #eeeeee&quot;>&lt;FONT face=Calibri>&lt;FONT size=3>Encapsula sus funciones y sus datos&lt;o:p>&lt;/o:p>&lt;/FONT>&lt;/FONT>&lt;/SPAN>&lt;/FONT>&lt;/P>&#xD;
+&lt;P class=MsoListParagraphCxSpMiddle style=&quot;MARGIN: 0cm 0cm 0pt 36pt; TEXT-INDENT: -18pt; mso-list: l0 level1 lfo1&quot;>&lt;FONT color=#000000>&lt;SPAN lang=es-419 style=&quot;FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>&lt;FONT size=3>·&lt;/FONT>&lt;SPAN style='FONT: 7pt &quot;Times New Roman&quot;'>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN lang=es-419 style=&quot;BACKGROUND: #eeeeee&quot;>&lt;FONT face=Calibri>&lt;FONT size=3>Es reusable a través de las aplicaciones.&lt;o:p>&lt;/o:p>&lt;/FONT>&lt;/FONT>&lt;/SPAN>&lt;/FONT>&lt;/P>&#xD;
+&lt;P class=MsoListParagraphCxSpMiddle style=&quot;MARGIN: 0cm 0cm 0pt 36pt; TEXT-INDENT: -18pt; mso-list: l0 level1 lfo1&quot;>&lt;FONT color=#000000>&lt;SPAN lang=es-419 style=&quot;FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>&lt;FONT size=3>·&lt;/FONT>&lt;SPAN style='FONT: 7pt &quot;Times New Roman&quot;'>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN lang=es-419 style=&quot;BACKGROUND: #eeeeee&quot;>&lt;FONT face=Calibri>&lt;FONT size=3>Puede verse como una caja negra. &lt;o:p>&lt;/o:p>&lt;/FONT>&lt;/FONT>&lt;/SPAN>&lt;/FONT>&lt;/P>&#xD;
+&lt;P class=MsoListParagraphCxSpLast style=&quot;MARGIN: 0cm 0cm 8pt 36pt; TEXT-INDENT: -18pt; mso-list: l0 level1 lfo1&quot;>&lt;FONT color=#000000>&lt;SPAN lang=es-419 style=&quot;FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol&quot;>&lt;SPAN style=&quot;mso-list: Ignore&quot;>&lt;FONT size=3>·&lt;/FONT>&lt;SPAN style='FONT: 7pt &quot;Times New Roman&quot;'>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/SPAN>&lt;/SPAN>&lt;/SPAN>&lt;SPAN lang=es-419 style=&quot;BACKGROUND: #eeeeee&quot;>&lt;FONT size=3 face=Calibri>Puede contener otros componentes&lt;/FONT>&lt;/SPAN>&lt;/FONT>&lt;/SPAN>&lt;SPAN lang=es-419>&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P>&#xD;
+&lt;P>&lt;/SPAN>&amp;nbsp;&lt;/P></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-gBTpd1Cly_Lf1mDstkHYDg" name="developer-master,_GgDfgcQvEeWGouYkZex_qg" guid="-gBTpd1Cly_Lf1mDstkHYDg">
+    <refinedDescription>&lt;p>&#xD;
+    Caracteristicas:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Debe supervisar el trabajo de los desarrolladores juniors. Ademas de faciliar aprendizaque de nuevas tecnologias,&#xD;
+    definir estrategias aptas para el desarrollo de software optimo para los miembros del equipo de desarrollo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Se encarga de definir las actividades y prioridades en las que deben enfocarce los desarrolladores.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Planifica plazos de desarrollo y gestiona problemas de desarrollo. Se encarga tambien de comunicar estado del&#xD;
+    desarrollo al jefe de proyecto.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Gestiona ademas la interaccion entre los desarrolladores juniors con el product owner.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Se encarga ademas de subdifidir cada requerimientos de software en fases necesarias de desarrollo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Evalua situacion estado actual de desarrollo y redefine tecnicas o metidilogias aplicadas al proseso de desarrollo e&#xD;
+    implementacion.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Realiza asignacion de tareas y objetivos a los desarrolladores juniors.&#xD;
+&lt;/p></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-DKfyIM6_6ZkW1HHpB4qFzg" name="product_owner,_IqvOYcQvEeWGouYkZex_qg" guid="-DKfyIM6_6ZkW1HHpB4qFzg">
+    <refinedDescription>&lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
+&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>Caracteristicas:&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>- Puede ser interno o&#xD;
+    externo a la organizacion del cliente.&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>- Es el representante de&#xD;
+    todas las personas interesadas en los resultados del proyecto (internas o externas a la organización, promotores del&#xD;
+    proyecto y usuarios finales [idealmente también debería ser un usuario clave] o consumidores finales del producto) y&#xD;
+    actua como interlocutor único ante el equipo, con autoridad para tomar decisiones.&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>- Se encarga de definir los&#xD;
+    objetivos del producto o proyecto.&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>- Se encarga de dirigir los&#xD;
+    resultados del proyecto y maximizar su ROI (Return Of Investment).&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;div style=&quot;MARGIN-LEFT: 4em&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
+    &lt;p>&#xD;
+        &lt;b id=&quot;docs-internal-guid-0cdb6e2d-7643-43b6-c9e5-7250ac35ebe7&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;font size=&quot;2&quot;>Es el&#xD;
+        propietario de la planificación del proyecto: crea y mantiene la lista priorizada de requisitos&lt;/font>&lt;/b>&lt;font&#xD;
+        size=&quot;2&quot;>&lt;span lang=&quot;&quot;>&amp;nbsp;necesarios para cubrir los objetivos del producto o proyecto, conoce el valor que&#xD;
+        aportará cada requisito y calcula el&amp;nbsp;ROI&lt;/span>&lt;/font>&lt;font size=&quot;2&quot;>&lt;span lang=&quot;&quot;>a partir del coste de cada&#xD;
+        requisito que le proporciona el equipo&lt;/span>&lt;/font>&lt;font size=&quot;2&quot;>&lt;span lang=&quot;&quot;>.&lt;/span>&lt;/font>&#xD;
+    &lt;/p>&#xD;
+    &lt;p>&#xD;
+        &lt;font size=&quot;2&quot;>Reparte los objetivos/requisitos en iteraciones y establece un calendario de entregas.&lt;/font>&#xD;
+    &lt;/p>&#xD;
+    &lt;p>&#xD;
+        &lt;font size=&quot;2&quot;>Antes de iniciar cada iteración replanifica el proyecto&lt;/font>&lt;font size=&quot;2&quot;>&lt;span lang=&quot;&quot;>&amp;nbsp;en&#xD;
+        función de los requisitos que aportan más valor en ese momento, de los requisitos completados en la iteración&#xD;
+        anterior y del contexto del proyecto en ese momento (demandas del mercado, movimientos de la competencia,&#xD;
+        etc.).&lt;/span>&lt;/font>&#xD;
+    &lt;/p>&#xD;
+&lt;/div>&#xD;
+&lt;p>&#xD;
+    - Colabora con el equipo para planificar, revisar y dar detalle a los objetivos de cada iteración.&#xD;
+&lt;/p>&#xD;
+&lt;div style=&quot;MARGIN-LEFT: 4em&quot;>&#xD;
+    &lt;p>&#xD;
+        &lt;font size=&quot;2&quot;>Participar en la reunion de planificacion de iteracion&lt;/font>&lt;font size=&quot;2&quot;>&lt;span lang=&quot;&quot;>,&#xD;
+        proponiendo los requisitos más prioritarios a desarrollar, respondiendo a las dudas del equipo y detallando los&#xD;
+        requisitos que el equipo se comprometer a hacer.&lt;/span>&lt;/font>&#xD;
+    &lt;/p>&#xD;
+    &lt;p>&#xD;
+        &lt;font size=&quot;2&quot;>Estar disponible durante el curso de la iteración para responder a las preguntas que puedan&#xD;
+        aparecer.&lt;/font>&#xD;
+    &lt;/p>&#xD;
+    &lt;p>&#xD;
+        &lt;font size=&quot;2&quot;>&lt;span lang=&quot;&quot;>No cambiar los requisitos que se estan desarrollando en la iteración, una vez está&#xD;
+        iniciada.&lt;/span>&lt;/font>&#xD;
+    &lt;/p>&#xD;
+    &lt;p>&#xD;
+        &lt;font size=&quot;2&quot;>Participar en la reunion de demostración de la iteración&lt;/font>&lt;font size=&quot;2&quot;>&lt;span lang=&quot;&quot;>,&#xD;
+        revisando los requisitos completados.&lt;/span>&lt;/font>&#xD;
+    &lt;/p>&#xD;
+&lt;/div></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Zo8sO-FSkDjnM1k75rDbZA" name="diseo_despliegue,_TN6NgMMDEeWVhKEGb2fz_g" guid="-Zo8sO-FSkDjnM1k75rDbZA">
+    <refinedDescription>&lt;P>Desarrollar un diagrama de despliegue. Especificado en &lt;a  href=&quot;https://es.wikipedia.org/wiki/Diagrama_de_despliegue&quot; >https://es.wikipedia.org/wiki/Diagrama_de_despliegue&lt;/a>. &lt;/P>&#xD;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 8pt&quot;>&lt;SPAN lang=es-419 style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Arial&quot;,sans-serif; BACKGROUND: white; LINE-HEIGHT: 107%'>Tipo de diagrama del&lt;SPAN class=apple-converted-space>&amp;nbsp;&lt;/SPAN>&lt;/SPAN>&lt;FONT size=3 face=Calibri>Lenguaje Unificado de Modelado&lt;SPAN class=apple-converted-space>&amp;nbsp;&lt;/SPAN>que se utiliza para modelar la disposición física de los artefactos software en nodos (usualmente plataforma de&lt;SPAN class=apple-converted-space>&amp;nbsp;&lt;/SPAN>&lt;/SPAN>hardware&amp;nbsp;modela la arquitectura en tiempo de ejecución de un sistema además es un Lenguaje Unificado de Modelado que se utiliza para modelar el hardware utilizado en las implementaciones de sistemas y las relaciones entre sus componentes.&lt;/FONT>&lt;/SPAN>&lt;SPAN lang=es-419>&lt;?xml:namespace prefix = &quot;o&quot; ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/P></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="--Hk93UqxRPaEpNYaqHYx4Q" name="diseo_escenarios,_Wp3XAMMDEeWVhKEGb2fz_g" guid="--Hk93UqxRPaEpNYaqHYx4Q">
+    <refinedDescription>&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 8pt&quot;>&lt;SPAN lang=es-419 style='FONT-SIZE: 10pt; FONT-FAMILY: &quot;Arial&quot;,sans-serif; LINE-HEIGHT: 107%'>Se deben crear diagramas de escenarios como los de secuencia, que buscar representar como interactúa el sistema&amp;nbsp;y sus componentes al momento de procesar o realizar determinada acción. Se deben identificar los usuarios del software y las acciones que pueden realizar, además de definir las funciones o métodos de cada componente que se comunicaran con otros para poder realizar la función.&lt;/SPAN>&lt;/P>&lt;SPAN lang=es-419 style='FONT-SIZE: 10pt; FONT-FAMILY: &quot;Arial&quot;,sans-serif; LINE-HEIGHT: 107%'>&#xD;
+&lt;P class=MsoNormal style=&quot;MARGIN: 0cm 0cm 8pt&quot;>&lt;SPAN lang=es-419 style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Arial&quot;,sans-serif; BACKGROUND: white; COLOR: #252525; LINE-HEIGHT: 107%'>&lt;FONT size=2>Los escenarios describen secuencias de interacciones entre objetos, y entre procesos. Se utilizan para identificar y validar el diseño de arquitectura. También sirven como punto de partida para pruebas de un prototipo de arquitectura. Esta vista es también conocida como vista de&lt;SPAN class=apple-converted-space>&amp;nbsp;&lt;/SPAN>&lt;/FONT>&lt;/SPAN>&lt;/SPAN>&lt;FONT size=2>&lt;SPAN lang=es-419 style='FONT-SIZE: 10.5pt; FONT-FAMILY: &quot;Arial&quot;,sans-serif; BACKGROUND: white; LINE-HEIGHT: 107%'>casos de uso.&lt;/SPAN>&lt;SPAN lang=es-419>&lt;?xml:namespace prefix = &quot;o&quot; ns = &quot;urn:schemas-microsoft-com:office:office&quot; />&lt;o:p>&lt;/o:p>&lt;/SPAN>&lt;/FONT>&lt;/P>&lt;/SPAN>&lt;SPAN lang=es-419>&lt;o:p>&lt;/o:p>&lt;/SPAN></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
 </xmi:XMI>

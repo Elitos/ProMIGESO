@@ -111,7 +111,7 @@
             <methodElementProperty xmi:id="_jYxPYML_EeWVhKEGb2fz_g" name="me_edited" value="true"/>
             <presentation xmi:id="-1O0n4jq0PbcDwWgt0tuTxw" href="uma://-1O0n4jq0PbcDwWgt0tuTxw#-1O0n4jq0PbcDwWgt0tuTxw"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Report" xmi:id="_etOPYMOFEeWQoKPojk0Sew" name="introduccion_a_openmigeso" guid="_etOPYMOFEeWQoKPojk0Sew" presentationName="Introduccion a OpenMIGESO" briefDescription="Introcucción a OpenMIGESO....." shapeicon="guidances/reports/resources/OpenMigeso.JPG">
+          <contentElements xsi:type="org.eclipse.epf.uma:Report" xmi:id="_etOPYMOFEeWQoKPojk0Sew" name="introduccion_a_openmigeso" guid="_etOPYMOFEeWQoKPojk0Sew" presentationName="Introducción a OpenMIGESO" briefDescription="Introducción a OpenMIGESO..." shapeicon="guidances/reports/resources/OpenMigeso.JPG">
             <methodElementProperty xmi:id="_hhEQAMOFEeWQoKPojk0Sew" name="me_edited" value="true"/>
             <presentation xmi:id="-z7_LesITEwdJj6FM07Jsow" href="uma://-z7_LesITEwdJj6FM07Jsow#-z7_LesITEwdJj6FM07Jsow"/>
           </contentElements>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_zdp3AcL5EeWVhKEGb2fz_g" guid="_zdp3AcL5EeWVhKEGb2fz_g">
+    <subManagers xmi:id="_JssFEcL6EeWVhKEGb2fz_g" href="uma://_JssFAML6EeWVhKEGb2fz_g#_JssFEcL6EeWVhKEGb2fz_g"/>
+    <resourceDescriptors xmi:id="_zdzoAML5EeWVhKEGb2fz_g" id="_zdp3AML5EeWVhKEGb2fz_g" uri=""/>
+    <resourceDescriptors xmi:id="_JssFEsL6EeWVhKEGb2fz_g" id="_JssFAML6EeWVhKEGb2fz_g" uri="MIGESO/plugin.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodLibrary xmi:id="_zdp3AML5EeWVhKEGb2fz_g" name="MyLibreriaMIGESO" guid="_zdp3AML5EeWVhKEGb2fz_g">
+    <methodElementProperty xmi:id="_zeZd4ML5EeWVhKEGb2fz_g" name="library_synFree" value="true"/>
+    <methodPlugins xmi:id="_JssFAML6EeWVhKEGb2fz_g" href="uma://_JssFAML6EeWVhKEGb2fz_g#_JssFAML6EeWVhKEGb2fz_g"/>
+  </org.eclipse.epf.uma:MethodLibrary>
+</xmi:XMI>

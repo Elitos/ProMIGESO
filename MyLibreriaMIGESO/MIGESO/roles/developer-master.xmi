@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-oSqMItuz-XIu07mDnU32Ng" name="new_role,_13K50ML-EeWVhKEGb2fz_g" guid="-oSqMItuz-XIu07mDnU32Ng" changeDate="2016-01-24T22:01:34.370-0300">
+  <mainDescription>&lt;p>&#xD;
+    Caracteristicas:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Debe supervisar el trabajo de los desarrolladores juniors. Ademas de faciliar aprendizaque de nuevas tecnologias,&#xD;
+    definir estrategias aptas para el desarrollo de software optimo para los miembros del equipo de desarrollo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Se encarga de definir las actividades y prioridades en las que deben enfocarce los desarrolladores.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Planifica plazos de desarrollo y gestiona problemas de desarrollo. Se encarga tambien de comunicar estado del&#xD;
+    desarrollo al jefe de proyecto.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Gestiona ademas la interaccion entre los desarrolladores juniors con el product owner.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Se encarga ademas de subdifidir cada requerimientos de software en fases necesarias de desarrollo.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Evalua situacion estado actual de desarrollo y redefine tecnicas o metidilogias aplicadas al proseso de desarrollo e&#xD;
+    implementacion.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    - Realiza asignacion de tareas y objetivos a los desarrolladores juniors.&#xD;
+&lt;/p></mainDescription>
+  <skills>&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Experiencia laboral&lt;/b> Cantidad de años de experiencia laboral en informática. No cuentan los trabajos&#xD;
+        prácticos realizados ni trabajos dentro de otras actividades. Más de 6 años de experiencia.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Conocimientos técnicos&lt;/b> principalmente referido a las herramientas, tecnologías, lenguajes de programación,&#xD;
+        paradigmas de programación, base de datos, arquitecturas, etc. que deba utilizar para cumplir sus labores. Es&#xD;
+        referente técnico dentro del equipo. Su conocimiento le permite colaborar en definiciones arquitectónicas y&#xD;
+        desarrollar los proyectos más desafiantes. Su código funciona, es bueno y fácil de mantener.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Conocimientos funcionales&lt;/b> relacionado a los procesos, metodologías, estándares, circuitos requeridos para&#xD;
+        cumplir sus labores. Ayuda a definir procesos, metodologías, estándares y circuitos. Por supuesto cumple los&#xD;
+        existentes.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Proactividad&lt;/b> indicando si la persona espera a que le asignen sus tarea o si por el contrario toma una&#xD;
+        actitud de mayor iniciativa. No solamente recibe requerimientos, sino que los busca y genera. En muchas&#xD;
+        oportunidades es él quien le genera asignaciones nuevas a su superior.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Seguimiento requerido&lt;/b> proactivamente reporta el estado y avance de sus tareas.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Indicadores de productividad&lt;/b> Indicadores varios relacionados con el trabajo que realiza Calidad: Alta &lt;font&#xD;
+        face=&quot;Times New Roman&quot;>–&lt;/font> Productividad: Alta &lt;font face=&quot;Times New Roman&quot;>–&lt;/font> Innovación: Alta.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Cumplimiento de fechas&lt;/b> cumplimiento de las fechas de entrega pautadas. Se aplica a las tareas de análisis,&#xD;
+        desarrollos, documentación, reporting, etc. Siempre cumple. Cuando surge un desvío (inevitablemente) lo informa&#xD;
+        adecuadamente y con anticipación.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>Respuesta bajo presión&lt;/b> referido a situaciones extremas… no a la corrida semanal para cumplir con la fecha de&#xD;
+        entrega del siguiente release en producción. Le pueden pasar alguna de las siguientes cosas: Se entusiasma, se&#xD;
+        compromete, se hace cargo, se inspira e inspira a otros…&lt;br />&#xD;
+        El resultado de su trabajo en una situación de presión puede llegar a ser asombroso.&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;b>&lt;font size=&quot;2&quot; face=&quot;Arial&quot;>&lt;font size=&quot;2&quot; face=&quot;Arial&quot;>Relación interpersonal&lt;/font>&lt;/font>&lt;/b> &lt;font size=&quot;3&quot;&#xD;
+        face=&quot;Times New Roman&quot;>más allá de los conocimientos y capacidades de una persona, la habilidad de comunicarse con&#xD;
+        su entorno es fundamental para su desarrollo profesional. Es bueno comunicando, pero principalmente escuchando.&#xD;
+        Puede participar en desiciones de alto nivel y colaborar si es necesario en actividades más operativas&#xD;
+        privilegiando el resultado y la calidad de las relaciones por sobre su autoría en las ideas.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></skills>
+  <assignmentApproaches>&lt;p>&#xD;
+    Coordinación implementación funcionalidades.&#xD;
+&lt;/p></assignmentApproaches>
+  <synonyms>&lt;p>&#xD;
+    Desarrollador Senior&#xD;
+&lt;/p></synonyms>
+</org.eclipse.epf.uma:RoleDescription>

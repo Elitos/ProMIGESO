@@ -6,7 +6,7 @@
 &lt;p>&#xD;
     &lt;b id=&quot;docs-internal-guid-678b3b76-7a6d-68e0-dbbd-574ca5871c1d&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
     style=&quot;FONT-SIZE: 12px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    OpenMigeso es una cadena unificada de procesos que forman parte del ciclo de vida del software se caracterizan por ser&#xD;
+    OpenMigeso es una cadena unificada de procesos que forman parte del ciclo de vida del software, se caracterizan por ser&#xD;
     iterativos y con avances incrementales. OpenMigeso tiene un paradigma ágil pero a su vez documenta determinadas&#xD;
     situaciones en las cuales se considera necesario. Se define bajo un ambiente en el cual el número de integrantes de la&#xD;
     empresa no supere las 10 personas. Por lo cual se recomienda su uso en proyectos pequeños y medianos.&lt;/span>&lt;/b>&#xD;
@@ -19,7 +19,7 @@
 &lt;p style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-TOP: 10pt; LINE-HEIGHT: 1.08&quot; dir=&quot;ltr&quot;>&#xD;
     &lt;b id=&quot;docs-internal-guid-678b3b76-7a6c-bda1-9456-1f106ce1af30&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
     style=&quot;FONT-SIZE: 12px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    OpenMigeso está enfocado en el desarrollo incremental del proyecto generando cada incremento en cada iteración. Cada&#xD;
+    OpenMigeso está enfocado en el desarrollo incremental del proyecto generando&amp;nbsp;un incremento en cada iteración. Cada&#xD;
     iteración se enfoca en unidades de trabajo &amp;nbsp;las cuales son llevadas a cabo por diversos actores de manera&#xD;
     individual o &amp;nbsp;conjunta. El objetivo de OpenMigeso es mediante sus iteraciones y su toma de &amp;nbsp;requisitos&#xD;
     constante, adaptarse a las necesidades cambiantes del cliente. Además &amp;nbsp;de entregar valor al cliente mediante cada&#xD;
@@ -27,11 +27,11 @@
     entrega &amp;nbsp;de versiones del producto las cuales aumentan sus funcionalidades en cada &amp;nbsp;iteración. Cabe destacar&#xD;
     que el éxito del proyecto depende también en gran &amp;nbsp;medida de los integrantes de este, los roles que desempeña cada&#xD;
     individuo y las &amp;nbsp;tareas que debe realizar son esenciales para el éxito del proyecto, además de &amp;nbsp;las&#xD;
-    habilidades con las cuales debe contar. El ciclo de vida que plantea &amp;nbsp;OpenMigeso se divide en 3 fases: Iniciación&#xD;
-    proyecto, desarrollo proyecto e implantación proyecto. En cada fase del proyecto participan diferentes actores&#xD;
-    &amp;nbsp;cumpliendo determinados roles, no en todas las fases están todos los roles, &amp;nbsp;también mediante el desarrollo&#xD;
-    iterativo se busca la entrega de versiones de &amp;nbsp;software. Por ese motivo te invitamos a probar con OpenMigeso el&#xD;
-    desarrollo de tu proyecto, y que nos comuniques tu experiencia.&lt;/span>&lt;/b>&#xD;
+    habilidades con las cuales debe contar. El ciclo de vida que plantea &amp;nbsp;OpenMigeso se divide en 3 fases:&#xD;
+    &lt;strong>Iniciación proyecto, desarrollo proyecto e implantación proyecto.&lt;/strong> En cada fase del proyecto participan&#xD;
+    diferentes actores &amp;nbsp;cumpliendo determinados roles, no en todas las fases están todos los roles, &amp;nbsp;también&#xD;
+    mediante el desarrollo iterativo se busca la entrega de versiones de &amp;nbsp;software. Por ese motivo te invitamos a&#xD;
+    probar con OpenMigeso el desarrollo de tu proyecto, y que nos comuniques tu experiencia.&lt;/span>&lt;/b>&#xD;
 &lt;/p>&#xD;
 &lt;br /></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>

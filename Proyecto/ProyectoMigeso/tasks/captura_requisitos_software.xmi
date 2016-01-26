@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-IV0NW0XuGExBfIUsu7RHxg" name=",_9Ey98MLZEeWILsC3HqUKxA" guid="-IV0NW0XuGExBfIUsu7RHxg" authors="Elías González - Nicol Henriquez" changeDate="2016-01-24T17:37:00.588-0300" version="1.0">
-  <mainDescription>En etapa inicial se deben reunir el product-owner con el system-master. En esta reunion se deben comunicar los&#xD;
-requerimeintos al arquitecto para que los defina al detalle y a su vez defina la arquitectura que soportara estas&#xD;
-funcionalidades. Para esto el product owner debe señalar culaes son los requisitos por parte del cliente mediante le&#xD;
-documento caso de uso.</mainDescription>
-  <purpose>Comprender la necesidad del cliente y de que manera se puede satisfacer.</purpose>
-</org.eclipse.epf.uma:TaskDescription>

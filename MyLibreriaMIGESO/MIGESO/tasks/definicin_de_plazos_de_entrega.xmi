@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VY8fqmKL7kjhRmKCdYwK7g" name=",_FPtvoMRIEeWVZvuJTOqe3g" guid="-VY8fqmKL7kjhRmKCdYwK7g" changeDate="2016-01-26T13:18:39.147-0300">
+  <mainDescription>&lt;p>&#xD;
+    &lt;span id=&quot;docs-internal-guid-59cbdf99-7eba-f46d-5366-f4c9ec7ebae2&quot;&#xD;
+    style=&quot;FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Se determina el tiempo que cada desarrollador debe tomar en la tarea que tiene asignada y se controla que cumple con lo&#xD;
+    estipulado.&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <purpose>Objetivo permitir la entrega a plazo de las funcionalidades en codigo.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

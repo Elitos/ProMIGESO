@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-L6sOB7Yxwopua-JQHPoGjA" name=",_6SVxMMRJEeWVZvuJTOqe3g" guid="-L6sOB7Yxwopua-JQHPoGjA" changeDate="2016-01-26T13:30:11.009-0300">
+  <purpose>&lt;span id=&quot;docs-internal-guid-59cbdf99-7ec5-c6ec-db68-06877c0ec400&quot;&#xD;
+style=&quot;FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+Propósito que se cumplan los objetivos planteados, además de cumplir con plazos y metas de entrega del software&lt;/span>.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

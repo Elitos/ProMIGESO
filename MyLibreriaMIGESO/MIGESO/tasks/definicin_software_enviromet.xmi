@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-guOhs7sZ8XT3imXdtgapjg" name=",_eHgFYMREEeWVZvuJTOqe3g" guid="-guOhs7sZ8XT3imXdtgapjg" changeDate="2016-01-26T12:51:56.767-0300">
+  <mainDescription>&lt;p id=&quot;docs-internal-guid-59cbdf99-7ea8-90b2-1eab-7efe7254f21f&quot;&#xD;
+style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    En esta tarea se busca definir todas las herramientas de software que se utilizaran para el desarrollo del proyecto, y&#xD;
+    de la codificación. El objetivo e esto es automatizar procesos, además de utilizar un software adecuado para dar&#xD;
+    soporte al proyecto. Dentro de los software que se deben utilizar son:&lt;/span>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt&quot;>&#xD;
+    &lt;li&#xD;
+    style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;&#xD;
+     dir=&quot;ltr&quot;>&#xD;
+        &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+            &lt;font size=&quot;2&quot;>&lt;span&#xD;
+            style=&quot;FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+            Software control de versiones (Git, GitExtensions, ...).&lt;/span>&lt;/font>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+    &lt;li&#xD;
+    style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;&#xD;
+     dir=&quot;ltr&quot;>&#xD;
+        &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+            &lt;font size=&quot;2&quot;>&lt;span&#xD;
+            style=&quot;FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+            Framework lenguaje de programación adecuado (J2EE, Django, Ruby on Rails, ...).&lt;/span>&lt;/font>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+    &lt;li&#xD;
+    style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;&#xD;
+     dir=&quot;ltr&quot;>&#xD;
+        &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+            &lt;font size=&quot;2&quot;>&lt;span&#xD;
+            style=&quot;FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+            Software para la realización de test (Junit, ...).&lt;/span>&lt;/font>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+    &lt;li&#xD;
+    style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;&#xD;
+     dir=&quot;ltr&quot;>&#xD;
+        &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+            &lt;font size=&quot;2&quot;>&lt;span&#xD;
+            style=&quot;FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+            Software para la gestión del proyecto (Gradle, ...).&lt;/span>&lt;/font>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+    &lt;li&#xD;
+    style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;&#xD;
+     dir=&quot;ltr&quot;>&#xD;
+        &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+            &lt;font size=&quot;2&quot;>&lt;span&#xD;
+            style=&quot;FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+            Software para la integración de los componentes (Gradle, Capistrano, ...).&lt;/span>&lt;/font>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+    &lt;li&#xD;
+    style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;&#xD;
+     dir=&quot;ltr&quot;>&#xD;
+        &lt;font size=&quot;2&quot;>&lt;span&#xD;
+        style=&quot;FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+        Software para supervisar el trabajo realizado por los desarrolladores (Trello, ReportGit, ...).&lt;/span>&lt;/font>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  <purpose>&lt;p>&#xD;
+    Dejar las herramientas de trabajo habilitadas y disponibles para comenzar a codificar sin problema.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

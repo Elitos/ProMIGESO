@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qyj3vbc_dzZsxt7jGW15TA" name=",_yCKOQMRKEeWVZvuJTOqe3g" guid="-qyj3vbc_dzZsxt7jGW15TA" changeDate="2016-01-26T13:39:57.555-0300">
+  <mainDescription>&lt;p>&#xD;
+    Para obtener mas informacion sofre evaluación de rendimiento del la organización consultar:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;a href=&quot;http://www.gestiopolis.com/evaluacion-del-desempeno/&quot;>http://www.gestiopolis.com/evaluacion-del-desempeno/&lt;/a>&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br /></mainDescription>
+  <purpose>Generar estandares de calidad y medir rendimiento de los actores de la organización.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

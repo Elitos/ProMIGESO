@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-lKcres6bY7pVV_Kd4lTeTQ" name=",_K1SGcMRHEeWVZvuJTOqe3g" guid="-lKcres6bY7pVV_Kd4lTeTQ" changeDate="2016-01-26T13:10:33.370-0300">
+  <mainDescription>&lt;p id=&quot;docs-internal-guid-59cbdf99-7eb7-79ec-aa2c-1f61b3f515ee&quot;&#xD;
+style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    El developer-master es el encargado de llevar a cabo esta acción y respecto a su conocimiento sobre el grupo de trabajo&#xD;
+    debe asignar las áreas de desarrollo. Las áreas de desarrollo son las siguientes:&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;ul style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt&quot;>&#xD;
+    &lt;li&#xD;
+    style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;&#xD;
+     dir=&quot;ltr&quot;>&#xD;
+        &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+            &lt;span&#xD;
+            style=&quot;FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+            Área de Test&lt;/span>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+    &lt;li&#xD;
+    style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;&#xD;
+     dir=&quot;ltr&quot;>&#xD;
+        &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+            &lt;span&#xD;
+            style=&quot;FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+            Área de Integración&lt;/span>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+    &lt;li&#xD;
+    style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;&#xD;
+     dir=&quot;ltr&quot;>&#xD;
+        &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+            &lt;span&#xD;
+            style=&quot;FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+            Área de Codificación&lt;/span>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+    &lt;li&#xD;
+    style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;&#xD;
+     dir=&quot;ltr&quot;>&#xD;
+        &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+            &lt;span&#xD;
+            style=&quot;FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+            Área de Refactorización&lt;/span>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 14px; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    En estricto rigor los desarrolladores se pueden mover de un área a otra durante el desarrollo de la iteración, o entre&#xD;
+    iteraciones. Pero el objetivo de tener áreas es saber en que se encuentran trabajando actualmente.&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <purpose>&lt;p>&#xD;
+    Proposito entregar un orden a la organización de los desarrolladores a lo largo e la iteración.&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

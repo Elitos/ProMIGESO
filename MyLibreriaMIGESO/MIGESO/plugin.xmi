@@ -34,6 +34,13 @@
     <resourceDescriptors xmi:id="_hMvaAMQuEeWGouYkZex_qg" id="-bud9xwmRyqCG6WKtRlNHUQ" uri="tasks/diseo_fisico.xmi"/>
     <resourceDescriptors xmi:id="_lSSdoMQvEeWVZvuJTOqe3g" id="-n2ETMSbVreEVj0MY4H8OsQ" uri="tasks/diseo_despliegue.xmi"/>
     <resourceDescriptors xmi:id="_9OwoYcQwEeWVZvuJTOqe3g" id="-LkfbxCcxNisqwfuCapOQkg" uri="tasks/diseo_escenarios.xmi"/>
+    <resourceDescriptors xmi:id="_kmdQYMRFEeWVZvuJTOqe3g" id="-guOhs7sZ8XT3imXdtgapjg" uri="tasks/definicin_software_enviromet.xmi"/>
+    <resourceDescriptors xmi:id="_IA9aIsRGEeWVZvuJTOqe3g" id="-vMKmCFS79g1YwswDqTwxiQ" uri="tasks/definicion_hardware_enviroment.xmi"/>
+    <resourceDescriptors xmi:id="_1QGRQMRHEeWVZvuJTOqe3g" id="-lKcres6bY7pVV_Kd4lTeTQ" uri="tasks/definicin_areas_de_desarrollo.xmi"/>
+    <resourceDescriptors xmi:id="_YJyM8MRIEeWVZvuJTOqe3g" id="-VY8fqmKL7kjhRmKCdYwK7g" uri="tasks/definicin_de_plazos_de_entrega.xmi"/>
+    <resourceDescriptors xmi:id="_wPBSIMRJEeWVZvuJTOqe3g" id="-8EubkZq0jBrBVxoFg5UtoQ" uri="tasks/descripcion_de_test.xmi"/>
+    <resourceDescriptors xmi:id="_J2ro0MRKEeWVZvuJTOqe3g" id="-L6sOB7Yxwopua-JQHPoGjA" uri="tasks/supervicin_desarrollo.xmi"/>
+    <resourceDescriptors xmi:id="_zhZW8cRLEeWVZvuJTOqe3g" id="-qyj3vbc_dzZsxt7jGW15TA" uri="tasks/formular_medidas_de_desempeo.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_JssFAML6EeWVhKEGb2fz_g" name="MIGESO" guid="_JssFAML6EeWVhKEGb2fz_g">
     <methodElementProperty xmi:id="_Js12AML6EeWVhKEGb2fz_g" name="plugin_synFree" value="true"/>
@@ -256,6 +263,40 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_S9O8cMQwEeWVZvuJTOqe3g" name="diseo_escenarios" guid="_S9O8cMQwEeWVZvuJTOqe3g" presentationName="Diseño escenarios" briefDescription="Diseño que representa como se relacionan los diversos componentes de software dado un escenario." performedBy="_13K50ML-EeWVhKEGb2fz_g _TVRI0ML6EeWVhKEGb2fz_g">
             <methodElementProperty xmi:id="_czPYQMQwEeWVZvuJTOqe3g" name="me_edited" value="true"/>
             <presentation xmi:id="-LkfbxCcxNisqwfuCapOQkg" href="uma://-LkfbxCcxNisqwfuCapOQkg#-LkfbxCcxNisqwfuCapOQkg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_eHgFYMREEeWVZvuJTOqe3g" name="definicin_software_enviromet" guid="_eHgFYMREEeWVZvuJTOqe3g" presentationName="Definición Software enviromet" briefDescription="Tarea donde se defiine el software que se utilizara para el desarrollo del software." performedBy="_13K50ML-EeWVhKEGb2fz_g _TVRI0ML6EeWVhKEGb2fz_g" additionallyPerformedBy="_PlXLwML-EeWVhKEGb2fz_g">
+            <methodElementProperty xmi:id="_kmTfYMRFEeWVZvuJTOqe3g" name="me_edited" value="true"/>
+            <presentation xmi:id="-guOhs7sZ8XT3imXdtgapjg" href="uma://-guOhs7sZ8XT3imXdtgapjg#-guOhs7sZ8XT3imXdtgapjg"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_469EUMRFEeWVZvuJTOqe3g" name="definicion_hardware_enviroment" guid="_469EUMRFEeWVZvuJTOqe3g" presentationName="Definicion Hardware enviroment" briefDescription="Definir el hardware a utilizar para el desarrollo del proyecto." performedBy="_TVRI0ML6EeWVhKEGb2fz_g" additionallyPerformedBy="_13K50ML-EeWVhKEGb2fz_g _PlXLwML-EeWVhKEGb2fz_g">
+            <methodElementProperty xmi:id="_IA9aIMRGEeWVZvuJTOqe3g" name="me_edited" value="true"/>
+            <presentation xmi:id="-vMKmCFS79g1YwswDqTwxiQ" href="uma://-vMKmCFS79g1YwswDqTwxiQ#-vMKmCFS79g1YwswDqTwxiQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_K1SGcMRHEeWVZvuJTOqe3g" name="definicin_areas_de_desarrollo" guid="_K1SGcMRHEeWVZvuJTOqe3g" presentationName="Definición areas de desarrollo" briefDescription="Tarea que define las areas en las cuales se repartiran los Developer-full, durante la iteracion." performedBy="_13K50ML-EeWVhKEGb2fz_g" additionallyPerformedBy="_TxBecML_EeWVhKEGb2fz_g">
+            <methodElementProperty xmi:id="_1PzWUMRHEeWVZvuJTOqe3g" name="me_edited" value="true"/>
+            <presentation xmi:id="-lKcres6bY7pVV_Kd4lTeTQ" href="uma://-lKcres6bY7pVV_Kd4lTeTQ#-lKcres6bY7pVV_Kd4lTeTQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_FPtvoMRIEeWVZvuJTOqe3g" name="definicin_de_plazos_de_entrega" guid="_FPtvoMRIEeWVZvuJTOqe3g" presentationName="Definición de plazos de entrega" briefDescription="Esta definición de plazos está enfocada al trabajo que deben realizar los desarrolladores full." performedBy="_13K50ML-EeWVhKEGb2fz_g" additionallyPerformedBy="_TxBecML_EeWVhKEGb2fz_g">
+            <methodElementProperty xmi:id="_YJvJoMRIEeWVZvuJTOqe3g" name="me_edited" value="true"/>
+            <presentation xmi:id="-VY8fqmKL7kjhRmKCdYwK7g" href="uma://-VY8fqmKL7kjhRmKCdYwK7g#-VY8fqmKL7kjhRmKCdYwK7g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_2I2BsMRIEeWVZvuJTOqe3g" name="descripcion_de_test" guid="_2I2BsMRIEeWVZvuJTOqe3g" presentationName="Descripcion de test" briefDescription="El develop-master define el tipo de testing que se debe realizar durante la implementación y quienes deben escribirlos (cual desarrollador-full)." performedBy="_13K50ML-EeWVhKEGb2fz_g" additionallyPerformedBy="_TxBecML_EeWVhKEGb2fz_g">
+            <methodElementProperty xmi:id="_wO3hIMRJEeWVZvuJTOqe3g" name="me_edited" value="true"/>
+            <presentation xmi:id="-8EubkZq0jBrBVxoFg5UtoQ" href="uma://-8EubkZq0jBrBVxoFg5UtoQ#-8EubkZq0jBrBVxoFg5UtoQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_6SVxMMRJEeWVZvuJTOqe3g" name="supervicin_desarrollo" guid="_6SVxMMRJEeWVZvuJTOqe3g" presentationName="Supervición desarrollo" briefDescription="Tarea que debe llevar a cabo todo rol que tenga a cargo un grupo de personas." performedBy="_13K50ML-EeWVhKEGb2fz_g _PlXLwML-EeWVhKEGb2fz_g _TVRI0ML6EeWVhKEGb2fz_g">
+            <methodElementProperty xmi:id="_J2h30MRKEeWVZvuJTOqe3g" name="me_edited" value="true"/>
+            <presentation xmi:id="-L6sOB7Yxwopua-JQHPoGjA" href="uma://-L6sOB7Yxwopua-JQHPoGjA#-L6sOB7Yxwopua-JQHPoGjA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_XmyisMRKEeWVZvuJTOqe3g" name="codificacin" guid="_XmyisMRKEeWVZvuJTOqe3g" presentationName="Codificación" briefDescription="tarea de realizar codido bajo determinado estandares." performedBy="_TxBecML_EeWVhKEGb2fz_g">
+            <methodElementProperty xmi:id="_crWowMRKEeWVZvuJTOqe3g" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_jFmvYMRKEeWVZvuJTOqe3g" name="refactorizacin" guid="_jFmvYMRKEeWVZvuJTOqe3g" presentationName="Refactorización" briefDescription="Involucra la aplicacion de tecnicas de refactoriazación al codigo propio y la evaluación de necesidad de refactorización al codigo de los demas. " performedBy="_TxBecML_EeWVhKEGb2fz_g _13K50ML-EeWVhKEGb2fz_g">
+            <methodElementProperty xmi:id="_sQJMUMRKEeWVZvuJTOqe3g" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_yCKOQMRKEeWVZvuJTOqe3g" name="formular_medidas_de_desempeo" guid="_yCKOQMRKEeWVZvuJTOqe3g" presentationName="Formular medidas de desempeño" briefDescription="Tarea que busca medir el desempeño de loas diferentes roles dentro de la organización." performedBy="_PlXLwML-EeWVhKEGb2fz_g">
+            <methodElementProperty xmi:id="_zhQNAMRLEeWVZvuJTOqe3g" name="me_edited" value="true"/>
+            <presentation xmi:id="-qyj3vbc_dzZsxt7jGW15TA" href="uma://-qyj3vbc_dzZsxt7jGW15TA#-qyj3vbc_dzZsxt7jGW15TA"/>
           </contentElements>
         </childPackages>
       </childPackages>
